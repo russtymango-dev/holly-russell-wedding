@@ -349,6 +349,28 @@ h2 {
 }
 
 /* ========================================
+   Dress Code Section
+   ======================================== */
+
+.dress-code {
+    text-align: center;
+}
+
+.dress-code-text {
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    font-style: italic;
+    color: var(--sage);
+    margin-bottom: 12px;
+}
+
+.dress-code-note {
+    font-family: var(--font-body);
+    font-size: 1.15rem;
+    color: var(--text);
+}
+
+/* ========================================
    Gifts Section
    ======================================== */
 
@@ -396,6 +418,102 @@ h2 {
     font-weight: 500;
     color: var(--sage-dark);
     letter-spacing: 0.1em;
+}
+
+/* ========================================
+   Dietary Section
+   ======================================== */
+
+.dietary {
+    text-align: center;
+}
+
+.dietary-text {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-style: italic;
+    color: var(--text);
+    line-height: 1.7;
+    margin-bottom: 20px;
+}
+
+.dietary-text strong {
+    color: var(--sage-dark);
+    font-weight: 600;
+}
+
+.email-link {
+    display: inline-block;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--sage);
+    text-decoration: none;
+    padding: 12px 30px;
+    border: 1px solid var(--sage);
+    border-radius: 30px;
+    transition: all 0.3s ease;
+}
+
+.email-link:hover {
+    background-color: var(--sage);
+    color: var(--cream);
+}
+
+/* ========================================
+   Recovery Brunch Section
+   ======================================== */
+
+.brunch {
+    text-align: center;
+}
+
+.brunch-text {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-style: italic;
+    color: var(--text);
+    margin-bottom: 30px;
+}
+
+.brunch-details {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 15px;
+    background: var(--cream-dark);
+    padding: 30px 50px;
+    border-radius: 12px;
+    margin-bottom: 25px;
+}
+
+.brunch-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 40px;
+    align-items: center;
+}
+
+.brunch-label {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    font-weight: 500;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--text-light);
+}
+
+.brunch-value {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+}
+
+.brunch-note {
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    color: var(--text-light);
+    font-style: italic;
 }
 
 /* ========================================
