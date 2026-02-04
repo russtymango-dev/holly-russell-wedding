@@ -1,0 +1,229 @@
+/* ========================================
+   Itinerary Page Styles
+   Less flowery, more direct
+   ======================================== */
+
+.itinerary-page {
+    background-color: var(--cream);
+}
+
+.itinerary-content {
+    max-width: 800px;
+    padding: 60px 40px;
+}
+
+/* Header */
+.itinerary-header {
+    text-align: center;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid var(--sage-light);
+}
+
+.itinerary-header h1 {
+    font-family: var(--font-display);
+    font-size: 2.8rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin-bottom: 10px;
+}
+
+.itinerary-header .date {
+    font-family: var(--font-body);
+    font-size: 1.2rem;
+    color: var(--text-light);
+    letter-spacing: 0.1em;
+}
+
+/* Private Notice */
+.private-notice {
+    background: #fff3cd;
+    border: 1px solid #ffc107;
+    border-radius: 8px;
+    padding: 20px 25px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.private-notice p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: #856404;
+}
+
+.private-notice p:first-child {
+    font-size: 1rem;
+    margin-bottom: 8px;
+}
+
+/* MC Info */
+.mc-info {
+    text-align: center;
+    margin-bottom: 50px;
+    padding: 25px;
+    background: var(--cream-dark);
+    border-radius: 10px;
+}
+
+.mc-info h2 {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--text-light);
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+.mc-names {
+    font-family: var(--font-display);
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin: 0;
+}
+
+/* Timeline */
+.itinerary-timeline h2 {
+    font-family: var(--font-display);
+    font-size: 1.8rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.time-block {
+    display: grid;
+    grid-template-columns: 140px 1fr;
+    gap: 25px;
+    padding: 20px 0;
+    border-bottom: 1px solid #e8e8e8;
+}
+
+.time-block:last-child {
+    border-bottom: none;
+}
+
+.time-block .time {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--gold-muted);
+    text-align: right;
+    padding-top: 2px;
+}
+
+.time-block .details h3 {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin: 0 0 8px 0;
+}
+
+.time-block .details p {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--text);
+    margin: 0 0 6px 0;
+    line-height: 1.5;
+}
+
+.time-block .details ul {
+    margin: 8px 0;
+    padding-left: 20px;
+}
+
+.time-block .details li {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--text);
+    margin-bottom: 4px;
+}
+
+.time-block .details .note {
+    font-size: 0.9rem;
+    font-style: italic;
+    color: var(--text-light);
+}
+
+/* Highlighted blocks */
+.time-block.highlight {
+    background: var(--cream-dark);
+    margin: 0 -20px;
+    padding: 20px;
+    border-radius: 8px;
+    border-bottom: none;
+}
+
+.time-block.highlight + .time-block {
+    border-top: none;
+}
+
+/* Photo blocks */
+.time-block.photo-block {
+    background: #f0f5ed;
+    margin: 10px -20px;
+    padding: 20px;
+    border-radius: 8px;
+    border-bottom: none;
+}
+
+.time-block.photo-block .details h3 {
+    color: var(--sage);
+}
+
+/* Footer */
+.itinerary-footer {
+    text-align: center;
+    margin-top: 50px;
+    padding-top: 30px;
+    border-top: 1px solid var(--sage-light);
+}
+
+.itinerary-footer p {
+    font-family: var(--font-body);
+    font-size: 1rem;
+    color: var(--text-light);
+    margin-bottom: 15px;
+}
+
+.itinerary-footer a {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--sage);
+    text-decoration: none;
+}
+
+.itinerary-footer a:hover {
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .itinerary-content {
+        padding: 40px 25px;
+    }
+
+    .itinerary-header h1 {
+        font-size: 2rem;
+    }
+
+    .time-block {
+        grid-template-columns: 1fr;
+        gap: 8px;
+    }
+
+    .time-block .time {
+        text-align: left;
+        font-size: 0.9rem;
+    }
+
+    .time-block.highlight,
+    .time-block.photo-block {
+        margin: 10px -15px;
+        padding: 15px;
+    }
+}
+
