@@ -1,0 +1,232 @@
+/* ========================================
+   Photo Schedule Page Styles
+   ======================================== */
+
+/* Overview blocks */
+.photo-overview {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 50px;
+    flex-wrap: wrap;
+}
+
+.overview-block {
+    flex: 1;
+    min-width: 200px;
+    background: var(--cream-dark);
+    padding: 20px 25px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.overview-time {
+    display: block;
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--gold-muted);
+    margin-bottom: 5px;
+}
+
+.overview-label {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+}
+
+/* Photo sections */
+.photo-section {
+    margin-bottom: 50px;
+}
+
+.photo-section h2 {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin-bottom: 10px;
+    text-align: left;
+    border-bottom: 2px solid var(--sage-light);
+    padding-bottom: 10px;
+}
+
+.section-time {
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    font-weight: 500;
+    color: var(--gold-muted);
+    margin-bottom: 5px;
+}
+
+.section-note {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 30px;
+}
+
+/* Photo groups */
+.photo-group {
+    background: #fff;
+    border: 1px solid #e8e8e8;
+    border-radius: 10px;
+    padding: 25px;
+    margin-bottom: 20px;
+}
+
+.photo-group h3 {
+    font-family: var(--font-display);
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: var(--sage-dark);
+    margin: 0 0 20px 0;
+}
+
+.photo-group.highlight-group {
+    background: #f0f5ed;
+    border-color: var(--sage-light);
+}
+
+/* Time badge for friend groups */
+.time-badge {
+    display: inline-block;
+    background: var(--gold-muted);
+    color: white;
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    font-weight: 500;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+.time-block-group h3 {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5px;
+}
+
+/* Photo items */
+.photo-item {
+    display: flex;
+    flex-direction: column;
+    padding: 12px 0;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.photo-item:last-child {
+    border-bottom: none;
+}
+
+.photo-label {
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    font-weight: 500;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 4px;
+}
+
+.photo-people {
+    font-family: var(--font-body);
+    font-size: 1.05rem;
+    color: var(--text);
+    line-height: 1.5;
+}
+
+.photo-item.individual {
+    display: inline-block;
+    padding: 8px 15px;
+    background: var(--cream-dark);
+    border-radius: 20px;
+    margin: 5px 5px 5px 0;
+    border: none;
+}
+
+.photo-item.individual .photo-label {
+    display: none;
+}
+
+.photo-item.individual .photo-people {
+    font-size: 0.95rem;
+}
+
+/* Sub headings */
+.sub-heading {
+    font-family: var(--font-body);
+    font-size: 0.85rem;
+    font-weight: 500;
+    color: var(--text-light);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin: 20px 0 10px 0;
+}
+
+/* Photo grid for couples/individuals */
+.photo-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.photo-grid span {
+    background: var(--cream-dark);
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text);
+}
+
+/* TBC groups */
+.photo-group.tbc {
+    background: #fafafa;
+    border-style: dashed;
+}
+
+.tbc-note {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text-light);
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.photo-group.tbc ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.photo-group.tbc li {
+    font-family: var(--font-body);
+    font-size: 0.95rem;
+    color: var(--text-light);
+    margin-bottom: 5px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .photo-overview {
+        flex-direction: column;
+    }
+
+    .photo-group {
+        padding: 20px 15px;
+    }
+
+    .time-badge {
+        display: block;
+        width: fit-content;
+        margin-bottom: 8px;
+    }
+
+    .photo-item {
+        padding: 10px 0;
+    }
+}
+
