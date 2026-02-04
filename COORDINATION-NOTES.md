@@ -47,13 +47,14 @@
 | 5:50–6:20 PM | Photos with friends (schedule TBC) |
 | 6:25–6:30 PM | Ask guests to take their seats |
 | 6:35 PM | Entrée served |
-| 6:35 PM | Parents speeches (during/before entrée) |
+| 6:35 PM | Karen & Mark speech (Russell's parents) |
 | 7:10 PM | Entrée finished |
 | 7:10 PM | Speeches (groom/bridal party) |
 | 7:20 PM | Main course served |
 | 7:45 PM | Holly & Russell leave for sunset photos |
 | 8:00 PM | Finish sunset photos |
 | 8:10 PM | Return; main course cleared |
+| 8:10 PM | Kevin & Sonja speech (Holly's parents) |
 | 8:10 PM | Holly & Russell speeches (no need to return to chairs) |
 | 8:10 PM | Dessert service begins |
 | 8:20 PM | Cake cutting |
