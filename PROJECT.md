@@ -58,6 +58,7 @@ I am Russell's wedding planning assistant – helping organize, track, and coord
 ### Hidden Subpages (not linked publicly)
 *To be created as needed:*
 - `/itinerary` – Detailed day-of schedule
+- `/mc-itinerary` – MC-specific itinerary with cues and notes (Alcy & Emma)
 - `/photoshoot-schedule` – Photography timeline
 - `/vendors` – Vendor contacts and info
 - *(add more as required)*
