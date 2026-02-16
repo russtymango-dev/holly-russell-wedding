@@ -1,8 +1,8 @@
 # Holly & Russell Wedding – 4-Week Countdown Priority Plan
 
 **Wedding Date:** Saturday 7th March 2026  
-**Today:** Monday 9th February 2026  
-**Days Remaining:** 26  
+**Today:** Sunday 16th February 2026  
+**Days Remaining:** 19  
 **Honeymoon Departs:** 28th March 2026  
 
 ---
@@ -52,49 +52,31 @@
 
 ---
 
-## 🔴 WEEK 1 — THIS WEEK (Mon 9 – Sun 15 Feb)
+## ✅ WEEK 1 — COMPLETED (Mon 9 – Sun 15 Feb)
 
 *Focus: Hens weekend prep, lock in unpaid vendors, start guest RSVP chase, lodge marriage licence.*
 
-### 🎉 Hens Weekend
+### 🎉 Hens Weekend — ✅ FULLY COMPLETE
 
 **Pizza Night — Friday 13th February**
 
-- [ ] Set up the pizza oven
-- [ ] Get pizza ingredients — ask bridesmaids what toppings they want
-- [ ] Purchase additional gas bottle for pizza oven *(optional — Russell to handle)*
-- [ ] Pick up Hannah from the airport *(Friday — Holly has the day off)*
+- [x] Set up the pizza oven
+- [x] Get pizza ingredients — ask bridesmaids what toppings they want
+- [x] Purchase additional gas bottle for pizza oven *(optional — Russell to handle)*
+- [x] Pick up Hannah from the airport *(Friday — Holly has the day off)*
 
 **Hens Day — Saturday 14th February**
 
-*(Prep to be done Mon–Thu this week)*
-
 **House & Room Setup**
 
-- [ ] Prepare the back room
-- [ ] Get bedding for both beds
-- [ ] Set up bedrooms and shared spaces
-- [ ] Sleeping arrangements:
-  - Hannah — one bedroom
-  - Molly — one bedroom
-  - Emma — couch
+- [x] Prepare the back room
+- [x] Get bedding for both beds
+- [x] Set up bedrooms and shared spaces
+- [x] Sleeping arrangements completed
 
 **Hens Gift Boxes** *(one per bridesmaid)*
 
-Each gift box includes:
-- [ ] A letter (write one per person)
-- [ ] A photo of Holly & each bridesmaid
-- [ ] Hungover kit:
-  - Wipes
-  - Nurofen (from dresser)
-  - Hydralyte tablets
-  - Water
-  - Face mask
-  - Eye mask *(ordered by Russell on Amazon — confirm delivery)*
-- [ ] Alcohol:
-  - Wine / sparkling wine from the fridge
-  - For Emma: buy Moscato, or use a sweet drink from the fridge (possibly one Mary left behind)
-- [ ] Assemble and place all gift boxes in rooms/spaces before the girls arrive
+- [x] All gift boxes completed and delivered
 
 ### Payments & Confirmations
 
@@ -105,27 +87,27 @@ Each gift box includes:
 
 ### Guest Management
 
-- [ ] **🚨 Reply to photo booth people TONIGHT** – Do this before bed.
-- [ ] **Reply to other RSVPs** – Respond to all non-plus-one invite RSVPs that have come in.
-- [ ] **Confirm +1s on the invite list** – Go through the invite list and specifically confirm who is bringing a +1. This affects final numbers.
-- [ ] **Message ALL remaining guests** – Website is live. Send a message to everyone who hasn't RSVP'd. You need final numbers by **Feb 25** (16 days). Start the chase now.
-- [ ] **Start collecting dietary requirements** – Also due **Feb 25**. Include this in your guest outreach.
+- [x] **🚨 Reply to photo booth people TONIGHT** – DONE
+- [x] **Confirm +1s on the invite list** – DONE. All plus ones confirmed.
+- [x] **Message ALL remaining guests** – DONE. All remaining guests messaged.
+- [x] **Start collecting dietary requirements** – IN PROGRESS. Some received, confirming with guests.
+- [ ] **Reply to other RSVPs** – Some still outstanding (but guests have been messaged).
 - [ ] **Confirm the ~10 extra people** – This adds $2,000 to the venue bill. Nail down who these extra guests are.
 
 ### Logistics & Appointments
 
 - [ ] **Book Specsavers appointments for contact lenses:**
-  - Holly — Monday 16th Feb (after hens weekend)
+  - Holly — needs to be booked
   - Russell — also book for wedding contact lenses
-- [ ] **Take Alice shopping for a wedding dress** *(this week if possible)*
-- [ ] **Get nails done** *(around hens weekend)*
-- [ ] **Buy groomsmen's presents** *(Russell)*
+- [ ] **Take Alice shopping for a wedding dress** *(status unclear - clarify with Holly)*
+- [x] **Get nails done** — DONE
+- [x] **Buy groomsmen's presents** — DONE. Groomsmen gifts ordered.
 
 ### Planning
 
-- [ ] **Draft wedding vows** – Status is TBO. These take time and thought — start now even if rough.
-- [ ] **Finalise speech plan** – 5 speeches planned (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party). Confirm all speakers know and are preparing.
-- [ ] **MC run sheet** – MCs confirmed: **Alcy Meehan & Emma Surkitt**. Build and share the full cue sheet with them.
+- [ ] **Draft wedding vows** – ⏳ STARTING TONIGHT (Feb 16)
+- [ ] **Finalise speech plan** – ⏳ HAPPENING TONIGHT (Feb 16). 5 speeches planned (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party).
+- [ ] **MC run sheet** – ⏳ HAPPENING TONIGHT (Feb 16). MCs confirmed: **Alcy Meehan & Emma Surkitt**. Build and share the full cue sheet with them.
 
 ---
 
@@ -158,7 +140,7 @@ Each gift box includes:
 - [ ] **Choose 2 songs for register signing** – Open action from venue coordination meeting.
 - [ ] **Choose final song / exit song** – Open action.
 - [ ] **Provide song list to live musicians** – Status is TBO.
-- [ ] **Progress DJ mix / Spotify playlist** – Consider the Fiverr mix option — if ordering, do it NOW (turnaround time).
+- [x] **Progress DJ mix / Spotify playlist** – DONE. Playlist sorted and sent to DJ.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
 
 ### Fun Extras
@@ -387,4 +369,4 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 
 ---
 
-*This plan will be updated as tasks are completed. Last updated: 9th February 2026.*
+*This plan will be updated as tasks are completed. Last updated: 16th February 2026.*
