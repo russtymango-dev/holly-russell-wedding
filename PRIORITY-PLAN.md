@@ -129,6 +129,7 @@
 - [ ] **Reply to Clare** – Check if she's sent anything and respond ASAP.
 - [ ] **Contact Photographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
 - [ ] **Contact Videographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
+- [ ] **Update MC schedule** – Refine the MC run sheet for Alcy Meehan & Emma Surkitt.
 
 **Payments Due:**
 - [ ] **Pay & confirm Florist (Posies - Rachael)** – $3,400 outstanding. CRITICAL – cannot delay.
