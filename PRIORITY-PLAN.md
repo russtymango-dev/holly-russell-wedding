@@ -111,52 +111,126 @@
 
 ---
 
-## 🟠 WEEK 2 — HIGH PRIORITY (Feb 16–22)
+## 🔴 WEEK 2 — CRITICAL WEEK (Feb 16–22)
 
-*Focus: Finalise all details needed for the Feb 25 venue deadline. Pay remaining vendor balances.*
+*Focus: Final venue deadline prep (Feb 25 = 9 days away). Lock in all vendors. Complete vows & speeches.*
 
-### Hard Deadline Prep (all due Feb 25)
+**⚠️ ALL WEEK 1 INCOMPLETE ITEMS MOVED HERE AS URGENT ⚠️**
 
-- [ ] **Lock in final guest count** – Chase any remaining RSVPs aggressively. No replies = not coming.
-- [ ] **Compile dietary requirements** – From guests AND 4 vendor meals (Photographer, Videographer, Guitarist, Photo Booth attendant).
-- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan.
-- [ ] **Ceremony plan** – Processional order, witnesses, reader, reserved seating. Status is TBO — this must be done.
-- [ ] **Create final run sheet & music cue list** – Build on the existing COORDINATION-NOTES timeline.
-- [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist.
+---
 
-### Payments
+### 🗓️ TUESDAY 17th FEBRUARY
 
-- [ ] **Pay Photographer balance** – $1,750.
-- [ ] **Pay Videographer balance** – $1,750. Note: meetings to confirm and organise still TBO.
-- [ ] **Pay Celebrant balance** – $700 (John).
-- [ ] **Pay Hair Stylist balance** – $700.
-- [ ] **Pay Make Up Artist balance** – $635.
-- [ ] **Pay Dress Alterations balance** – $600. Confirm pickup date.
-- [ ] **Confirm staff/vendor meal count** – $320 (4 meals × $50, or more if extra staff).
-- [ ] **Confirm extra people cost with venue** – $2,000.
+**🔴 URGENT - DO TODAY:**
 
-### Creative & Music
+- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
+- [ ] **Meet with Guitarist** – $550 outstanding. Confirm booking, discuss song list, pay balance.
+- [ ] **Contact John (Celebrant)** – Confirm he needs to meet with Holly for signature. Lock in meeting time.
+- [ ] **Reply to Clare** – Check if she's sent anything and respond ASAP.
+- [ ] **Contact Photographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
+- [ ] **Contact Videographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
 
-- [ ] **Choose 2 songs for register signing** – Open action from venue coordination meeting.
+**Payments Due:**
+- [ ] **Pay & confirm Florist (Posies - Rachael)** – $3,400 outstanding. CRITICAL – cannot delay.
+- [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Status says "awaiting confirmation."
+- [ ] **Pay Guitarist balance** – $550 (if meeting goes ahead today).
+
+---
+
+### 🗓️ WEDNESDAY 18th FEBRUARY
+
+- [ ] **Catch up with Alice for wedding dress shopping** – (if not done yet – clarify status)
+- [ ] **Reply to any outstanding RSVPs** – Some still pending.
+- [ ] **Continue chasing dietary requirements** – From guests + 4 vendors (Photographer, Videographer, Guitarist, Photo Booth).
+- [ ] **Confirm the ~10 extra people** – This adds $2,000 to venue bill. Lock down who they are.
+
+**Payments:**
+- [ ] **Pay Marriage Licence** – $250. Check status and submit/pay immediately if not done.
+
+---
+
+### 🗓️ THURSDAY 19th FEBRUARY
+
+- [ ] **Lock in final guest count** – Chase any remaining RSVPs aggressively. No reply = not coming.
+- [ ] **Start building seating chart** – Ceremony reserved seats + reception table plan (due Feb 25).
+- [ ] **Ceremony plan** – Processional order, witnesses, reader, reserved seating. Must be finalised.
+
+**Creative:**
+- [ ] **Choose 2 songs for register signing** – Open action from venue meeting.
 - [ ] **Choose final song / exit song** – Open action.
-- [ ] **Provide song list to live musicians** – Status is TBO.
-- [x] **Progress DJ mix / Spotify playlist** – DONE. Playlist sorted and sent to DJ.
+
+---
+
+### 🗓️ FRIDAY 20th FEBRUARY
+
+- [ ] **Continue working on seating chart** – Must be ready by Feb 25.
+- [ ] **Create final run sheet & music cue list** – Build on COORDINATION-NOTES timeline (due Feb 25).
+- [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist (due Feb 25).
+
+**Beauty Bookings:**
+- [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before wedding).
+- [ ] **Book Teeth Whitening** – Schedule ASAP.
+
+---
+
+### 🗓️ WEEKEND 22-23 FEBRUARY
+
+- [ ] **Finalise wedding vows** – Started on Feb 16, must be polished and ready.
+- [ ] **Finalise speech plan** – Confirm all 5 speakers (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party) know and are preparing.
+- [ ] **Complete MC run sheet** – For Alcy Meehan & Emma Surkitt. Must be detailed and shared with them.
+- [ ] **Provide song list to live musicians** – Status TBO.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
 
-### Fun Extras
+---
 
-- [ ] **Look into wedding bidding app** – Holly suggested a fun betting/bidding app for guests at the wedding. Research options and decide if you want to set one up.
+### 🔴 HARD DEADLINES — ALL DUE BY FEB 25 (9 DAYS AWAY)
 
-### Beauty Bookings
+These MUST be submitted to Clare by Tuesday 25th February:
 
-- [ ] **Holly — Specsavers contact lens appointment** (Monday 16th Feb)
-- [ ] **Book Fake Tan appointment** – For ~March 3–4 (3–4 days before).
-- [ ] **Book Nails appointment** – For bridal party, ~March 5–6.
-- [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before).
-- [ ] **Book Facial/Body Waxing** – For ~March 2–4 (3–5 days before).
-- [ ] **Book Teeth Whitening** – Schedule ASAP.
-- [ ] **Finalise Bridal Shapewear** – Status is "in progress."
-- [ ] **Purchase Bridal Perfume** – $50. Quick task — just buy it.
+- [ ] **Final guest count**
+- [ ] **Dietary requirements** (guests + 4 vendor meals)
+- [ ] **Seating chart** (ceremony reserved seats + reception table plan)
+- [ ] **Final run sheet & music cue list**
+- [ ] **Vendor contact list with arrival times**
+- [ ] **Alphabetical guest list**
+- [ ] **Ceremony plan finalized**
+
+---
+
+### 💰 PAYMENTS OUTSTANDING THIS WEEK
+
+| # | Item | Amount | Status |
+|---|------|--------|--------|
+| 1 | Florist (Posies) | $3,400 | 🔴 PAY TUESDAY – CRITICAL |
+| 2 | Gin Bar | $1,250 | 🔴 PAY TUESDAY |
+| 3 | Guitarist | $550 | 🔴 PAY TUESDAY (after meeting) |
+| 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
+| 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
+| 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
+| 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
+| 8 | Make Up Artist | $635 | 🟡 Pay before wedding |
+| 9 | Dress Alterations | $600 | 🟡 Confirm pickup + pay |
+| 10 | Marriage Licence | $250 | 🔴 PAY WED if not done |
+
+---
+
+### 💅 BEAUTY APPOINTMENTS TO BOOK THIS WEEK
+
+- [ ] **Fake Tan** – Book for ~March 3–4 (3–4 days before)
+- [ ] **Nails (bridal party)** – Book for ~March 5–6
+- [ ] **Hair Cut/Colour** – Book for ~Feb 22–28 (1–2 weeks before)
+- [ ] **Facial/Body Waxing** – Book for ~March 2–4 (3–5 days before)
+- [ ] **Teeth Whitening** – Schedule ASAP
+
+---
+
+### 🎯 OTHER WEEK 2 TASKS
+
+- [ ] **Finalise Bridal Shapewear** – Status "in progress"
+- [ ] **Purchase Bridal Perfume** – $50. Quick task.
+- [ ] **Look into wedding bidding app** – Holly's fun idea. Research if you want to do it.
+- [ ] **Confirm staff/vendor meal count with venue** – $320 (4 meals × $50, or more)
+- [ ] **Confirm extra people cost with venue** – $2,000
 
 ---
 
