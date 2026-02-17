@@ -21,17 +21,17 @@
 
 | # | Item | Remaining | Urgency |
 |---|------|-----------|---------|
-| 1 | Florist (Posies – Rachael) | $3,400 | 🔴 Pay now to confirm |
+| 1 | ~~Florist (Posies – Rachael)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
 | 2 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding (departs 28th March) |
 | 3 | Extra people (8 guests) | $1,800 | ✅ Confirmed – due Feb 25 |
 | 4 | Photographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
 | 5 | Videographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
-| 6 | Gin Bar | $1,250 | 🔴 Pay now to confirm |
+| 6 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
 | 7 | Hair Stylist | $700 | 🟡 Before wedding |
 | 8 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
-| 9 | Make Up Artist | $635 | 🟡 Before wedding |
+| 9 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
 | 10 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
-| 11 | Live Music – Guitarist | $550 | 🔴 Confirm + pay |
+| 11 | Live Music – Guitarist | $550 | ✅ Meeting tonight - pay weekend |
 | 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
 | 13 | Dance Lessons | $340 | 🟢 Ongoing |
 | 14 | Dinners for Staff (4 × $50) | $320 | 🟡 Confirm with venue by Feb 25 |
@@ -127,6 +127,7 @@
 - [ ] **Message Holly about Alice wedding dress shopping** – Clarify if this still needs to happen.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
 - [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ (both confirmed none) + Guitarist + Photo Booth.
+- [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.
 - [ ] **Finalise speech plan** – Confirm all 5 speakers (Karen & Mark, Kevin & Sonja, Holly & Russell, Groom Party, Bridal Party) know and are preparing.
