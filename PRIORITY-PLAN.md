@@ -11,11 +11,11 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Budget (excl. Venue)** | $38,088 |
+| **Total Budget (excl. Venue)** | $38,238 |
 | **Already Paid** | $28,666 |
-| **Remaining to Pay** | $9,422 |
+| **Remaining to Pay** | $9,572 |
 | **Savings Available** | $16,000 |
-| **Surplus** | $6,578 🎉 |
+| **Surplus** | $6,428 🎉 |
 
 ### Outstanding Payments by Size
 
@@ -34,7 +34,7 @@
 | 11 | Live Music – Guitarist (Jason) | $750 | ✅ Met - pay cash/transfer closer to wedding |
 | 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
 | 13 | Dance Lessons | $340 | 🟢 Ongoing |
-| 14 | Dinners for Staff (5 × $50) | $250 | 🟡 Confirm with venue by Feb 25 |
+| 14 | Dinners for Vendors (2 × $50) | $100 | 🟡 Confirm with venue by Feb 25 |
 | 15 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
@@ -126,7 +126,7 @@
 
 - [x] **Alice wedding dress shopping** – DONE. Completed.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
-- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ (all confirmed none) + Photo Booth + 2 Social Media Capturers (names TBC).
+- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ + ~~Photo Booth~~ (all confirmed none) + 2 Social Media Capturers (names TBC).
 - [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.
@@ -168,6 +168,11 @@
 - [ ] **Polish wedding vows** – Work on them throughout the week, finalize this weekend.
 - [ ] **Provide song list to live musicians** – Status TBC.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
+
+---
+
+### 🎯 WEEK 3 TASKS (Feb 23–28)
+
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes/gifts and wrap for pass-the-parcel game.
 
 ---
@@ -176,8 +181,8 @@
 
 These MUST be submitted to Clare by Tuesday 25th February:
 
-- [x] **Final guest count** – DONE. 108 guests total.
-- [ ] **Dietary requirements** (guests + ~~photographer~~ + ~~videographer~~ + guitarist + photo booth)
+- [x] **Final guest count** – DONE. 108 guests total (includes 8 extra guests = $1,800).
+- [ ] **Dietary requirements** (guests + ~~photographer~~ + ~~videographer~~ + ~~guitarist~~ + ~~photo booth~~ + 2 social media capturers)
 - [ ] **Seating chart** (ceremony reserved seats + reception table plan) — *Working on Tues Week 3*
 - [ ] **Final run sheet & music cue list** — *Discussing with guitarist tonight, compile Friday*
 - [ ] **Vendor contact list with arrival times** — *Friday*
