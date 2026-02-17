@@ -236,6 +236,15 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 *Focus: Submit everything to the venue. Print materials. Final vendor coordination.*
 
+---
+
+### 🗓️ TUESDAY 24th FEBRUARY
+
+- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (due Feb 25).
+- [ ] **Finalize ceremony plan** – Processional order, witnesses, reader, reserved seating.
+
+---
+
 ### Venue Submissions (DUE FEB 25)
 
 - [ ] **Submit final guest numbers to Clare**
