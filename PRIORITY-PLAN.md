@@ -178,10 +178,11 @@
 
 ### 🗓️ WEEKEND 22-23 FEBRUARY
 
+- [ ] **Pay Guitarist balance** – $550 (confirmation ~1 week out from wedding)
 - [ ] **Finalise wedding vows** – Started on Feb 16, must be polished and ready.
 - [ ] **Finalise speech plan** – Confirm all 5 speakers (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party) know and are preparing.
-- [ ] **Complete MC run sheet** – For Alcy Meehan & Emma Surkitt. Must be detailed and shared with them.
-- [ ] **Provide song list to live musicians** – Status TBO.
+- [ ] **Share MC run sheet with Alcy & Emma** – Run sheet completed, needs to be sent to them.
+- [ ] **Provide song list to live musicians** – Status TBC.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
 
 ---
