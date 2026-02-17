@@ -15,7 +15,7 @@
 | **Already Paid** | $23,731 |
 | **Remaining to Pay** | $14,707 |
 | **Savings Available** | $16,000 |
-| **Shortfall to Save** | $3,377 |
+| **Shortfall to Save** | $2,507 (-$200 from reduced guests) |
 
 ### Outstanding Payments by Size
 
