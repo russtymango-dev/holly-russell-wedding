@@ -131,8 +131,6 @@
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.
 - [ ] **Finalise speech plan** – Confirm all 5 speakers (Karen & Mark, Kevin & Sonja, Holly & Russell, Groom Party, Bridal Party) know and are preparing.
 
-**Payments:**
-- [ ] **Pay Marriage Licence** – $250. Check status and submit/pay immediately if not done.
 
 ---
 
@@ -197,7 +195,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 | 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
 | 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
 | 9 | Dress Alterations | $600 | 🟡 Confirm pickup + pay |
-| 10 | Marriage Licence | $250 | 🔴 PAY WED if not done |
+| 10 | Marriage Licence | $70 | 🟢 After wedding |
 
 ---
 
