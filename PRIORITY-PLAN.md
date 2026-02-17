@@ -198,7 +198,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 | 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
 | 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
 | 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
-| 9 | Dress Alterations | $600 | 🟡 Confirm pickup + pay |
+| 9 | ~~Dress Alterations~~ | ~~$600~~ | ✅ PAID |
 | 10 | Marriage Licence | $70 | 🟢 After wedding |
 
 ---
