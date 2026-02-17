@@ -23,7 +23,7 @@
 |---|------|-----------|---------|
 | 1 | Florist (Posies – Rachael) | $3,400 | 🔴 Pay now to confirm |
 | 2 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding (departs 28th March) |
-| 3 | Extra people (~10 guests) | $2,000 | 🟡 Confirm with venue by Feb 25 |
+| 3 | Extra people (8 guests) | $1,800 | ✅ Confirmed – due Feb 25 |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm payment schedule |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm payment schedule |
 | 6 | Gin Bar | $1,250 | 🔴 Pay now to confirm |
@@ -138,7 +138,7 @@
 - [ ] **Catch up with Alice for wedding dress shopping** – (if not done yet – clarify status)
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
 - [ ] **Continue chasing dietary requirements** – From guests + 4 vendors (Photographer, Videographer, Guitarist, Photo Booth).
-- [ ] **Confirm the ~10 extra people** – This adds $2,000 to venue bill. Lock down who they are.
+- [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 
 **Payments:**
 - [ ] **Pay Marriage Licence** – $250. Check status and submit/pay immediately if not done.
@@ -157,18 +157,14 @@
 
 ---
 
-### 🗓️ THURSDAY 20th FEBRUARY
+### 🗓️ FRIDAY 20th FEBRUARY
 
+- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 - [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Confirm booking and pay.
+- [ ] **Review finances** – Check budget, remaining payments, savings progress.
 - [ ] **Continue working on seating chart** – Must be ready by Feb 25.
 - [ ] **Create final run sheet & music cue list** – Build on COORDINATION-NOTES timeline (due Feb 25).
 - [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist (due Feb 25).
-
----
-
-### 🗓️ FRIDAY 21st FEBRUARY
-
-- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 
 **Beauty Bookings:**
 - [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before wedding).
@@ -206,7 +202,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 | # | Item | Amount | Status |
 |---|------|--------|--------|
 | 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
-| 2 | Gin Bar | $1,250 | 🔴 PAY TUESDAY |
+| 2 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
 | 3 | Guitarist | $550 | 🟡 PAY ~Feb 22-23 (meeting tonight) |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
