@@ -148,6 +148,7 @@
 - [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 - [ ] **Review finances** – Check budget, remaining payments, savings progress.
 - [ ] **Ask Clare when final invoice needs to be paid** – Confirm payment deadline for venue final invoice.
+- [ ] **Start building name tags for dinner tables** – Create place cards for all 108 guests.
 - [ ] **Message Clare with all final venue information (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
