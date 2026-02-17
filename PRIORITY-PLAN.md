@@ -124,7 +124,7 @@
 
 ### 🗓️ WEDNESDAY 18th FEBRUARY
 
-- [ ] **Message Holly about Alice wedding dress shopping** – Clarify if this still needs to happen.
+- [x] **Alice wedding dress shopping** – DONE. Completed.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
 - [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ (both confirmed none) + Guitarist + Photo Booth.
 - [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
@@ -138,19 +138,22 @@
 ### 🗓️ THURSDAY 19th FEBRUARY
 
 - [x] **Lock in final guest count** – DONE. All RSVPs locked in.
+- [x] **Choose final exit song** – DONE. "Ordinary" for bride & groom exit (10:50 PM).
 - [ ] **Choose 2 songs for register signing** – Open action from venue meeting.
-- [ ] **Choose final exit song** – "Ordinary" for bride & groom exit confirmed. Any other exit song needed?
 
 ---
 
 ### 🗓️ FRIDAY 20th FEBRUARY
 
 - [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
-- [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Confirm booking and pay.
-- [ ] **Pay extra guests to venue** – $1,800 for 8 extra guests (due Feb 25).
 - [ ] **Review finances** – Check budget, remaining payments, savings progress.
-- [ ] **Create final run sheet & music cue list for Clare** – Compile from COORDINATION-NOTES, itinerary, and MC schedule into one document (due Feb 25).
-- [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist (due Feb 25).
+- [ ] **Message Clare with all final venue information (DUE FEB 25):**
+  - Pay & confirm Gin Bar ($1,250)
+  - Confirm extra guests payment ($1,800 for 8 guests)
+  - Send final guest count & dietary requirements
+  - Send final run sheet & music cue list (compile from COORDINATION-NOTES, itinerary, MC schedule)
+  - Send vendor contact list (Photographer, Videographer, Ceremony musician, Guitarist, DJ, Photo Booth, Florist)
+  - Send alphabetical guest list
 
 **Beauty Bookings:**
 - [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before wedding).
@@ -169,17 +172,17 @@
 
 ---
 
-### 🔴 HARD DEADLINES — ALL DUE BY FEB 25 (9 DAYS AWAY)
+### 🔴 HARD DEADLINES — ALL DUE BY FEB 25 (7 DAYS AWAY)
 
 These MUST be submitted to Clare by Tuesday 25th February:
 
-- [ ] **Final guest count**
-- [ ] **Dietary requirements** (guests + 4 vendor meals)
-- [ ] **Seating chart** (ceremony reserved seats + reception table plan)
-- [ ] **Final run sheet & music cue list**
-- [ ] **Vendor contact list with arrival times**
-- [ ] **Alphabetical guest list**
-- [ ] **Ceremony plan finalized**
+- [x] **Final guest count** – DONE. 110 guests (8 extra).
+- [ ] **Dietary requirements** (guests + ~~photographer~~ + ~~videographer~~ + guitarist + photo booth)
+- [ ] **Seating chart** (ceremony reserved seats + reception table plan) — *Working on Tues Week 3*
+- [ ] **Final run sheet & music cue list** — *Discussing with guitarist tonight, compile Friday*
+- [ ] **Vendor contact list with arrival times** — *Friday*
+- [ ] **Alphabetical guest list** — *Friday*
+- [ ] **Ceremony plan finalized** — *Working on Tues Week 3*
 
 ---
 
