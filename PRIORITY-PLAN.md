@@ -130,7 +130,7 @@
 - [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.
-- [ ] **Finalise speech plan** – Confirm all 5 speakers (Karen & Mark, Kevin & Sonja, Holly & Russell, Groom Party, Bridal Party) know and are preparing.
+- [ ] **Finalise speech plan** – Confirm all 4 speeches (Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell) are prepared.
 
 
 ---
