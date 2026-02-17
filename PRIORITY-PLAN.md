@@ -198,7 +198,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 |---|------|--------|--------|
 | 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
 | 2 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
-| 3 | Guitarist | $550 | 🟡 PAY ~Feb 22-23 (meeting tonight) |
+| 3 | Guitarist (Jason) | $750 | 🟡 PAY ~Feb 22-23 (cash/transfer) |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
@@ -244,12 +244,9 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 ### Venue Submissions (DUE FEB 25)
 
-- [ ] **Submit final guest numbers to Clare**
-- [ ] **Submit dietary requirements to Clare**
-- [ ] **Submit final floor plan & seating chart**
-- [ ] **Submit final run sheet & music cue list**
-- [ ] **Submit vendor list with contacts & arrival times**
-- [ ] **Submit alphabetical guest list**
+*Most items handled on Friday 20th Feb - see Week 2*
+
+- [ ] **Submit final floor plan & seating chart** – Built on Tuesday 24th
 - [ ] **Sign third-party cake disclaimer** (Holly's friend's cake)
 
 ### Print & Produce
@@ -261,10 +258,10 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 ### Vendor Coordination
 
-- [ ] **Confirm all vendor arrival times** – All vendors bump-in after 12pm, no later than 3pm on March 7.
-- [ ] **Get Clare's phone number** – Open action.
+- [ ] **Confirm all vendor arrival times** – All vendors bump-in after 12pm, no later than 3pm on March 7. *(In vendor list for Clare - Friday)*
+- [x] **Get Clare's phone number** – DONE.
 - [ ] **Discuss linen with Rachael (Posies)** – Open action for Holly.
-- [ ] **Confirm what florals are included with venue** – Clare / Posies to clarify.
+- [x] **Confirm what florals are included with venue** – DONE.
 - [ ] **Confirm wet weather photo location** – Open action.
 
 ### Remaining Tasks
@@ -276,7 +273,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance. Booked and deposit paid — organise collection.
 - [ ] **Honeymoon remaining activities** – $2,800 remaining. Flights and accommodation deposits paid. Honeymoon starts 28th March — can finalise after the wedding.
 - [ ] **Setup recovery day** – Purchase food, let people know, ensure house is ready. Status is TBO.
-- [ ] **Provide friends photo schedule** (5:50–6:20pm) – Open action.
+- [x] **Provide friends photo schedule** – DONE. Created at /photo-schedule
 
 ### Beauty Appointments (this week)
 
@@ -365,18 +362,18 @@ These are flagged from the meeting with Clare and **all need resolving before Fe
 |---|--------|-------|--------|
 | 1 | Confirm rehearsal time with John | Russell | ✅ Confirmed — 4:45pm Thu 5th March |
 | 2 | Choose 2 songs for register signing | Holly & Russell | ⏳ |
-| 3 | Confirm final song / exit song | Holly & Russell | ⏳ |
-| 4 | Confirm gin bar details with Clare | Russell | ⏳ |
-| 5 | Confirm 2× entrée options | Holly & Russell | ⏳ |
-| 6 | Get dietary requirements from 4 vendors | Russell | ⏳ |
-| 7 | Get all vendor contact details | Russell | ⏳ |
-| 8 | Provide friends photo schedule (5:50–6:20pm) | Russell | ⏳ |
+| 3 | Confirm final song / exit song | Holly & Russell | ✅ "Ordinary" confirmed |
+| 4 | Confirm gin bar details with Clare | Russell | ⏳ Confirming Fri 20th |
+| 5 | Confirm 2× entrée options | Holly & Russell | ✅ Done |
+| 6 | Get dietary requirements from vendors | Russell | ✅ All confirmed none (only 2 social media TBC) |
+| 7 | Get all vendor contact details | Russell | ⏳ Compiling for Clare Fri 20th |
+| 8 | Provide friends photo schedule | Russell | ✅ Done - /photo-schedule |
 | 9 | Confirm wet weather photo location | Russell / Clare | ⏳ |
-| 10 | Get Clare's phone number | Russell | ⏳ |
-| 11 | Provide vendor list to Clare | Russell | ⏳ |
-| 12 | Provide alphabetical guest list to Clare | Russell | ⏳ |
+| 10 | Get Clare's phone number | Russell | ✅ Done |
+| 11 | Provide vendor list to Clare | Russell | ⏳ Sending Fri 20th |
+| 12 | Provide alphabetical guest list to Clare | Russell | ⏳ Sending Fri 20th |
 | 13 | Discuss linen with Rachael | Holly | ⏳ |
-| 14 | Confirm what florals included with venue | Clare / Posies | ⏳ |
+| 14 | Confirm what florals included with venue | Clare / Posies | ✅ Done |
 | 15 | Sign 3rd party cake disclaimer | Holly & Russell | ⏳ |
 
 ---
@@ -385,7 +382,7 @@ These are flagged from the meeting with Clare and **all need resolving before Fe
 
 | Metric | Count |
 |--------|-------|
-| **Total Invited** | ~106 |
+| **Total Invited** | 108 |
 | **Extra Cost Guests** | $0 currently |
 | **Letters Still to Send** | Russell: 19, Shared: 10, Holly: 30 |
 | **RSVPs Received** | *Tracking needed* |
