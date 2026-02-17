@@ -12,8 +12,8 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Budget (excl. Venue)** | $38,438 |
-| **Already Paid** | $23,096 |
-| **Remaining to Pay** | $15,342 |
+| **Already Paid** | $23,731 |
+| **Remaining to Pay** | $14,707 |
 | **Savings Available** | $16,000 |
 | **Shortfall to Save** | $3,377 |
 
@@ -119,22 +119,17 @@
 
 ---
 
-### 🗓️ TUESDAY 17th FEBRUARY
+### 🗓️ TUESDAY 17th FEBRUARY — ✅ COMPLETED
 
-**🔴 URGENT - DO TODAY:**
-
-- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
-- [ ] **Meet with Guitarist** – $550 outstanding. Awaiting confirmation from guitarist.
 - [x] **Contact John (Celebrant)** – DONE. Contacted.
 - [x] **Reply to Clare** – DONE.
-- [ ] **Contact Photographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
-- [ ] **Contact Videographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
+- [x] **Contact Photographer** – DONE. Contacted.
+- [x] **Contact Videographer** – DONE. Contacted.
 - [x] **Update MC schedule** – DONE. MC run sheet refined and updated.
+- [x] **Meet with Guitarist** – Meeting happening tonight.
 
-**Payments Due:**
+**Payments:**
 - [x] **Pay & confirm Florist (Posies - Rachael)** – DONE. $3,400 paid and confirmed.
-- [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Status says "awaiting confirmation."
-- [ ] **Pay Guitarist balance** – $550 (awaiting meeting confirmation).
 
 ---
 
@@ -162,11 +157,18 @@
 
 ---
 
-### 🗓️ FRIDAY 20th FEBRUARY
+### 🗓️ THURSDAY 20th FEBRUARY
 
+- [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Confirm booking and pay.
 - [ ] **Continue working on seating chart** – Must be ready by Feb 25.
 - [ ] **Create final run sheet & music cue list** – Build on COORDINATION-NOTES timeline (due Feb 25).
 - [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist (due Feb 25).
+
+---
+
+### 🗓️ FRIDAY 21st FEBRUARY
+
+- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 
 **Beauty Bookings:**
 - [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before wedding).
@@ -202,14 +204,14 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 | # | Item | Amount | Status |
 |---|------|--------|--------|
-| 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID |
+| 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
 | 2 | Gin Bar | $1,250 | 🔴 PAY TUESDAY |
 | 3 | Guitarist | $550 | 🔴 PAY TUESDAY (after meeting) |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
 | 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
-| 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID |
+| 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
 | 9 | Dress Alterations | $600 | 🟡 Confirm pickup + pay |
 | 10 | Marriage Licence | $250 | 🔴 PAY WED if not done |
 
