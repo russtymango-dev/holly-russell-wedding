@@ -11,9 +11,9 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Budget (excl. Venue)** | $38,438 |
+| **Total Budget (excl. Venue)** | $38,238 |
 | **Already Paid** | $23,731 |
-| **Remaining to Pay** | $14,707 |
+| **Remaining to Pay** | $14,507 |
 | **Savings Available** | $16,000 |
 | **Shortfall to Save** | $2,507 (-$200 from reduced guests) |
 
