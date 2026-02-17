@@ -47,20 +47,19 @@
 | 5:50–6:20 PM | Photos with friends (schedule TBC) |
 | 6:25–6:30 PM | Ask guests to take their seats |
 | 6:35 PM | Entrée served |
-| 6:35 PM | Karen & Mark speech (Russell's parents) |
+| Following 6:35 | Groom & Bridal Party speech |
 | 7:10 PM | Entrée finished |
-| 7:10 PM | Speeches (groom/bridal party) |
+| 7:10 PM | Karen & Mark speech (Russell's parents) |
 | 7:20 PM | Main course served |
 | 7:45 PM | Holly & Russell leave for sunset photos |
 | 8:00 PM | Finish sunset photos |
 | 8:10 PM | Return; main course cleared |
 | 8:10 PM | Kevin & Sonja speech (Holly's parents) |
-| 8:10 PM | Holly & Russell speeches (no need to return to chairs) |
-| 8:10 PM | Dessert service begins |
-| 8:20 PM | Cake cutting |
-| 8:25–8:30 PM | First dance |
-| After first dance | Father-daughter dance (Sonja singing) |
-| 8:35 PM | Dance floor opens for everyone |
+| 8:10 PM | Holly & Russell speeches (introduced by Kevin & Sonja) |
+| 8:20 PM | Dessert service begins |
+| 8:30 PM | First dance (Holly & Russell) |
+| After first dance | Father-daughter & mother-son dance (Sonja singing) |
+| 8:40 PM | Dance floor opens for everyone |
 | 10:50 PM | Final dance |
 | 10:55 PM | Final announcement – guests to leave |
 | 11:00 PM | Wrap up; music ends |
