@@ -34,7 +34,7 @@
 | 11 | Live Music – Guitarist | $550 | ✅ Meeting tonight - pay weekend |
 | 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
 | 13 | Dance Lessons | $340 | 🟢 Ongoing |
-| 14 | Dinners for Staff (4 × $50) | $320 | 🟡 Confirm with venue by Feb 25 |
+| 14 | Dinners for Staff (3 × $50) | $150 | 🟡 Confirm with venue by Feb 25 |
 | 15 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
@@ -126,7 +126,7 @@
 
 - [x] **Alice wedding dress shopping** – DONE. Completed.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
-- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ (both confirmed none) + Guitarist + Photo Booth.
+- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ (all confirmed none) + Photo Booth.
 - [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.

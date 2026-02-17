@@ -135,12 +135,12 @@ Clare needs names and contact details for:
 - Confetti/petals: Clare to confirm – may attract cleanup fee
 
 ### Vendor Meals
-- **4 vendor meals** at $50 each = $200
-- Photographer
-- Videographer
-- Guitarist
+- **3 vendor meals** at $50 each = $150
+- ~~Photographer~~ (none)
+- ~~Videographer~~ (none)
+- ~~Guitarist (Jason)~~ (not staying for dinner)
 - Photo Booth attendant
-- ⚠️ **ACTION: Confirm dietary requirements for these 4**
+- ⚠️ **ACTION: Confirm dietary requirements from Photo Booth attendant**
 
 ---
 
