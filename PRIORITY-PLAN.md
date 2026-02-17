@@ -207,7 +207,7 @@ These MUST be submitted to Clare by Tuesday 25th February:
 |---|------|--------|--------|
 | 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
 | 2 | Gin Bar | $1,250 | 🔴 PAY TUESDAY |
-| 3 | Guitarist | $550 | 🔴 PAY TUESDAY (after meeting) |
+| 3 | Guitarist | $550 | 🟡 PAY ~Feb 22-23 (meeting tonight) |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
