@@ -11,11 +11,11 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Budget (excl. Venue)** | $38,058 |
+| **Total Budget (excl. Venue)** | $37,888 |
 | **Already Paid** | $28,666 |
-| **Remaining to Pay** | $9,392 |
+| **Remaining to Pay** | $9,222 |
 | **Savings Available** | $16,000 |
-| **Surplus** | $6,608 🎉 |
+| **Surplus** | $6,778 🎉 |
 
 ### Outstanding Payments by Size
 
