@@ -12,8 +12,8 @@
 | Metric | Amount |
 |--------|--------|
 | **Total Budget (excl. Venue)** | $38,438 |
-| **Already Paid** | $19,061 |
-| **Remaining to Pay** | $19,377 |
+| **Already Paid** | $23,096 |
+| **Remaining to Pay** | $15,342 |
 | **Savings Available** | $16,000 |
 | **Shortfall to Save** | $3,377 |
 
@@ -124,17 +124,17 @@
 **🔴 URGENT - DO TODAY:**
 
 - [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
-- [ ] **Meet with Guitarist** – $550 outstanding. Confirm booking, discuss song list, pay balance.
-- [ ] **Contact John (Celebrant)** – Confirm he needs to meet with Holly for signature. Lock in meeting time.
-- [ ] **Reply to Clare** – Check if she's sent anything and respond ASAP.
+- [ ] **Meet with Guitarist** – $550 outstanding. Awaiting confirmation from guitarist.
+- [x] **Contact John (Celebrant)** – DONE. Contacted.
+- [x] **Reply to Clare** – DONE.
 - [ ] **Contact Photographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
 - [ ] **Contact Videographer** – Confirm details, payment schedule ($1,750 balance), arrival time for March 7.
-- [ ] **Update MC schedule** – Refine the MC run sheet for Alcy Meehan & Emma Surkitt.
+- [x] **Update MC schedule** – DONE. MC run sheet refined and updated.
 
 **Payments Due:**
-- [ ] **Pay & confirm Florist (Posies - Rachael)** – $3,400 outstanding. CRITICAL – cannot delay.
+- [x] **Pay & confirm Florist (Posies - Rachael)** – DONE. $3,400 paid and confirmed.
 - [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Status says "awaiting confirmation."
-- [ ] **Pay Guitarist balance** – $550 (if meeting goes ahead today).
+- [ ] **Pay Guitarist balance** – $550 (awaiting meeting confirmation).
 
 ---
 
@@ -202,14 +202,14 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 | # | Item | Amount | Status |
 |---|------|--------|--------|
-| 1 | Florist (Posies) | $3,400 | 🔴 PAY TUESDAY – CRITICAL |
+| 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID |
 | 2 | Gin Bar | $1,250 | 🔴 PAY TUESDAY |
 | 3 | Guitarist | $550 | 🔴 PAY TUESDAY (after meeting) |
 | 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
 | 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
 | 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
-| 8 | Make Up Artist | $635 | 🟡 Pay before wedding |
+| 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID |
 | 9 | Dress Alterations | $600 | 🟡 Confirm pickup + pay |
 | 10 | Marriage Licence | $250 | 🔴 PAY WED if not done |
 
