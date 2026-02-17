@@ -135,10 +135,12 @@
 
 ### 🗓️ WEDNESDAY 18th FEBRUARY
 
-- [ ] **Catch up with Alice for wedding dress shopping** – (if not done yet – clarify status)
+- [ ] **Message Holly about Alice wedding dress shopping** – Clarify if this still needs to happen.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
-- [ ] **Continue chasing dietary requirements** – From guests + 4 vendors (Photographer, Videographer, Guitarist, Photo Booth).
+- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ (both confirmed none) + Guitarist + Photo Booth.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
+- [ ] **Draft wedding vows** – These take time and thought — work on them this week.
+- [ ] **Finalise speech plan** – Confirm all 5 speakers (Karen & Mark, Kevin & Sonja, Holly & Russell, Groom Party, Bridal Party) know and are preparing.
 
 **Payments:**
 - [ ] **Pay Marriage Licence** – $250. Check status and submit/pay immediately if not done.
@@ -147,13 +149,9 @@
 
 ### 🗓️ THURSDAY 19th FEBRUARY
 
-- [ ] **Lock in final guest count** – Chase any remaining RSVPs aggressively. No reply = not coming.
-- [ ] **Start building seating chart** – Ceremony reserved seats + reception table plan (due Feb 25).
-- [ ] **Ceremony plan** – Processional order, witnesses, reader, reserved seating. Must be finalised.
-
-**Creative:**
+- [x] **Lock in final guest count** – DONE. All RSVPs locked in.
 - [ ] **Choose 2 songs for register signing** – Open action from venue meeting.
-- [ ] **Choose final song / exit song** – Open action.
+- [ ] **Choose final exit song** – "Ordinary" for bride & groom exit confirmed. Any other exit song needed?
 
 ---
 
@@ -161,9 +159,9 @@
 
 - [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 - [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Confirm booking and pay.
+- [ ] **Pay extra guests to venue** – $1,800 for 8 extra guests (due Feb 25).
 - [ ] **Review finances** – Check budget, remaining payments, savings progress.
-- [ ] **Continue working on seating chart** – Must be ready by Feb 25.
-- [ ] **Create final run sheet & music cue list** – Build on COORDINATION-NOTES timeline (due Feb 25).
+- [ ] **Create final run sheet & music cue list for Clare** – Compile from COORDINATION-NOTES, itinerary, and MC schedule into one document (due Feb 25).
 - [ ] **Compile vendor contact list for Clare** – Photographer, Videographer, Ceremony musician, Cocktail guitarist, DJ, Photo Booth, Florist (due Feb 25).
 
 **Beauty Bookings:**
@@ -175,9 +173,9 @@
 ### 🗓️ WEEKEND 22-23 FEBRUARY
 
 - [ ] **Pay Guitarist balance** – $550 (confirmation ~1 week out from wedding)
-- [ ] **Finalise wedding vows** – Started on Feb 16, must be polished and ready.
-- [ ] **Finalise speech plan** – Confirm all 5 speakers (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party) know and are preparing.
-- [ ] **Share MC run sheet with Alcy & Emma** – Run sheet completed, needs to be sent to them.
+- [x] **MC run sheet** – DONE. Completed and detailed.
+- [ ] **Share MC run sheet with Alcy & Emma** – Send completed run sheet to MCs.
+- [ ] **Polish wedding vows** – Work on them throughout the week, finalize this weekend.
 - [ ] **Provide song list to live musicians** – Status TBC.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
 
