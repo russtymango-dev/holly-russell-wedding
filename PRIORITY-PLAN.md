@@ -11,11 +11,11 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Budget (excl. Venue)** | $37,888 |
+| **Total Budget (excl. Venue)** | $38,088 |
 | **Already Paid** | $28,666 |
-| **Remaining to Pay** | $9,222 |
+| **Remaining to Pay** | $9,422 |
 | **Savings Available** | $16,000 |
-| **Surplus** | $6,778 🎉 |
+| **Surplus** | $6,578 🎉 |
 
 ### Outstanding Payments by Size
 
@@ -31,10 +31,10 @@
 | 8 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
 | 9 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
 | 10 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
-| 11 | Live Music – Guitarist | $550 | ✅ Meeting tonight - pay weekend |
+| 11 | Live Music – Guitarist (Jason) | $750 | ✅ Met - pay cash/transfer closer to wedding |
 | 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
 | 13 | Dance Lessons | $340 | 🟢 Ongoing |
-| 14 | Dinners for Staff (3 × $50) | $150 | 🟡 Confirm with venue by Feb 25 |
+| 14 | Dinners for Staff (5 × $50) | $250 | 🟡 Confirm with venue by Feb 25 |
 | 15 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
@@ -126,7 +126,7 @@
 
 - [x] **Alice wedding dress shopping** – DONE. Completed.
 - [ ] **Reply to any outstanding RSVPs** – Some still pending.
-- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ (all confirmed none) + Photo Booth.
+- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ (all confirmed none) + Photo Booth + 2 Social Media Capturers (names TBC).
 - [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
 - [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
 - [ ] **Draft wedding vows** – These take time and thought — work on them this week.
@@ -163,12 +163,12 @@
 
 ### 🗓️ WEEKEND 22-23 FEBRUARY
 
-- [ ] **Pay Guitarist balance** – $550 (confirmation ~1 week out from wedding)
 - [x] **MC run sheet** – DONE. Completed and detailed.
 - [ ] **Share MC run sheet with Alcy & Emma** – Send completed run sheet to MCs.
 - [ ] **Polish wedding vows** – Work on them throughout the week, finalize this weekend.
 - [ ] **Provide song list to live musicians** – Status TBC.
 - [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
+- [ ] **Set up wedding pass-the-parcel** – Purchase prizes/gifts and wrap for pass-the-parcel game.
 
 ---
 
@@ -176,7 +176,7 @@
 
 These MUST be submitted to Clare by Tuesday 25th February:
 
-- [x] **Final guest count** – DONE. 110 guests (8 extra).
+- [x] **Final guest count** – DONE. 108 guests total.
 - [ ] **Dietary requirements** (guests + ~~photographer~~ + ~~videographer~~ + guitarist + photo booth)
 - [ ] **Seating chart** (ceremony reserved seats + reception table plan) — *Working on Tues Week 3*
 - [ ] **Final run sheet & music cue list** — *Discussing with guitarist tonight, compile Friday*
