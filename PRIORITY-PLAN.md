@@ -148,7 +148,7 @@
 - [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
 - [ ] **Review finances** – Check budget, remaining payments, savings progress.
 - [ ] **Ask Clare when final invoice needs to be paid** – Confirm payment deadline for venue final invoice.
-- [ ] **Start building name tags for dinner tables** – Create place cards for all 108 guests.
+- [ ] **Design & start building name tags and menus** – Create place cards for all 108 guests. Design dinner menus and canapé menu.
 - [ ] **Message Clare with all final venue information (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
@@ -252,10 +252,9 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 ### Print & Produce
 
-- [ ] **Finish & print table name cards** – In progress on Canva. Must be done and physically ready.
-- [ ] **Finish & print table menu cards** – In progress on Canva. Note: add ribbons manually after printing.
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
+- [ ] **Print name tags and menus** – Finish designs on Friday, print early Week 3. Add ribbons to menus manually after printing.
 
 ### Vendor Coordination
 
