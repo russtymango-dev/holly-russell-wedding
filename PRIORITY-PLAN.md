@@ -24,21 +24,21 @@
 | 1 | Florist (Posies – Rachael) | $3,400 | 🔴 Pay now to confirm |
 | 2 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding (departs 28th March) |
 | 3 | Extra people (8 guests) | $1,800 | ✅ Confirmed – due Feb 25 |
-| 4 | Photographer (balance) | $1,750 | 🟡 Confirm payment schedule |
-| 5 | Videographer (balance) | $1,750 | 🟡 Confirm payment schedule |
+| 4 | Photographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
+| 5 | Videographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
 | 6 | Gin Bar | $1,250 | 🔴 Pay now to confirm |
 | 7 | Hair Stylist | $700 | 🟡 Before wedding |
 | 8 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
 | 9 | Make Up Artist | $635 | 🟡 Before wedding |
-| 10 | Bridal Wedding Dress Alterations | $600 | 🟡 Collect + pay |
+| 10 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
 | 11 | Live Music – Guitarist | $550 | 🔴 Confirm + pay |
 | 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
 | 13 | Dance Lessons | $340 | 🟢 Ongoing |
 | 14 | Dinners for Staff (4 × $50) | $320 | 🟡 Confirm with venue by Feb 25 |
-| 15 | 2nd Dress | $300 | 🟡 Before wedding |
+| 15 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
-| 18 | Marriage Licence | $250 | 🔴 Must submit ASAP |
+| 18 | Marriage Licence | $70 | 🟢 After wedding - low priority |
 | 19 | Bridal Party Outfit – Molly | $152 | 🟡 Before wedding |
 | 20 | Nails | $150 | 🟢 Book for week of wedding |
 | 21 | Fake Tan | $100 | 🟢 Book for 3–4 days before |
@@ -78,36 +78,25 @@
 
 - [x] All gift boxes completed and delivered
 
-### Payments & Confirmations
+### Payments & Confirmations ✅
 
-- [ ] **Pay & confirm Florist** – Posies (Rachael) – $3,400 outstanding. Cannot leave this any longer; florals need lead time.
-- [ ] **Pay & confirm Gin Bar** – $1,250 outstanding. Status says "awaiting confirmation — to be paid."
-- [ ] **Meet & confirm Live Music – Guitarist** – $550. Note says "60 minutes, just need to meet person." Schedule this meeting THIS WEEK.
-- [ ] **Marriage Licence** – $250. Status is "in progress." Check what's outstanding and submit/pay immediately — processing can take time.
+- [x] **Pay & confirm Florist** – DONE (Feb 17). Posies (Rachael) $3,400 paid.
+- [x] **Pay makeup artist** – DONE (Feb 17). $635 paid.
+- [x] **Groomsmen gifts** – DONE. Ordered.
+- [x] **DJ Playlist** – DONE. Sorted and sent to DJ.
 
-### Guest Management
+*(Remaining items moved to Week 2)*
 
-- [x] **🚨 Reply to photo booth people TONIGHT** – DONE
-- [x] **Confirm +1s on the invite list** – DONE. All plus ones confirmed.
-- [x] **Message ALL remaining guests** – DONE. All remaining guests messaged.
-- [x] **Start collecting dietary requirements** – IN PROGRESS. Some received, confirming with guests.
-- [ ] **Reply to other RSVPs** – Some still outstanding (but guests have been messaged).
-- [ ] **Confirm the ~10 extra people** – This adds $2,000 to the venue bill. Nail down who these extra guests are.
+### Guest Management ✅
 
-### Logistics & Appointments
+- [x] **Reply to photo booth people** – DONE
+- [x] **Confirm +1s** – DONE
+- [x] **Message ALL remaining guests** – DONE
+- [x] **Lock in all RSVPs** – DONE (Feb 17)
+- [x] **Confirm extra people** – DONE. 8 guests = $1,800
+- [x] **Start collecting dietary requirements** – IN PROGRESS
 
-- [ ] **Book Specsavers appointments for contact lenses:**
-  - Holly — needs to be booked
-  - Russell — also book for wedding contact lenses
-- [ ] **Take Alice shopping for a wedding dress** *(status unclear - clarify with Holly)*
-- [x] **Get nails done** — DONE
-- [x] **Buy groomsmen's presents** — DONE. Groomsmen gifts ordered.
-
-### Planning
-
-- [ ] **Draft wedding vows** – ⏳ STARTING TONIGHT (Feb 16)
-- [ ] **Finalise speech plan** – ⏳ HAPPENING TONIGHT (Feb 16). 5 speeches planned (Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party).
-- [ ] **MC run sheet** – ⏳ HAPPENING TONIGHT (Feb 16). MCs confirmed: **Alcy Meehan & Emma Surkitt**. Build and share the full cue sheet with them.
+*(Remaining items moved to Week 2)*
 
 ---
 
