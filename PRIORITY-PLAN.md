@@ -197,7 +197,7 @@
 
 ### Remaining Tasks
 
-- [ ] **Bridal Party Outfit – Emma** – Status TBC
+- [x] **Bridal Party Outfit – Emma** – DONE ✅
 - [ ] **Bridal Party Outfit – Hannah** – $250 outstanding
 - [ ] **Bridal Party Outfit – Molly** – $152 outstanding
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery arrival
