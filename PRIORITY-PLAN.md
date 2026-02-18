@@ -37,8 +37,8 @@
 | 14 | Dance Lessons | $270 | 🟢 Ongoing – next 25th Feb |
 | 15 | Vendor Dinners (2 × $50) | $100 | 🟡 Confirm with venue by Feb 25 |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
-| 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
-| 18 | Bridal Party Outfit – Molly | $152 | 🟡 Before wedding |
+| 17 | Reimburse Hannah (outfit) | $250 | 🟡 Before wedding |
+| 18 | Reimburse Molly (outfit) | $152 | 🟡 Before wedding |
 | 19 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Design Friday, print Week 3 |
 | 20 | Nails | $150 | 🟢 Book for ~March 5–6 |
 | 21 | Fake Tan | $100 | 🟢 Book for ~March 3–4 |
@@ -139,6 +139,7 @@
 - [ ] **Finalise speech plan – confirm all speakers are prepared**
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Finalise wedding morning playlist**
+- [x] **DJ Mix** – PAID. Delivery expected Friday 20th Feb.
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Bridal shapewear** – Finalise if not done
 - [ ] **Purchase bridal perfume** – $50
@@ -198,8 +199,8 @@
 ### Remaining Tasks
 
 - [x] **Bridal Party Outfit – Emma** – DONE ✅
-- [ ] **Bridal Party Outfit – Hannah** – $250 outstanding
-- [ ] **Bridal Party Outfit – Molly** – $152 outstanding
+- [ ] **Reimburse Hannah** – $250 (she paid for her own outfit, we owe her)
+- [ ] **Reimburse Molly** – $152 (she paid for her own outfit, we owe her)
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery arrival
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
@@ -307,7 +308,7 @@
 
 ## Items Completed ✅
 
-Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked & paid), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled – Sonja/Kev + Karen/Mark), Website, Photo Schedule, Itinerary, MC Run Sheet, Order of the Day, DJ Playlist, Groomsmen Gifts, Florist Paid, Makeup Paid.
+Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah, Emma), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked & paid), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled – Sonja/Kev + Karen/Mark), Ceremony Musician (cancelled), Pet Handler (N/A – Jinx stays home), Website, Photo Schedule, Itinerary, MC Run Sheet, Order of the Day, DJ Playlist (sent to DJ), DJ Mix (paid – delivery Fri 20th), Groomsmen Gifts, Florist Paid, Makeup Paid, Exit Song ("Ordinary" confirmed).
 
 ---
 
