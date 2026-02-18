@@ -35,7 +35,7 @@
 | 12 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
 | 13 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked – arrange pickup |
 | 14 | Dance Lessons | $270 | 🟢 Ongoing – next 25th Feb |
-| 15 | Vendor Dinners (2 × $50) | $100 | 🟡 Confirm with venue by Feb 25 |
+| 15 | Vendor Dinner (1 × $50) | $50 | 🟡 Confirm with venue by Feb 25 |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Reimburse Hannah (outfit) | $250 | 🟡 Before wedding |
 | 18 | Reimburse Molly (outfit) | $152 | 🟡 Before wedding |
