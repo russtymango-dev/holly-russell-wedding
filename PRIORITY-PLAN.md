@@ -105,7 +105,8 @@
   - Kevin & Sonja (Holly's parents)
   - Holly & Russell
 - [ ] **Message Clare – send final numbers & dietary requirements**
-- [ ] **Continue chasing dietary requirements** – ~~Photographer, Videographer, Guitarist, Photo Booth all confirmed none.~~ 1 Social Media Capturer remaining (one left, chasing).
+- [ ] **Email Clare a copy of the organizer run sheet** – Send hollyandrussellwedding.xyz/organizer-runsheet
+- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer remaining (still chasing)
 - [ ] **Choose 2 songs for register signing**
 
 ---
@@ -114,12 +115,12 @@
 
 - [ ] **Specsavers appointments** – Book for Holly & Russell
 - [ ] **Review finances**
-- [ ] **Ask Clare when final invoice is due**
+- [x] **Ask Clare when final invoice is due** – DONE
 - [ ] **Design & start building name tags and menus** – Place cards for 108 guests, dinner menus, canapé menu
 - [ ] **Message Clare – one big submission (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
-  - Confirm vendor dinners (2 × $50 = $100)
+  - Confirm vendor dinner (1 × $50 = $50)
   - Send final guest count & dietary requirements
   - Send final run sheet & music cue list
   - Send vendor contact list with arrival times
@@ -137,23 +138,19 @@
 ### 🗓️ WEEKEND 22-23 FEBRUARY
 
 - [x] MC run sheet – DONE
-- [ ] **Share MC run sheet with Alcy & Emma**
-- [ ] **Polish and finalise wedding vows**
+- [x] **Share MC run sheet with Alcy & Emma** – DONE
+- [ ] **Polish and finalise wedding vows** – Holly & Russell
 - [ ] **Finalise speech plan – confirm all speakers are prepared**
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Finalise wedding morning playlist**
 - [x] **DJ Mix** – PAID. Delivery expected Friday 20th Feb.
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Bridal shapewear** – Finalise if not done
 - [ ] **Purchase bridal perfume** – $50
 - [ ] **Look into wedding bidding app**
 
----
-
-### 🔴 HARD DEADLINES — DUE BY FEB 25 (7 DAYS)
-
+**🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests (8 extra = $1,800)
-- [ ] **Dietary requirements** – Guests + 1 Social Media Capturer (1 person left, still chasing)
+- [ ] **Dietary requirements** – 1 Social Media Capturer (still chasing)
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
 - [ ] **Vendor contact list with arrival times**
@@ -208,6 +205,8 @@
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
 - [ ] **Setup recovery brunch** – Food, let people know, house ready
+
+---
 
 ---
 
