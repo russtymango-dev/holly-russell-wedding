@@ -85,17 +85,12 @@
 
 ---
 
-### 🗓️ WEDNESDAY 18th FEBRUARY
+### 🗓️ WEDNESDAY 18th FEBRUARY — ✅ COMPLETED
 
-- [ ] **Reply to any outstanding RSVPs**
-- [ ] **Continue chasing dietary requirements** – Guests + 2 Social Media Capturers (names TBC). ~~Photographer, Videographer, Guitarist, Photo Booth all confirmed none.~~
-- [ ] **Message Clare – send final numbers & dietary requirements so far**
-- [ ] **Draft wedding vows** – Start tonight
-- [ ] **Finalise speech plan** – Confirm all 4 speeches are prepared:
-  - Groom & Bridal Party (collective)
-  - Karen & Mark (Russell's parents)
-  - Kevin & Sonja (Holly's parents)
-  - Holly & Russell
+- [x] **Reply to all outstanding RSVPs** – DONE. All RSVPs confirmed.
+- [x] **Russell's wedding vows** – DONE. Russell's vows drafted.
+- [ ] ~~Message Clare – send final numbers~~ – Deferred to Thursday
+- [ ] ~~Speech plan~~ – Deferred to Thursday
 
 ---
 
@@ -103,6 +98,14 @@
 
 - [x] Final guest count locked in – 108 guests
 - [x] Exit song confirmed – "Ordinary" (Bride & Groom exit at 10:50 PM)
+- [ ] **Holly drafts her wedding vows**
+- [ ] **Finalise speech plan** – Confirm all 4 speeches are prepared:
+  - Groom & Bridal Party (collective)
+  - Karen & Mark (Russell's parents)
+  - Kevin & Sonja (Holly's parents)
+  - Holly & Russell
+- [ ] **Message Clare – send final numbers & dietary requirements**
+- [ ] **Continue chasing dietary requirements** – ~~Photographer, Videographer, Guitarist, Photo Booth all confirmed none.~~ 1 Social Media Capturer remaining (one left, chasing).
 - [ ] **Choose 2 songs for register signing**
 
 ---
@@ -150,7 +153,7 @@
 ### 🔴 HARD DEADLINES — DUE BY FEB 25 (7 DAYS)
 
 - [x] **Final guest count** – 108 guests (8 extra = $1,800)
-- [ ] **Dietary requirements** – Guests + 2 Social Media Capturers
+- [ ] **Dietary requirements** – Guests + 1 Social Media Capturer (1 person left, still chasing)
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
 - [ ] **Vendor contact list with arrival times**
