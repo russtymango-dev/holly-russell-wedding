@@ -1,8 +1,8 @@
-# Holly & Russell Wedding – 4-Week Countdown Priority Plan
+# Holly & Russell Wedding – Priority Plan
 
 **Wedding Date:** Saturday 7th March 2026  
-**Today:** Sunday 16th February 2026  
-**Days Remaining:** 19  
+**Today:** Wednesday 18th February 2026  
+**Days Remaining:** 17  
 **Honeymoon Departs:** 28th March 2026  
 
 ---
@@ -17,309 +17,225 @@
 | **Savings Available** | $16,000 |
 | **Surplus** | $6,428 🎉 |
 
-### Outstanding Payments by Size
+### Outstanding Payments
 
-| # | Item | Remaining | Urgency |
-|---|------|-----------|---------|
+| # | Item | Amount | Status |
+|---|------|--------|--------|
 | 1 | ~~Florist (Posies – Rachael)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
-| 2 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding (departs 28th March) |
-| 3 | Extra people (8 guests) | $1,800 | ✅ Confirmed – due Feb 25 |
-| 4 | Photographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
-| 5 | Videographer (balance) | $1,750 | ✅ Contacted (Feb 17) - schedule payment |
-| 6 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
-| 7 | Hair Stylist | $700 | 🟡 Before wedding |
-| 8 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
-| 9 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
-| 10 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
-| 11 | Live Music – Guitarist (Jason) | $750 | ✅ Met - pay cash/transfer closer to wedding |
-| 12 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked & deposit paid – arrange pickup |
-| 13 | Dance Lessons | $340 | 🟢 Ongoing |
-| 14 | Dinners for Vendors (2 × $50) | $100 | 🟡 Confirm with venue by Feb 25 |
-| 15 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
+| 2 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
+| 3 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
+| 4 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
+| 5 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding |
+| 6 | Extra guests (8 people) | $1,800 | 🟡 Pay via Clare by Feb 25 |
+| 7 | Photographer (balance) | $1,750 | 🟡 Contacted Feb 17 – schedule payment |
+| 8 | Videographer (balance) | $1,750 | 🟡 Contacted Feb 17 – schedule payment |
+| 9 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
+| 10 | Hair Stylist | $700 | 🟡 Before wedding |
+| 11 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
+| 12 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
+| 13 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked – arrange pickup |
+| 14 | Dance Lessons | $270 | 🟢 Ongoing – next 25th Feb |
+| 15 | Vendor Dinners (2 × $50) | $100 | 🟡 Confirm with venue by Feb 25 |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Bridal Party Outfit – Hannah | $250 | 🟡 Before wedding |
-| 18 | Marriage Licence | $70 | 🟢 After wedding - low priority |
-| 19 | Bridal Party Outfit – Molly | $152 | 🟡 Before wedding |
-| 20 | Nails | $150 | 🟢 Book for week of wedding |
-| 21 | Fake Tan | $100 | 🟢 Book for 3–4 days before |
-| 22 | Facial/Body Waxing | $100 | 🟢 Book for 3–5 days before |
-| 23 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Finish designs + print |
-| 24 | Bridal Perfume | $50 | 🟢 Purchase anytime |
-| 25 | Hair Cut/Colour | $40 | 🟢 Book for 1–2 weeks before |
-| 26 | Teeth Whitening | $40 | 🟢 Schedule soon |
-
-**Total Outstanding: $19,377**
+| 18 | Bridal Party Outfit – Molly | $152 | 🟡 Before wedding |
+| 19 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Design Friday, print Week 3 |
+| 20 | Nails | $150 | 🟢 Book for ~March 5–6 |
+| 21 | Fake Tan | $100 | 🟢 Book for ~March 3–4 |
+| 22 | Facial/Body Waxing | $100 | 🟢 Book for ~March 2–4 |
+| 23 | Bridal Perfume | $50 | 🟢 Purchase anytime |
+| 24 | Hair Cut/Colour | $40 | 🟢 Book for ~Feb 22–28 |
+| 25 | Teeth Whitening | $40 | 🟢 Schedule ASAP |
+| 26 | Marriage Licence | $70 | 🟢 After wedding – low priority |
 
 ---
 
 ## ✅ WEEK 1 — COMPLETED (Mon 9 – Sun 15 Feb)
 
-*Focus: Hens weekend prep, lock in unpaid vendors, start guest RSVP chase, lodge marriage licence.*
-
-### 🎉 Hens Weekend — ✅ FULLY COMPLETE
-
-**Pizza Night — Friday 13th February**
-
-- [x] Set up the pizza oven
-- [x] Get pizza ingredients — ask bridesmaids what toppings they want
-- [x] Purchase additional gas bottle for pizza oven *(optional — Russell to handle)*
-- [x] Pick up Hannah from the airport *(Friday — Holly has the day off)*
-
-**Hens Day — Saturday 14th February**
-
-**House & Room Setup**
-
-- [x] Prepare the back room
-- [x] Get bedding for both beds
-- [x] Set up bedrooms and shared spaces
-- [x] Sleeping arrangements completed
-
-**Hens Gift Boxes** *(one per bridesmaid)*
-
-- [x] All gift boxes completed and delivered
-
-### Payments & Confirmations ✅
-
-- [x] **Pay & confirm Florist** – DONE (Feb 17). Posies (Rachael) $3,400 paid.
-- [x] **Pay makeup artist** – DONE (Feb 17). $635 paid.
-- [x] **Groomsmen gifts** – DONE. Ordered.
-- [x] **DJ Playlist** – DONE. Sorted and sent to DJ.
-
-*(Remaining items moved to Week 2)*
-
-### Guest Management ✅
-
-- [x] **Reply to photo booth people** – DONE
-- [x] **Confirm +1s** – DONE
-- [x] **Message ALL remaining guests** – DONE
-- [x] **Lock in all RSVPs** – DONE (Feb 17)
-- [x] **Confirm extra people** – DONE. 8 guests = $1,800
-- [x] **Start collecting dietary requirements** – IN PROGRESS
-
-*(Remaining items moved to Week 2)*
+### Done ✅
+- [x] Hens weekend (pizza night, hens day, house setup, gift boxes)
+- [x] Florist (Posies) paid – $3,400
+- [x] Makeup Artist paid – $635
+- [x] DJ playlist sorted and sent
+- [x] Groomsmen gifts ordered
+- [x] Photo booth people replied to
+- [x] All +1s confirmed on invite list
+- [x] All remaining guests messaged
+- [x] All RSVPs locked in (108 guests)
+- [x] Extra people confirmed – 8 guests = $1,800
+- [x] Dietary requirements collection started
 
 ---
 
-## 🔴 WEEK 2 — CRITICAL WEEK (Feb 16–22)
+## 🔴 WEEK 2 — CRITICAL (Feb 16–22)
 
-*Focus: Final venue deadline prep (Feb 25 = 9 days away). Lock in all vendors. Complete vows & speeches.*
-
-**⚠️ ALL WEEK 1 INCOMPLETE ITEMS MOVED HERE AS URGENT ⚠️**
+*Focus: Clare submission by Feb 25. Lock in vendors. Vows & speeches.*
 
 ---
 
 ### 🗓️ TUESDAY 17th FEBRUARY — ✅ COMPLETED
 
-- [x] **Contact John (Celebrant)** – DONE. Contacted.
-- [x] **Reply to Clare** – DONE.
-- [x] **Contact Photographer** – DONE. Contacted.
-- [x] **Contact Videographer** – DONE. Contacted.
-- [x] **Update MC schedule** – DONE. MC run sheet refined and updated.
-- [x] **Meet with Guitarist** – Meeting happening tonight.
-
-**Payments:**
-- [x] **Pay & confirm Florist (Posies - Rachael)** – DONE. $3,400 paid and confirmed.
+- [x] Contact John (Celebrant)
+- [x] Reply to Clare
+- [x] Contact Photographer
+- [x] Contact Videographer
+- [x] Update MC schedule
+- [x] Meet with Guitarist (Jason)
+- [x] Alice wedding dress shopping
 
 ---
 
 ### 🗓️ WEDNESDAY 18th FEBRUARY
 
-- [x] **Alice wedding dress shopping** – DONE. Completed.
-- [ ] **Reply to any outstanding RSVPs** – Some still pending.
-- [ ] **Continue chasing dietary requirements** – From guests + ~~Photographer~~ + ~~Videographer~~ + ~~Guitarist (Jason)~~ + ~~Photo Booth~~ (all confirmed none) + 2 Social Media Capturers (names TBC).
-- [ ] **Message Clare - final numbers & dietary requirements** – Send confirmed guest count and dietary requirements collected so far.
-- [x] **Confirm extra people** – DONE. 8 extra guests = $1,800 to venue bill.
-- [ ] **Draft wedding vows** – These take time and thought — work on them this week.
-- [ ] **Finalise speech plan** – Confirm all 4 speeches (Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell) are prepared.
-
+- [ ] **Reply to any outstanding RSVPs**
+- [ ] **Continue chasing dietary requirements** – Guests + 2 Social Media Capturers (names TBC). ~~Photographer, Videographer, Guitarist, Photo Booth all confirmed none.~~
+- [ ] **Message Clare – send final numbers & dietary requirements so far**
+- [ ] **Draft wedding vows** – Start tonight
+- [ ] **Finalise speech plan** – Confirm all 4 speeches are prepared:
+  - Groom & Bridal Party (collective)
+  - Karen & Mark (Russell's parents)
+  - Kevin & Sonja (Holly's parents)
+  - Holly & Russell
 
 ---
 
 ### 🗓️ THURSDAY 19th FEBRUARY
 
-- [x] **Lock in final guest count** – DONE. All RSVPs locked in.
-- [x] **Choose final exit song** – DONE. "Ordinary" for bride & groom exit (10:50 PM).
-- [ ] **Choose 2 songs for register signing** – Open action from venue meeting.
+- [x] Final guest count locked in – 108 guests
+- [x] Exit song confirmed – "Ordinary" (Bride & Groom exit at 10:50 PM)
+- [ ] **Choose 2 songs for register signing**
 
 ---
 
 ### 🗓️ FRIDAY 20th FEBRUARY
 
-- [ ] **Specsavers appointments** – Book for both Holly & Russell (contact lenses for wedding)
-- [ ] **Review finances** – Check budget, remaining payments, savings progress.
-- [ ] **Ask Clare when final invoice needs to be paid** – Confirm payment deadline for venue final invoice.
-- [ ] **Design & start building name tags and menus** – Create place cards for all 108 guests. Design dinner menus and canapé menu.
-- [ ] **Message Clare with all final venue information (DUE FEB 25):**
+- [ ] **Specsavers appointments** – Book for Holly & Russell
+- [ ] **Review finances**
+- [ ] **Ask Clare when final invoice is due**
+- [ ] **Design & start building name tags and menus** – Place cards for 108 guests, dinner menus, canapé menu
+- [ ] **Message Clare – one big submission (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
+  - Confirm vendor dinners (2 × $50 = $100)
   - Send final guest count & dietary requirements
-  - Send final run sheet & music cue list (compile from COORDINATION-NOTES, itinerary, MC schedule)
-  - Send vendor contact list (Photographer, Videographer, Ceremony musician, Guitarist, DJ, Photo Booth, Florist)
+  - Send final run sheet & music cue list
+  - Send vendor contact list with arrival times
   - Send alphabetical guest list
 
 **Beauty Bookings:**
-- [ ] **Book Hair Cut/Colour** – For ~Feb 22–28 (1–2 weeks before wedding).
-- [ ] **Book Teeth Whitening** – Schedule ASAP.
+- [ ] Book Fake Tan – ~March 3–4
+- [ ] Book Nails (bridal party) – ~March 5–6
+- [ ] Book Hair Cut/Colour – ~Feb 22–28
+- [ ] Book Facial/Body Waxing – ~March 2–4
+- [ ] Book Teeth Whitening – ASAP
 
 ---
 
 ### 🗓️ WEEKEND 22-23 FEBRUARY
 
-- [x] **MC run sheet** – DONE. Completed and detailed.
-- [ ] **Share MC run sheet with Alcy & Emma** – Send completed run sheet to MCs.
-- [ ] **Polish wedding vows** – Work on them throughout the week, finalize this weekend.
-- [ ] **Provide song list to live musicians** – Status TBC.
-- [ ] **Finalise wedding morning playlist** – For getting-ready vibes on the day.
+- [x] MC run sheet – DONE
+- [ ] **Share MC run sheet with Alcy & Emma**
+- [ ] **Polish and finalise wedding vows**
+- [ ] **Finalise speech plan – confirm all speakers are prepared**
+- [ ] **Provide song list to Jason (guitarist)**
+- [ ] **Finalise wedding morning playlist**
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
+- [ ] **Bridal shapewear** – Finalise if not done
+- [ ] **Purchase bridal perfume** – $50
+- [ ] **Look into wedding bidding app**
 
 ---
 
-### 🎯 WEEK 3 TASKS (Feb 23–28)
+### 🔴 HARD DEADLINES — DUE BY FEB 25 (7 DAYS)
 
-- [ ] **Set up wedding pass-the-parcel** – Purchase prizes/gifts and wrap for pass-the-parcel game.
-
----
-
-### 🔴 HARD DEADLINES — ALL DUE BY FEB 25 (7 DAYS AWAY)
-
-These MUST be submitted to Clare by Tuesday 25th February:
-
-- [x] **Final guest count** – DONE. 108 guests total (includes 8 extra guests = $1,800).
-- [ ] **Dietary requirements** (guests + ~~photographer~~ + ~~videographer~~ + ~~guitarist~~ + ~~photo booth~~ + 2 social media capturers)
-- [ ] **Seating chart** (ceremony reserved seats + reception table plan) — *Working on Tues Week 3*
-- [ ] **Final run sheet & music cue list** — *Discussing with guitarist tonight, compile Friday*
-- [ ] **Vendor contact list with arrival times** — *Friday*
-- [ ] **Alphabetical guest list** — *Friday*
-- [ ] **Ceremony plan finalized** — *Working on Tues Week 3*
-
----
-
-### 💰 PAYMENTS OUTSTANDING THIS WEEK
-
-| # | Item | Amount | Status |
-|---|------|--------|--------|
-| 1 | ~~Florist (Posies)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
-| 2 | Gin Bar | $1,250 | 🟡 PAY FRIDAY 20th |
-| 3 | Guitarist (Jason) | $750 | 🟡 PAY ~Feb 22-23 (cash/transfer) |
-| 4 | Photographer (balance) | $1,750 | 🟡 Confirm schedule this week |
-| 5 | Videographer (balance) | $1,750 | 🟡 Confirm schedule this week |
-| 6 | Celebrant (John - balance) | $700 | 🟡 Pay before wedding |
-| 7 | Hair Stylist | $700 | 🟡 Pay before wedding |
-| 8 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
-| 9 | ~~Dress Alterations~~ | ~~$600~~ | ✅ PAID |
-| 10 | Marriage Licence | $70 | 🟢 After wedding |
-
----
-
-### 💅 BEAUTY APPOINTMENTS TO BOOK THIS WEEK
-
-- [ ] **Fake Tan** – Book for ~March 3–4 (3–4 days before)
-- [ ] **Nails (bridal party)** – Book for ~March 5–6
-- [ ] **Hair Cut/Colour** – Book for ~Feb 22–28 (1–2 weeks before)
-- [ ] **Facial/Body Waxing** – Book for ~March 2–4 (3–5 days before)
-- [ ] **Teeth Whitening** – Schedule ASAP
-
----
-
-### 🎯 OTHER WEEK 2 TASKS
-
-- [ ] **Finalise Bridal Shapewear** – Status "in progress"
-- [ ] **Purchase Bridal Perfume** – $50. Quick task.
-- [ ] **Look into wedding bidding app** – Holly's fun idea. Research if you want to do it.
-- [ ] **Confirm staff/vendor meal count with venue** – $320 (4 meals × $50, or more)
-- [ ] **Confirm extra people cost with venue** – $2,000
+- [x] **Final guest count** – 108 guests (8 extra = $1,800)
+- [ ] **Dietary requirements** – Guests + 2 Social Media Capturers
+- [ ] **Seating chart** – Ceremony reserved seats + reception table plan
+- [ ] **Final run sheet & music cue list**
+- [ ] **Vendor contact list with arrival times**
+- [ ] **Alphabetical guest list**
+- [ ] **Ceremony plan** – Processional order, witnesses, reader
 
 ---
 
 ## 🟡 WEEK 3 — FINAL SUBMISSIONS (Feb 23–28)
 
-*Focus: Submit everything to the venue. Print materials. Final vendor coordination.*
+*Focus: Submit everything to Clare. Print materials. Final coordination.*
 
 ---
 
 ### 🗓️ TUESDAY 24th FEBRUARY
 
-- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (due Feb 25).
-- [ ] **Finalize ceremony plan** – Processional order, witnesses, reader, reserved seating.
+- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan
+- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
+- [ ] **Dance lesson** – Wednesday 25th Feb at 8:30 AM
 
 ---
 
 ### Venue Submissions (DUE FEB 25)
 
-*Most items handled on Friday 20th Feb - see Week 2*
-
-- [ ] **Submit final floor plan & seating chart** – Built on Tuesday 24th
+- [ ] **Submit seating chart & floor plan**
 - [ ] **Sign third-party cake disclaimer** (Holly's friend's cake)
+
+---
 
 ### Print & Produce
 
+- [ ] **Print name tags and menus** – Designs done Friday, print early this week. Add ribbons to menus after printing.
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
-- [ ] **Print name tags and menus** – Finish designs on Friday, print early Week 3. Add ribbons to menus manually after printing.
+
+---
 
 ### Vendor Coordination
 
-- [ ] **Confirm all vendor arrival times** – All vendors bump-in after 12pm, no later than 3pm on March 7. *(In vendor list for Clare - Friday)*
-- [x] **Get Clare's phone number** – DONE.
-- [ ] **Discuss linen with Rachael (Posies)** – Open action for Holly.
-- [x] **Confirm what florals are included with venue** – DONE.
-- [ ] **Confirm wet weather photo location** – Open action.
+- [ ] **Confirm all vendor arrival times** – After 12pm, no later than 3pm on March 7
+- [ ] **Discuss linen with Rachael (Posies)**
+- [ ] **Confirm wet weather photo location**
+
+---
 
 ### Remaining Tasks
 
-- [ ] **Bridal Party Outfit – Emma** – Status is "in progress." Must be finalised.
-- [ ] **Bridal Party Outfit – Hannah** – $250 outstanding.
-- [ ] **Bridal Party Outfit – Molly** – $152 outstanding.
-- [ ] **Slippers for Bridal Party** – In progress (Etsy order). Confirm delivery will arrive in time.
-- [ ] **Arrange Grooms Party Outfits pickup** – $450 balance. Booked and deposit paid — organise collection.
-- [ ] **Honeymoon remaining activities** – $2,800 remaining. Flights and accommodation deposits paid. Honeymoon starts 28th March — can finalise after the wedding.
-- [ ] **Setup recovery day** – Purchase food, let people know, ensure house is ready. Status is TBO.
-- [x] **Provide friends photo schedule** – DONE. Created at /photo-schedule
-
-### Beauty Appointments (this week)
-
-- [ ] Hair cut/colour appointment
-- [ ] Final facial procedure
-- [ ] Teeth whitening
+- [ ] **Bridal Party Outfit – Emma** – Status TBC
+- [ ] **Bridal Party Outfit – Hannah** – $250 outstanding
+- [ ] **Bridal Party Outfit – Molly** – $152 outstanding
+- [ ] **Slippers for Bridal Party** – Confirm Etsy delivery arrival
+- [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
+- [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
+- [ ] **Setup recovery brunch** – Food, let people know, house ready
 
 ---
 
 ## 🟢 WEEK 4 — FINAL COUNTDOWN (March 1–6)
 
-*Focus: Rehearsal, wedding prep, final beauty, pack everything, breathe.*
+*Focus: Rehearsal, final beauty, drop-off, pack everything, breathe.*
 
 ### Key Events
 
 | Date | Time | Event |
 |------|------|-------|
 | **Sunday 1st March** | 3:30pm | Pre-wedding photo shoot with Jinx (first look) |
-| **Thursday 5th March** | 4:30pm | Meet Clare at venue with Mum, Holly, and Russell — go over everything |
+| **Thursday 5th March** | 4:30pm | Meet Clare at venue – Mum, Holly & Russell |
 | **Thursday 5th March** | 4:45pm | Wedding rehearsal |
-| **Thursday 5th March** | After rehearsal | Holly and Russell practise their final dance |
-| **Friday 6th March** | 9am–5pm | Final venue access — drop off all materials |
+| **Thursday 5th March** | After rehearsal | Holly & Russell practise final dance |
+| **Friday 6th March** | 9am–5pm | Final venue access – drop off all materials |
 
-### Rehearsal Day Logistics (Thursday 5th March)
+### Rehearsal Day (Thursday 5th March)
 
-- [ ] **Dad to pick up Hannah and Matt from the airport** and bring them to the rehearsal
-- [ ] Meet Clare at **4:30pm** — go through everything
-- [ ] Wedding rehearsal at **4:45pm**
-- [ ] Practice processional timing with music (Clare's recommendation)
+- [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
+- [ ] Meet Clare at 4:30pm
+- [ ] Wedding rehearsal at 4:45pm
+- [ ] Practice processional timing with music
 - [ ] Holly & Russell practise final dance
 
 ### Wedding Week Prep (Mon 2 – Thu 5 March)
 
-**Décor & Setup Tasks**
-
-- [ ] Iron and steam the welcome sign and bar sign
-- [ ] Set up the welcome sign metal holder
-- [ ] Sort table decorations
-- [ ] Set up table decorations
-- [ ] Build candle decorations
-- [ ] Sort candles
-
-**General Prep**
-
-- [ ] Finalise wedding morning playlist *(if not done in Week 2)*
-- [ ] Buy groomsmen's presents *(Russell — if not done in Week 1)*
+- [ ] Iron and steam welcome sign and bar sign
+- [ ] Set up welcome sign metal holder
+- [ ] Sort and set up table decorations
+- [ ] Build and sort candle decorations
+- [ ] Finalise wedding morning playlist
 
 ### Drop-Off to Venue (Thu/Fri)
 
@@ -337,111 +253,72 @@ These MUST be submitted to Clare by Tuesday 25th February:
 
 ### Final Beauty (Mon–Thu)
 
-- [ ] Tan — ~March 3–4
+- [ ] Tan – ~March 3–4
 - [ ] Final facials
-- [ ] Facial/Body Waxing — ~March 2–4
-- [ ] Nails (bridal party) — ~March 5–6
+- [ ] Facial/Body Waxing – ~March 2–4
+- [ ] Nails (bridal party) – ~March 5–6
 
 ### Last Checks
 
-- [ ] **Confirm all speakers have speeches ready** – Parents Waters, Parents Ballards, Holly & Russell, Groom Party, Brides Party.
-- [ ] **Confirm MCs (Alcy & Emma) have full run sheet and cue list**
+- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
+- [ ] **Confirm MCs (Alcy & Emma) have full run sheet**
 - [ ] **Reconfirm all vendor arrival times**
-- [ ] **Final dance lesson** – Confirm current status.
-- [ ] **Pack wedding day emergency kit** – Sewing kit, stain remover, painkillers, phone chargers, extra bobby pins, tissues, etc.
-- [ ] **Charge all cameras / devices**
-- [ ] **Confirm transport** – Sonja & Kev for Holly; Karen & Mark for Russell.
+- [ ] **Final dance lesson** – Confirm date/status
+- [ ] **Pack wedding day emergency kit** – Sewing kit, stain remover, painkillers, phone chargers, bobby pins, tissues
+- [ ] **Charge all cameras and devices**
+- [ ] **Confirm transport** – Sonja & Kevin for Holly; Karen & Mark for Russell
 
 ---
 
-## Open Actions from Venue Meeting (COORDINATION-NOTES.md)
-
-These are flagged from the meeting with Clare and **all need resolving before Feb 25:**
+## Open Actions – Venue Meeting
 
 | # | Action | Owner | Status |
 |---|--------|-------|--------|
-| 1 | Confirm rehearsal time with John | Russell | ✅ Confirmed — 4:45pm Thu 5th March |
-| 2 | Choose 2 songs for register signing | Holly & Russell | ⏳ |
-| 3 | Confirm final song / exit song | Holly & Russell | ✅ "Ordinary" confirmed |
-| 4 | Confirm gin bar details with Clare | Russell | ⏳ Confirming Fri 20th |
+| 1 | Confirm rehearsal time with John | Russell | ✅ 4:45pm Thu 5th March |
+| 2 | Choose 2 songs for register signing | Holly & Russell | ⏳ Thursday |
+| 3 | Confirm final exit song | Holly & Russell | ✅ "Ordinary" |
+| 4 | Confirm gin bar with Clare | Russell | ⏳ Friday 20th |
 | 5 | Confirm 2× entrée options | Holly & Russell | ✅ Done |
-| 6 | Get dietary requirements from vendors | Russell | ✅ All confirmed none (only 2 social media TBC) |
-| 7 | Get all vendor contact details | Russell | ⏳ Compiling for Clare Fri 20th |
-| 8 | Provide friends photo schedule | Russell | ✅ Done - /photo-schedule |
+| 6 | Dietary requirements from vendors | Russell | ✅ All none (2 social media TBC) |
+| 7 | Vendor contact details for Clare | Russell | ⏳ Friday 20th |
+| 8 | Friends photo schedule | Russell | ✅ Done – /photo-schedule |
 | 9 | Confirm wet weather photo location | Russell / Clare | ⏳ |
-| 10 | Get Clare's phone number | Russell | ✅ Done |
-| 11 | Provide vendor list to Clare | Russell | ⏳ Sending Fri 20th |
-| 12 | Provide alphabetical guest list to Clare | Russell | ⏳ Sending Fri 20th |
+| 10 | Clare's phone number | Russell | ✅ Done |
+| 11 | Vendor list to Clare | Russell | ⏳ Friday 20th |
+| 12 | Alphabetical guest list to Clare | Russell | ⏳ Friday 20th |
 | 13 | Discuss linen with Rachael | Holly | ⏳ |
-| 14 | Confirm what florals included with venue | Clare / Posies | ✅ Done |
-| 15 | Sign 3rd party cake disclaimer | Holly & Russell | ⏳ |
+| 14 | Florals included with venue | Clare / Posies | ✅ Done |
+| 15 | Sign 3rd party cake disclaimer | Holly & Russell | ⏳ Week 3 |
 
 ---
 
-## Guest Status Summary
+## Guest Summary
 
-| Metric | Count |
-|--------|-------|
-| **Total Invited** | 108 |
-| **Extra Cost Guests** | $0 currently |
-| **Letters Still to Send** | Russell: 19, Shared: 10, Holly: 30 |
-| **RSVPs Received** | *Tracking needed* |
-| **Unable to Attend** | Steph Sommers, Mandy, Carla, Emily, Andrew, Max Whitechurch, Josh, Ally, Diane, James (from "Unable to attend" column) |
-| **Backup Invites** | Katelyn, Sam, Izzy+1, Bob, Lara |
-
-### Letters Still to Send — Address Gaps
-
-The following guests **need addresses retrieved** before letters can be sent:
-
-| Guest | Address Status |
-|-------|---------------|
-| Genevieve | PO BOX 181 Maroochydore 4558 QLD |
-| Brett | *Need address* |
-| Paul Sapiano | 20 Leon Ave Rosanna 3084 VIC |
-| Lily Sapiano | *Need address* |
-| Thomo / Ryanna | Unit 2/24 Rockbeare Grove Ivanhoe 3079 |
-| Andre Sharp | 10 Limestone St Charlemont |
-| Stefania Ristuccia | *Need address* |
-| Liam Rayner | 4/270 High Street, Belmont 3216 |
-| Sasha Cains | *Need address* |
-| Austin Daly | 9 Draconis Ln, Williams Landing VIC 3027 |
-| Tameka Williams | *Need address* |
-| Ben Jurica | 12 Whitfords Dr, Armstrong Creek VIC 3217 |
-| Daniel Glen | 57 Russell St, Lethbridge 3332 |
-| Lizz Grace | *Need address* |
-| Sam Dean | 31 Samphire Drive, Connewarre 3227 |
-| Anton Jaya | 202/2 Anderson St, Templestowe VIC 3106 |
-| Niken Priscilla | *Need address* |
-| Matthew Warburton | 173 Blossom Park Dr, Mill Park VIC 3082 |
-| Courtney Molly Bourke | 8 Meadow Dr Curlewis VIC 3222 |
-| Ben Peel | 36 Silva St Ascot QLD 4007 |
-| Max Whitechurch | 3/20 Newcastle Street, Preston 3072 |
-| Diane | *Need address* |
-| James | *Need address* |
-
-⚠️ **Given only 4 weeks remain and the website is live, consider switching remaining invites to digital (text/email) rather than mailing letters.** This saves time and ensures guests get the info immediately.
+| Metric | Status |
+|--------|--------|
+| **Total Guests** | 108 |
+| **RSVPs** | All locked in ✅ |
+| **Extra Guests** | 8 (= $1,800 to venue) |
+| **Invitations** | All sent ✅ |
+| **Dietary Requirements** | In progress |
+| **Unable to Attend** | Steph Sommers, Mandy, Carla, Emily, Andrew, Max Whitechurch, Josh, Ally, Diane, James |
 
 ---
 
-## Items That Are DONE ✅
+## Items Completed ✅
 
-For reference, these are completed and can be ignored:
-
-Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled — Sonja/Kev + Karen/Mark), Create Website, Photo List, Order of the Day.
+Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked & paid), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled – Sonja/Kev + Karen/Mark), Website, Photo Schedule, Itinerary, MC Run Sheet, Order of the Day, DJ Playlist, Groomsmen Gifts, Florist Paid, Makeup Paid.
 
 ---
 
-## Key Risk Areas ⚠️
+## Key Risks ⚠️
 
-1. **Feb 25 deadline is only 16 days away** — Guest numbers, dietary info, seating chart, run sheet, and vendor list ALL due to Clare. This is the single most critical milestone.
-2. **$19,377 still outstanding with $16,000 in savings** — $3,377 shortfall needs to be saved or trimmed.
-3. **59 letters still to send** — With 4 weeks left, consider digital alternatives for speed.
-4. **Multiple vendor payments pending** — Florist ($3,400) and Gin Bar ($1,250) are "awaiting confirmation — to be paid." These vendors may not hold bookings indefinitely.
-5. **Wedding vows not started** — These take more time than you think. Start this week.
-6. **Ceremony plan is TBO** — No processional order, witnesses, or reader confirmed yet.
-7. **MCs confirmed (Alcy Meehan & Emma Surkitt)** — They need a detailed run sheet well before the day.
-8. **Hens weekend is THIS Friday/Saturday** — Gift boxes, room setup, food, and airport pickup all need to happen in the next 4 days.
+1. **Feb 25 deadline is 7 days away** – Seating chart, ceremony plan, vendor list, run sheet and dietary requirements all still needed.
+2. **Wedding vows not yet written** – Starting tonight (Feb 18). Must be done before Feb 25 to print.
+3. **Ceremony plan TBC** – Processional order, witnesses, and reader not yet finalised.
+4. **Venue final invoice deadline unknown** – Ask Clare on Friday.
+5. **2 Social Media Capturer names/dietaries outstanding** – Chase Wednesday.
 
 ---
 
-*This plan will be updated as tasks are completed. Last updated: 16th February 2026.*
+*Last updated: Wednesday 18th February 2026*
