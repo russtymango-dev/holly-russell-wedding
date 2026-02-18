@@ -99,11 +99,6 @@
 - [x] Final guest count locked in – 108 guests
 - [x] Exit song confirmed – "Ordinary" (Bride & Groom exit at 10:50 PM)
 - [ ] **Holly drafts her wedding vows**
-- [ ] **Finalise speech plan** – Confirm all 4 speeches are prepared:
-  - Groom & Bridal Party (collective)
-  - Karen & Mark (Russell's parents)
-  - Kevin & Sonja (Holly's parents)
-  - Holly & Russell
 - [ ] **Message Clare – send final numbers & dietary requirements**
 - [ ] **Email Clare a copy of the organizer run sheet** – Send hollyandrussellwedding.xyz/organizer-runsheet
 - [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer remaining (still chasing)
@@ -142,7 +137,6 @@
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
 - [ ] **Finalise speech plan – confirm all speakers are prepared**
 - [ ] **Provide song list to Jason (guitarist)**
-- [ ] **Finalise wedding morning playlist**
 - [x] **DJ Mix** – PAID. Delivery expected Friday 20th Feb.
 - [ ] **Bridal shapewear** – Finalise if not done
 - [ ] **Purchase bridal perfume** – $50
@@ -238,7 +232,7 @@
 - [ ] Set up welcome sign metal holder
 - [ ] Sort and set up table decorations
 - [ ] Build and sort candle decorations
-- [ ] Finalise wedding morning playlist
+- [ ] Finalise wedding morning playlist *(if not done in Week 2)*
 
 ### Drop-Off to Venue (Thu/Fri)
 
@@ -263,8 +257,6 @@
 
 ### Last Checks
 
-- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
-- [ ] **Confirm MCs (Alcy & Emma) have full run sheet**
 - [ ] **Reconfirm all vendor arrival times**
 - [ ] **Final dance lesson** – Confirm date/status
 - [ ] **Pack wedding day emergency kit** – Sewing kit, stain remover, painkillers, phone chargers, bobby pins, tissues
@@ -282,7 +274,7 @@
 | 3 | Confirm final exit song | Holly & Russell | ✅ "Ordinary" |
 | 4 | Confirm gin bar with Clare | Russell | ⏳ Friday 20th |
 | 5 | Confirm 2× entrée options | Holly & Russell | ✅ Done |
-| 6 | Dietary requirements from vendors | Russell | ✅ All none (2 social media TBC) |
+| 6 | Dietary requirements from vendors | Russell | ✅ All none (1 social media still chasing) |
 | 7 | Vendor contact details for Clare | Russell | ⏳ Friday 20th |
 | 8 | Friends photo schedule | Russell | ✅ Done – /photo-schedule |
 | 9 | Confirm wet weather photo location | Russell / Clare | ⏳ |
@@ -317,10 +309,9 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 ## Key Risks ⚠️
 
 1. **Feb 25 deadline is 7 days away** – Seating chart, ceremony plan, vendor list, run sheet and dietary requirements all still needed.
-2. **Wedding vows not yet written** – Starting tonight (Feb 18). Must be done before Feb 25 to print.
+2. **Wedding vows in progress** – Russell done, Holly drafting Thursday. Must be finalised by weekend to print.
 3. **Ceremony plan TBC** – Processional order, witnesses, and reader not yet finalised.
-4. **Venue final invoice deadline unknown** – Ask Clare on Friday.
-5. **2 Social Media Capturer names/dietaries outstanding** – Chase Wednesday.
+4. **1 Social Media Capturer dietary outstanding** – Still chasing.
 
 ---
 
