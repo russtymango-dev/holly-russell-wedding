@@ -161,52 +161,52 @@
 
 ## 🟡 WEEK 3 — FINAL SUBMISSIONS (Feb 23–28)
 
-*Focus: Submit everything to Clare. Print materials. Final coordination.*
+*Focus: Submit everything to Clare by Feb 25. Print materials. Final coordination.*
+
+---
+
+### 🗓️ MONDAY 23rd FEBRUARY
+
+- [ ] **Print name tags and menus** – Designs done Friday, print today. Add ribbons to menus after printing.
+- [ ] **Reimburse Hannah** – $250 (she paid for her own outfit, we owe her)
+- [ ] **Reimburse Molly** – $152 (she paid for her own outfit, we owe her)
+- [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
 
 ---
 
 ### 🗓️ TUESDAY 24th FEBRUARY
 
-- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan
-- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
-- [ ] **Dance lesson** – Wednesday 25th Feb at 8:30 AM
-
----
-
-### Venue Submissions (DUE FEB 25)
-
-- [ ] **Submit seating chart & floor plan**
+- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
+- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
+- [ ] **Submit seating chart & floor plan to Clare**
 - [ ] **Sign third-party cake disclaimer** (Holly's friend's cake)
 
 ---
 
-### Print & Produce
+### 🗓️ WEDNESDAY 25th FEBRUARY
 
-- [ ] **Print name tags and menus** – Designs done Friday, print early this week. Add ribbons to menus after printing.
+- [ ] **Dance lesson** – 8:30 AM
+- [ ] **Confirm all vendor arrival times** – After 12pm, no later than 3pm on March 7
+- [ ] **Discuss linen with Rachael (Posies)**
+- [ ] **Confirm wet weather photo location**
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
 
 ---
 
-### Vendor Coordination
+### 🗓️ THURSDAY 26th FEBRUARY
 
-- [ ] **Confirm all vendor arrival times** – After 12pm, no later than 3pm on March 7
-- [ ] **Discuss linen with Rachael (Posies)**
-- [ ] **Confirm wet weather photo location**
-
----
-
-### Remaining Tasks
-
-- [x] **Bridal Party Outfit – Emma** – DONE ✅
-- [ ] **Reimburse Hannah** – $250 (she paid for her own outfit, we owe her)
-- [ ] **Reimburse Molly** – $152 (she paid for her own outfit, we owe her)
-- [ ] **Slippers for Bridal Party** – Confirm Etsy delivery arrival
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
-- [ ] **Setup recovery brunch** – Food, let people know, house ready
+- [ ] **Confirm MCs (Alcy & Emma) are fully prepped**
 
 ---
+
+### 🗓️ FRIDAY 27th FEBRUARY
+
+- [ ] **Setup recovery brunch plan** – Food, let people know, ensure house is ready
+- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 
 ---
 
