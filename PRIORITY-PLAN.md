@@ -39,7 +39,7 @@
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Reimburse Hannah (outfit) | $250 | 🟡 Before wedding |
 | 18 | Reimburse Molly (outfit) | $152 | 🟡 Before wedding |
-| 19 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Design Friday, print Week 3 |
+| 19 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Designed ✅ – print Week 3 |
 | 20 | Nails | $150 | 🟢 Book for ~March 5–6 |
 | 21 | Fake Tan | $100 | 🟢 Book for ~March 3–4 |
 | 22 | Facial/Body Waxing | $100 | 🟢 Book for ~March 2–4 |
@@ -99,10 +99,10 @@
 - [x] Final guest count locked in – 108 guests
 - [x] Exit song confirmed – "Ordinary" (Bride & Groom exit at 10:50 PM)
 - [ ] **Holly drafts her wedding vows**
-- [ ] **Message Clare – send final numbers & dietary requirements**
-- [ ] **Email Clare a copy of the organizer run sheet** – Send hollyandrussellwedding.xyz/organizer-runsheet
-- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer remaining (still chasing)
-- [ ] **Choose 2 songs for register signing**
+- [x] **Message Clare – send final numbers** – DONE
+- [x] **Email Clare a copy of the organizer run sheet** – DONE
+- [ ] ~~Choose 2 songs for register signing~~ – Deferred to weekend
+- [ ] ~~Dietary requirements~~ – Deferred to Friday
 
 ---
 
@@ -111,7 +111,11 @@
 - [ ] **Specsavers appointments** – Book for Holly & Russell
 - [ ] **Review finances**
 - [x] **Ask Clare when final invoice is due** – DONE
-- [ ] **Design & start building name tags and menus** – Place cards for 108 guests, dinner menus, canapé menu
+- [x] **Name tags designed** – DONE
+- [x] **Dinner menus designed** – DONE
+- [x] **Gin Bar menu designed** – DONE
+- [ ] **Design canapé menu** – Still to do
+- [ ] **Print all menus and name tags** – Once canapé menu done
 - [ ] **Message Clare – one big submission (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
@@ -120,6 +124,8 @@
   - Send final run sheet & music cue list
   - Send vendor contact list with arrival times
   - Send alphabetical guest list
+
+- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer (deferred from Thursday)
 
 **Beauty Bookings:**
 - [ ] Book Fake Tan – ~March 3–4
@@ -144,7 +150,8 @@
 
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests (8 extra = $1,800)
-- [ ] **Dietary requirements** – 1 Social Media Capturer (still chasing)
+- [ ] **Dietary requirements** – 1 Social Media Capturer (chasing Friday)
+- [ ] **Choose 2 songs for register signing**
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
 - [ ] **Vendor contact list with arrival times**
