@@ -87,8 +87,8 @@
   - Send final run sheet & music cue list
   - Send vendor contact list with arrival times
   - Send alphabetical guest list
-- [ ] **Find location for pre-wedding shoot** (Sunday 1st March, 3:30pm)
-- [ ] **Inform Simon of chosen location** – Also let him know the content creator will meet at the shoot to get to know them
+- [x] **Find location for pre-wedding shoot** – DONE ✅
+- [ ] **Inform Simon of chosen location** – Let him know the content creator will meet at the shoot
 - [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
 - [ ] **Confirm with Alcy & Emma:**
   - What time they'd like to run their idea
