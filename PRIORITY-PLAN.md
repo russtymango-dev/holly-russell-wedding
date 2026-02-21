@@ -140,6 +140,7 @@
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
 - [ ] **Sign third-party cake disclaimer** (Holly's friend Lucy's cake)
+- [ ] **Holly to contact John** – Arrange meeting to sign the wedding certificate
 - [ ] **Letters – target 30 done by end of today** (15 more today)
 - [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Confirm timing and resources for their idea
 
