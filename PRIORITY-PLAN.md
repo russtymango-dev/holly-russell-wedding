@@ -103,7 +103,7 @@
 - [x] Fake Tan – BOOKED ✅
 - [x] Facial – BOOKED ✅
 - [x] Hair Cut/Colour – BOOKED ✅ (28th February)
-- [ ] Teeth Whitening – DIY Kit (purchase Friday 27th, apply Saturday 28th)
+- [ ] Teeth Whitening – DIY Kit: purchase Fri 27th, apply Sat 28th *(see Week 3 Friday/Weekend)*
 
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests ✅ Sent to Clare
