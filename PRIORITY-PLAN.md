@@ -103,7 +103,6 @@
 - [x] Fake Tan – BOOKED ✅
 - [x] Facial – BOOKED ✅
 - [x] Hair Cut/Colour – BOOKED ✅ (28th February)
-- [ ] Teeth Whitening – DIY Kit: purchase Fri 27th, apply Sat 28th *(see Week 3 Friday/Weekend)*
 
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests ✅ Sent to Clare
@@ -112,7 +111,7 @@
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
 - [ ] **Vendor contact list with arrival times**
-- [ ] **Alphabetical guest list**
+- [x] **Alphabetical guest list** – DONE ✅
 - [ ] **Ceremony plan** – Processional order, witnesses, reader
 
 ---
