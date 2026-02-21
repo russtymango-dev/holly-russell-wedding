@@ -311,11 +311,11 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 
 ## Key Risks ⚠️
 
-1. **Feb 25 deadline is 7 days away** – Seating chart, ceremony plan, vendor list, run sheet and dietary requirements all still needed.
+1. **Feb 25 deadline is 4 days away** – Seating chart, ceremony plan, vendor list, run sheet and dietary requirements all still needed.
 2. **Wedding vows in progress** – Russell done, Holly drafting Thursday. Must be finalised by weekend to print.
 3. **Ceremony plan TBC** – Processional order, witnesses, and reader not yet finalised.
 4. **1 Social Media Capturer dietary outstanding** – Still chasing.
 
 ---
 
-*Last updated: Wednesday 18th February 2026*
+*Last updated: Saturday 21st February 2026*
