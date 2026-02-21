@@ -77,7 +77,7 @@
 - [ ] **Send revised wedding playlist to DJ mixer**
 - [ ] **Design canapé menu**
 - [ ] **Print all menus and name tags** – Once canapé menu done
-- [ ] **Specsavers appointments** – Book for Holly & Russell
+- [x] **Specsavers appointments** – DONE ✅
 - [ ] **Review finances**
 - [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer
 - [ ] **Message Clare – big submission (DUE FEB 25):**
@@ -171,6 +171,7 @@
 
 ### 🗓️ FRIDAY 27th FEBRUARY
 
+- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
