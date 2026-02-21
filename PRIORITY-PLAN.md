@@ -79,7 +79,7 @@
 - [ ] **Print all menus and name tags** – Once canapé menu done
 - [x] **Specsavers appointments** – DONE ✅
 - [ ] **Review finances**
-- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer
+- [x] **Dietary requirements** – DONE ✅ All collected. April Lees (Social Media Capturer) – Vegetarian.
 - [ ] **Message Clare – big submission (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
@@ -109,7 +109,7 @@
 
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests ✅ Sent to Clare
-- [ ] **Dietary requirements** – 1 Social Media Capturer still chasing
+- [x] **Dietary requirements** – DONE ✅ All collected
 - [ ] **Choose 2 songs for register signing**
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
@@ -286,7 +286,7 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 1. **Feb 25 deadline is 4 days away** – Seating chart, ceremony plan, vendor list, run sheet and dietary still needed.
 2. **Holly's vows** – Still to be drafted this weekend.
 3. **Ceremony plan TBC** – Processional order, witnesses, and reader not yet finalised.
-4. **1 Social Media Capturer dietary outstanding** – Still chasing.
+4. **Dietary requirements** – All complete ✅
 
 ---
 
