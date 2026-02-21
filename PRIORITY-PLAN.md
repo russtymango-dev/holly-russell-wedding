@@ -72,7 +72,7 @@
 
 - [ ] **Holly drafts her wedding vows**
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
-- [ ] **Finalise speech plan** – Confirm all 4 speakers are prepared
+- [x] **Finalise speech plan** – DONE ✅ Groom's Party & Bridal Party (6 min each), Karen & Mark (8 min), Kevin & Sonja (8 min), Holly & Russell (6 min)
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Send revised wedding playlist to DJ mixer**
 - [ ] **Design canapé menu**
