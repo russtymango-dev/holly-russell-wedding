@@ -35,7 +35,7 @@
 | 12 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
 | 13 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked – arrange pickup |
 | 14 | Dance Lessons | $270 | 🟢 Ongoing – next 25th Feb |
-| 15 | Vendor Dinner (1 × $50) | $50 | 🟡 Confirm with venue by Feb 25 |
+| 15 | Vendor Meals (4 × $50) | $200 | 🟡 Confirm with venue by Feb 25 |
 | 16 | Facial Procedures | $300 | 🟢 Ongoing |
 | 17 | Reimburse Hannah (outfit) | $250 | 🟡 Before wedding |
 | 18 | Reimburse Molly (outfit) | $152 | 🟡 Before wedding |
@@ -138,7 +138,7 @@
 - [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
-- [ ] **Sign third-party cake disclaimer** (Holly's friend Lucy's cake)
+- [x] **Third-party cake disclaimer** – Info provided to Clare ✅. Confirm cake delivery time with Lucy (delivering on the day).
 - [ ] **Holly to contact John** – Arrange meeting to sign the wedding certificate
 - [ ] **Letters – target 30 done by end of today** (15 more today)
 - [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Confirm timing and resources for their idea
