@@ -70,8 +70,8 @@
 
 ## 🟠 WEEKEND 21-22nd FEBRUARY
 
-- [ ] **Holly drafts her wedding vows**
-- [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Holly drafts her wedding vows** – This week
+- [ ] ~~Polish and finalise wedding vows~~ – Deferred to Friday 27th
 - [x] **Finalise speech plan** – DONE ✅ Groom's Party & Bridal Party (6 min each), Karen & Mark (8 min), Kevin & Sonja (8 min), Holly & Russell (6 min)
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Send revised wedding playlist to DJ mixer**
@@ -172,6 +172,7 @@
 ### 🗓️ FRIDAY 27th FEBRUARY
 
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
+- [ ] **Polish and finalise wedding vows** – Holly & Russell
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
