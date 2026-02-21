@@ -151,6 +151,7 @@
 - [ ] **Confirm wet weather photo location**
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
+- [ ] **Reconfirm vendor arrival times with Clare**
 
 ---
 
@@ -160,6 +161,8 @@
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
 - [ ] **Confirm MCs (Alcy & Emma) are fully prepped** – Run sheet, timing, resources
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
+- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
+- [ ] **Build and sort candle decorations**
 
 ---
 
@@ -167,20 +170,14 @@
 
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
-- [ ] **Confirm transport for wedding day** – Sonja & Kevin for Holly; Karen & Mark for Russell
-- [ ] **Pack wedding day emergency kit** – Sewing kit, stain remover, painkillers, phone chargers, bobby pins, tissues
-- [ ] **Reconfirm all vendor arrival times**
-- [ ] **Iron and steam welcome sign and bar sign**
-- [ ] **Set up welcome sign metal holder**
+- [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
 
 ---
 
 ### 🗓️ WEEKEND 28th FEB – 1st MARCH
 
-- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
-- [ ] **Build and sort candle decorations**
-- [ ] **Finalise wedding morning playlist** *(if not done in Week 2)*
 - [ ] **Sunday 1st March – Pre-wedding photo shoot with Jinx** (3:30pm)
+- [ ] **Sunday 1st March – Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements for wedding day
 
 ---
 
@@ -227,10 +224,15 @@
 - [ ] Practice processional timing with music
 - [ ] Holly & Russell practise final dance
 
+### Wedding Week Prep (Mon 2 – Thu 5 March)
+
+- [ ] **Iron and steam welcome sign and bar sign** – Monday or Tuesday
+- [ ] **Set up welcome sign metal holder** – Monday or Tuesday
+- [ ] **Charge all cameras and devices**
+
 ### Last Checks
 
 - [ ] **Final dance lesson** – Confirm date/status
-- [ ] **Charge all cameras and devices**
 
 ---
 
@@ -271,7 +273,7 @@
 
 ## Items Completed ✅
 
-Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah, Emma), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked & paid), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled), Ceremony Musician (cancelled), Pet Handler (N/A), Website, Photo Schedule, Itinerary, MC Run Sheet, Order of the Day, DJ Playlist, DJ Mix (paid), Groomsmen Gifts, Florist Paid, Makeup Paid, Exit Song ("Ordinary"), Nails Booked, Facial Booked, Tan Booked.
+Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfits (Seb, Molly, Hannah, Emma), Wedding Dress Alterations, Groom's Suit, Family Grooming, Make Up Artist (booked & paid), Hair Stylist (booked), 2nd Dress, Wedding Rings, Bridal Dressing Robe, Silk Slip/Nighty, Pyjamas for Bridal Party, Guest Book, Couple's Narrative for Celebrant, Confetti (flower petals ordered), Wedding Cars (cancelled), Ceremony Musician (cancelled), Pet Handler (N/A), Website, Photo Schedule, Itinerary, MC Run Sheet, Order of the Day, DJ Playlist, DJ Mix (paid), Groomsmen Gifts, Florist Paid, Makeup Paid, Exit Song ("Ordinary"), Nails Booked, Facial Booked, Tan Booked, Wedding Day Emergency Kit.
 
 ---
 
