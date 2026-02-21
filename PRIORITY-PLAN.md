@@ -90,9 +90,7 @@
 - [x] **Find location for pre-wedding shoot** – DONE ✅
 - [ ] **Inform Simon of chosen location** – Let him know the content creator will meet at the shoot
 - [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
-- [ ] **Confirm with Alcy & Emma:**
-  - What time they'd like to run their idea
-  - What resources they need
+- [x] **Confirm with Alcy & Emma their idea** – Confirmed, awaiting final details back from them
 - [ ] **Verify bar sign printing costs:**
   - Compare Canva printing vs Officeworks vs Kmart
   - Once decided, order/print this weekend so it can be collected next week
@@ -104,8 +102,8 @@
 - [x] Nails – BOOKED ✅
 - [x] Fake Tan – BOOKED ✅
 - [x] Facial – BOOKED ✅
-- [ ] Book Hair Cut/Colour – ~Feb 22–28
-- [ ] Book Teeth Whitening – ASAP
+- [x] Hair Cut/Colour – BOOKED ✅ (28th February)
+- [ ] Teeth Whitening – DIY Kit (purchase Friday 27th, apply Saturday 28th)
 
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests ✅ Sent to Clare
@@ -143,6 +141,7 @@
 - [ ] **Submit seating chart & floor plan to Clare**
 - [ ] **Sign third-party cake disclaimer** (Holly's friend Lucy's cake)
 - [ ] **Letters – target 30 done by end of today** (15 more today)
+- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Confirm timing and resources for their idea
 
 ---
 
@@ -173,6 +172,7 @@
 
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Purchase DIY Teeth Whitening Kit** – Ready to apply tomorrow
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
@@ -181,6 +181,8 @@
 
 ### 🗓️ WEEKEND 28th FEB – 1st MARCH
 
+- [ ] **Saturday 28th – Hair Cut/Colour appointment**
+- [ ] **Saturday 28th – Apply DIY Teeth Whitening Kit**
 - [ ] **Sunday 1st March – Pre-wedding photo shoot with Jinx** (3:30pm)
 - [ ] **Sunday 1st March – Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements for wedding day
 
