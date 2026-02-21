@@ -95,6 +95,7 @@
   - What resources they need
 - [ ] **Verify bar sign printing costs:**
   - Compare Canva printing vs Officeworks vs Kmart
+  - Once decided, order/print this weekend so it can be collected next week
 - [ ] **Bridal shapewear** – Finalise if not done
 - [ ] **Purchase bridal perfume** – $50
 - [ ] **Look into wedding bidding app**
@@ -127,10 +128,11 @@
 ### 🗓️ MONDAY 23rd FEBRUARY
 
 - [ ] **Print name tags and menus** – Add ribbons to menus after printing
+- [ ] **Collect bar sign** – Pick up from printer (ordered this weekend)
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
-- [ ] **Write personal letters to all attendees** – Some from Russell, some from Holly, some signed by both. Use Dictate/GPT/Claude to help draft.
+- [ ] **Letters – target 15 done by end of today** (~65 total. Some from Russell, some Holly, some both. Use Dictate/GPT/Claude to draft.)
 
 ---
 
@@ -140,18 +142,18 @@
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
 - [ ] **Sign third-party cake disclaimer** (Holly's friend Lucy's cake)
+- [ ] **Letters – target 30 done by end of today** (15 more today)
 
 ---
 
 ### 🗓️ WEDNESDAY 25th FEBRUARY
 
 - [ ] **Dance lesson** – 8:30 AM
-- [ ] **Confirm all vendor arrival times** – After 12pm, no later than 3pm on March 7
+- [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
 - [ ] **Discuss linen with Rachael (Posies)**
 - [ ] **Confirm wet weather photo location**
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
-- [ ] **Reconfirm vendor arrival times with Clare**
 
 ---
 
@@ -163,6 +165,7 @@
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
 - [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
 - [ ] **Build and sort candle decorations**
+- [ ] **Letters – all remaining done by end of today** (~65 total complete)
 
 ---
 
