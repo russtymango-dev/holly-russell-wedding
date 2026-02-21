@@ -1,8 +1,8 @@
 # Holly & Russell Wedding – Priority Plan
 
 **Wedding Date:** Saturday 7th March 2026  
-**Today:** Wednesday 18th February 2026  
-**Days Remaining:** 17  
+**Today:** Saturday 21st February 2026  
+**Days Remaining:** 14  
 **Honeymoon Departs:** 28th March 2026  
 
 ---
@@ -94,38 +94,48 @@
 
 ---
 
-### 🗓️ THURSDAY 19th FEBRUARY
+### 🗓️ THURSDAY 19th FEBRUARY — ✅ COMPLETED
 
 - [x] Final guest count locked in – 108 guests
-- [x] Exit song confirmed – "Ordinary" (Bride & Groom exit at 10:50 PM)
-- [ ] **Holly drafts her wedding vows**
-- [x] **Message Clare – send final numbers** – DONE
-- [x] **Email Clare a copy of the organizer run sheet** – DONE
-- [ ] ~~Choose 2 songs for register signing~~ – Deferred to weekend
-- [ ] ~~Dietary requirements~~ – Deferred to Friday
+- [x] Exit song confirmed – "Ordinary"
+- [x] Message Clare – final numbers sent
+- [x] Email Clare organizer run sheet
 
 ---
 
-### 🗓️ FRIDAY 20th FEBRUARY
+### 🗓️ FRIDAY 20th FEBRUARY — ✅ COMPLETED
 
-- [ ] **Specsavers appointments** – Book for Holly & Russell
-- [ ] **Review finances**
-- [x] **Ask Clare when final invoice is due** – DONE
-- [x] **Name tags designed** – DONE
-- [x] **Dinner menus designed** – DONE
-- [x] **Gin Bar menu designed** – DONE
-- [ ] **Design canapé menu** – Still to do
-- [ ] **Print all menus and name tags** – Once canapé menu done
-- [ ] **Message Clare – one big submission (DUE FEB 25):**
+- [x] Ask Clare when final invoice is due
+- [x] Name tags designed
+- [x] Dinner menus designed
+- [x] Gin Bar menu designed
+
+---
+
+### 🗓️ WEEKEND 21-22nd FEBRUARY
+
+- [x] MC run sheet – DONE
+- [x] Share MC run sheet with Alcy & Emma – DONE
+- [x] DJ Mix – PAID & delivered
+- [ ] **Holly drafts her wedding vows** *(from Thursday)*
+- [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Finalise speech plan** – Confirm all speakers are prepared
+- [ ] **Provide song list to Jason (guitarist)**
+- [ ] **Bridal shapewear** – Finalise if not done
+- [ ] **Purchase bridal perfume** – $50
+- [ ] **Look into wedding bidding app**
+- [ ] **Specsavers appointments** – Book for Holly & Russell *(from Friday)*
+- [ ] **Review finances** *(from Friday)*
+- [ ] **Design canapé menu** *(from Friday)*
+- [ ] **Print all menus and name tags** – Once canapé menu done *(from Friday)*
+- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer *(from Friday)*
+- [ ] **Message Clare – big submission (DUE FEB 25):** *(from Friday)*
   - Pay & confirm Gin Bar ($1,250)
   - Confirm extra guests payment ($1,800 for 8 guests)
   - Confirm vendor dinner (1 × $50 = $50)
-  - Send final guest count & dietary requirements
   - Send final run sheet & music cue list
   - Send vendor contact list with arrival times
   - Send alphabetical guest list
-
-- [ ] **Continue chasing dietary requirements** – 1 Social Media Capturer (deferred from Thursday)
 
 **Beauty Bookings:**
 - [ ] Book Fake Tan – ~March 3–4
@@ -134,23 +144,9 @@
 - [ ] Book Facial/Body Waxing – ~March 2–4
 - [ ] Book Teeth Whitening – ASAP
 
----
-
-### 🗓️ WEEKEND 22-23 FEBRUARY
-
-- [x] MC run sheet – DONE
-- [x] **Share MC run sheet with Alcy & Emma** – DONE
-- [ ] **Polish and finalise wedding vows** – Holly & Russell
-- [ ] **Finalise speech plan – confirm all speakers are prepared**
-- [ ] **Provide song list to Jason (guitarist)**
-- [x] **DJ Mix** – PAID. Delivery expected Friday 20th Feb.
-- [ ] **Bridal shapewear** – Finalise if not done
-- [ ] **Purchase bridal perfume** – $50
-- [ ] **Look into wedding bidding app**
-
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
-- [x] **Final guest count** – 108 guests (8 extra = $1,800)
-- [ ] **Dietary requirements** – 1 Social Media Capturer (chasing Friday)
+- [x] **Final guest count** – 108 guests (8 extra = $1,800) ✅ Sent to Clare
+- [ ] **Dietary requirements** – 1 Social Media Capturer still chasing
 - [ ] **Choose 2 songs for register signing**
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
