@@ -183,6 +183,9 @@
 
 - [ ] **Saturday 28th – Hair Cut/Colour appointment**
 - [ ] **Saturday 28th – Apply DIY Teeth Whitening Kit**
+- [ ] **Holly – Send photo of menu/place card recreation to Clare** – Take a recreation at home of how menus and place cards should be set up. Send by Sunday 1st March.
+- [ ] **Holly – Figure out Luminary ceremony timing** – Work out timing for walking in during the processional to "Luminary". Due Sunday 1st March.
+- [ ] **Decide: extend wedding duration?** – Holly & Russell to discuss and confirm. Due Sunday 1st March.
 - [ ] **Sunday 1st March – Pre-wedding photo shoot with Jinx** (3:30pm)
 - [ ] **Sunday 1st March – Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements for wedding day
 
@@ -202,19 +205,26 @@
 | **Thursday 5th March** | After rehearsal | Holly & Russell practise final dance |
 | **Friday 6th March** | 9am–5pm | Final venue access – drop off all materials |
 
-### Drop-Off to Venue (Thu/Fri)
+### 🗓️ TUESDAY 4th MARCH – Drop-Off at Venue (10:00 AM)
 
 - [ ] Place cards (labelled by table)
-- [ ] Table menu cards
+- [ ] Table menu cards & name tags
 - [ ] Guest book + pens + Instax camera
-- [ ] Seating chart display
-- [ ] Welcome sign / mirror + stickers
+- [ ] Seating plan (printed – placed near paved area after ceremony)
+- [ ] Welcome sign (near garden/gate)
+- [ ] Gin signage (A2)
+- [ ] Canapés signage
+- [ ] Linen sign
 - [ ] Bar sign
 - [ ] Candle decorations
 - [ ] Table decorations
 - [ ] Confetti / flower petals
 - [ ] Any personal décor items
 - [ ] Dress steamer (Mum's)
+
+**Notes for drop-off:**
+- Signing table set up in the pavilion
+- Jason positioned opposite/outside the pavilion
 
 ### Final Beauty
 
