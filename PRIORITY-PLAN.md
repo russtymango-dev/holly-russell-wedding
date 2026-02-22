@@ -75,8 +75,8 @@
 - [x] **Finalise speech plan** – DONE ✅ Groom's Party & Bridal Party (6 min each), Karen & Mark (8 min), Kevin & Sonja (8 min), Holly & Russell (6 min)
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Send revised wedding playlist to DJ mixer**
-- [ ] **Design canapé menu**
-- [ ] **Print all menus and name tags** – Once canapé menu done
+- [x] **Design canapé menu** – DONE ✅
+- [ ] **Print all menus and name tags**
 - [x] **Specsavers appointments** – DONE ✅
 - [ ] **Review finances**
 - [x] **Dietary requirements** – DONE ✅ All collected. April Lees (Social Media Capturer) – Vegetarian.
