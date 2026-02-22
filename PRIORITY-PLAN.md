@@ -88,14 +88,13 @@
   - Send vendor contact list with arrival times
   - Send alphabetical guest list
 - [x] **Find location for pre-wedding shoot** – DONE ✅
-- [ ] **Inform Simon of chosen location** – Let him know the content creator will meet at the shoot
+- [x] **Inform Simon of chosen location** – DONE ✅
 - [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
 - [x] **Confirm with Alcy & Emma their idea** – Confirmed, awaiting final details back from them
-- [ ] **Verify bar sign printing costs:**
-  - Compare Canva printing vs Officeworks vs Kmart
-  - Once decided, order/print this weekend so it can be collected next week
+- [x] **Verify bar sign printing costs** – DONE ✅ Going with Canva
+- [ ] **Order bar sign printing via Canva** – Do tonight (22nd Feb)
+- [ ] **Practice first dance** – Tonight (22nd Feb)
 - [ ] **Bridal shapewear** – Finalise if not done
-- [ ] **Purchase bridal perfume** – $50
 - [ ] **Look into wedding bidding app**
 
 **Beauty Bookings:**
@@ -110,7 +109,7 @@
 - [ ] **Choose 2 songs for register signing**
 - [ ] **Seating chart** – Ceremony reserved seats + reception table plan
 - [ ] **Final run sheet & music cue list**
-- [ ] **Vendor contact list with arrival times**
+- [x] **Vendor contact list with arrival times** – DONE ✅
 - [x] **Alphabetical guest list** – DONE ✅
 - [ ] **Ceremony plan** – Processional order, witnesses, reader
 
@@ -124,6 +123,7 @@
 
 ### 🗓️ MONDAY 23rd FEBRUARY
 
+- [ ] **Practice first dance**
 - [ ] **Print name tags and menus** – Add ribbons to menus after printing
 - [ ] **Collect bar sign** – Pick up from printer (ordered this weekend)
 - [ ] **Reimburse Hannah** – $250
@@ -135,6 +135,7 @@
 
 ### 🗓️ TUESDAY 24th FEBRUARY
 
+- [ ] **Practice first dance**
 - [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
@@ -172,6 +173,7 @@
 
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Purchase bridal perfume** – $50
 - [ ] **Purchase DIY Teeth Whitening Kit** – Ready to apply tomorrow
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
