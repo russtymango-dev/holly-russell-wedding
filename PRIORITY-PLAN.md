@@ -115,10 +115,12 @@
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Review finances**
 - [ ] **Message Clare – big submission (DUE FEB 25):**
-  - Pay & confirm Gin Bar ($1,250)
+  - Pay & confirm Gin Bar ($1,250) + confirm gin bar ordering selection
   - Confirm extra guests payment ($1,800 for 8 guests)
   - Confirm vendor dinner (1 × $50 = $50)
-  - Send final run sheet & music cue list
+  - Send updated organizer run sheet
+  - Send dietary requirements
+  - Send final run sheet & music cue list *(Wednesday)*
   - Send alphabetical guest list
 - [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
 - [ ] **Letters – target 15 done by end of today** (~65 total. Some from Russell, some Holly, some both.)
