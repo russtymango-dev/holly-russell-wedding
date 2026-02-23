@@ -10,6 +10,60 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="itinerary.css">
     <style>
+        /* Wider content */
+        .itinerary-content {
+            max-width: 1100px !important;
+        }
+
+        /* Audio Player */
+        .audio-player {
+            background: var(--sage-dark);
+            color: white;
+            border-radius: 14px;
+            padding: 25px 30px;
+            margin-bottom: 35px;
+            text-align: center;
+        }
+
+        .audio-player h3 {
+            font-family: var(--font-display);
+            font-size: 1.3rem;
+            font-weight: 400;
+            font-style: italic;
+            margin-bottom: 5px;
+            color: white;
+        }
+
+        .audio-player p {
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            margin-bottom: 15px;
+            opacity: 0.8;
+        }
+
+        .audio-player audio {
+            width: 100%;
+            max-width: 500px;
+            border-radius: 8px;
+        }
+
+        .scroll-note {
+            font-family: var(--font-body);
+            font-size: 0.8rem;
+            opacity: 0.7;
+            margin-top: 10px;
+        }
+
+        /* Active step highlight */
+        .dance-step.active {
+            border: 2px solid var(--sage);
+            box-shadow: 0 4px 20px rgba(107, 127, 94, 0.25);
+        }
+
+        .dance-step.active .step-header {
+            background: #e8f0e5;
+        }
+
         .legend {
             display: flex;
             gap: 30px;
@@ -103,31 +157,29 @@
         }
 
         .step-body {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 0;
+            display: flex;
+            flex-direction: column;
         }
 
         .step-image {
-            padding: 20px;
+            padding: 20px 20px 10px;
             display: flex;
             align-items: center;
             justify-content: center;
-            border-right: 1px solid #e8e8e8;
+            border-bottom: 1px solid #e8e8e8;
         }
 
         .step-image img {
             width: 100%;
-            max-width: 400px;
+            max-width: 800px;
             height: auto;
             border-radius: 6px;
         }
 
         .step-instructions {
-            padding: 25px;
+            padding: 20px 25px 25px;
             display: flex;
             flex-direction: column;
-            justify-content: center;
         }
 
         .step-instructions p {
@@ -164,13 +216,7 @@
         .who-tag.both { background: #e8f0fd; color: #2244cc; }
 
         @media (max-width: 700px) {
-            .step-body {
-                grid-template-columns: 1fr;
-            }
-            .step-image {
-                border-right: none;
-                border-bottom: 1px solid #e8e8e8;
-            }
+            .audio-player { padding: 20px; }
         }
     </style>
 </head>
@@ -184,6 +230,17 @@
         <div class="private-notice">
             <p><strong>Dance Instructor Reference</strong></p>
             <p>Step-by-step choreography guide for the first dance.</p>
+        </div>
+
+        <!-- Audio Player -->
+        <div class="audio-player">
+            <h3>Ma Meilleure Ennemie</h3>
+            <p>Stromae & Pomme – click play, then the page will follow along automatically</p>
+            <audio id="danceAudio" controls>
+                <source src="Stromae, Pomme - Ma Meilleure Ennemie (from Arcane Season 2) [Official Visualizer].mp3" type="audio/mpeg">
+                Your browser does not support audio playback.
+            </audio>
+            <p class="scroll-note">▲ The page will automatically scroll to each step as the song plays</p>
         </div>
 
         <!-- Legend -->
@@ -482,5 +539,62 @@
             <a href="/">&larr; Back to main site</a>
         </footer>
     </main>
+
+    <script>
+        // Timestamps (in seconds) for each step to scroll to
+        const stepTimestamps = [
+            { step: 0, time: 9 },    // Arrive at markers ~0:11, scroll just before
+            { step: 1, time: 13 },   // Side step begins
+            { step: 2, time: 28 },   // Swirl toward each other
+            { step: 3, time: 32 },   // Box dance starts
+            { step: 4, time: 43 },   // Back to back freestyle
+            { step: 5, time: 54 },   // Return to box dance
+            { step: 6, time: 65 },   // Holly solo
+            { step: 7, time: 76 },   // Groove toward each other
+            { step: 8, time: 87 },   // Circular swing
+            { step: 9, time: 93 },   // Tight embrace
+            { step: 10, time: 98 },  // Free box dance
+            { step: 11, time: 120 }, // Spiral outward
+            { step: 12, time: 132 }, // Gravitate toward each other
+            { step: 13, time: 140 }, // Finale
+        ];
+
+        const audio = document.getElementById('danceAudio');
+        const steps = document.querySelectorAll('.dance-step');
+        let lastStep = -1;
+
+        audio.addEventListener('timeupdate', () => {
+            const currentTime = audio.currentTime;
+
+            // Find the current step
+            let currentStep = -1;
+            for (let i = stepTimestamps.length - 1; i >= 0; i--) {
+                if (currentTime >= stepTimestamps[i].time) {
+                    currentStep = stepTimestamps[i].step;
+                    break;
+                }
+            }
+
+            if (currentStep !== lastStep) {
+                // Remove active class from all steps
+                steps.forEach(s => s.classList.remove('active'));
+
+                if (currentStep >= 0 && steps[currentStep]) {
+                    steps[currentStep].classList.add('active');
+                    steps[currentStep].scrollIntoView({
+                        behavior: 'smooth',
+                        block: 'center'
+                    });
+                }
+                lastStep = currentStep;
+            }
+        });
+
+        // Reset on pause/end
+        audio.addEventListener('pause', () => {
+            steps.forEach(s => s.classList.remove('active'));
+            lastStep = -1;
+        });
+    </script>
 </body>
 </html>
