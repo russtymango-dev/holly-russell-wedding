@@ -68,34 +68,21 @@
 
 ---
 
-## 🟠 WEEKEND 21-22nd FEBRUARY
+## ✅ WEEKEND 21-22nd FEBRUARY — COMPLETED
 
-- [ ] **Holly drafts her wedding vows** – This week
-- [ ] ~~Polish and finalise wedding vows~~ – Deferred to Friday 27th
-- [x] **Finalise speech plan** – DONE ✅ Groom's Party & Bridal Party (6 min each), Karen & Mark (8 min), Kevin & Sonja (8 min), Holly & Russell (6 min)
-- [ ] **Provide song list to Jason (guitarist)**
-- [ ] **Send revised wedding playlist to DJ mixer**
+- [x] **Finalise speech plan** – DONE ✅
 - [x] **Design canapé menu** – DONE ✅
-- [ ] **Print all menus and name tags**
 - [x] **Specsavers appointments** – DONE ✅
-- [ ] **Review finances**
-- [x] **Dietary requirements** – DONE ✅ All collected. April Lees (Social Media Capturer) – Vegetarian.
-- [ ] **Message Clare – big submission (DUE FEB 25):**
-  - Pay & confirm Gin Bar ($1,250)
-  - Confirm extra guests payment ($1,800 for 8 guests)
-  - Confirm vendor dinner (1 × $50 = $50)
-  - Send final run sheet & music cue list
-  - Send vendor contact list with arrival times
-  - Send alphabetical guest list
-- [x] **Find location for pre-wedding shoot** – DONE ✅
-- [x] **Inform Simon of chosen location** – DONE ✅
-- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
-- [x] **Confirm with Alcy & Emma their idea** – Confirmed, awaiting final details back from them
+- [x] **Dietary requirements** – DONE ✅
+- [x] **Find & inform Simon of pre-wedding shoot location** – DONE ✅
 - [x] **Verify bar sign printing costs** – DONE ✅ Going with Canva
-- [ ] **Order bar sign printing via Canva** – Do tonight (22nd Feb)
-- [ ] **Practice first dance** – Tonight (22nd Feb)
-- [ ] **Bridal shapewear** – Finalise if not done
-- [ ] **Look into wedding bidding app**
+- [x] **Order bar sign via Canva** – DONE ✅
+- [x] **Practice first dance** – DONE ✅
+- [x] **Send revised wedding playlist to DJ mixer** – DONE ✅
+- [x] **Printed menus** – DONE ✅ (name tags still to print)
+- [ ] ~~Provide song list to Jason~~ – Still to do (moved to Week 3)
+- [ ] ~~Message Clare – big submission~~ – Still to do (moved to Week 3)
+- [ ] ~~Review finances~~ – Still to do (moved to Week 3)
 
 **Beauty Bookings:**
 - [x] Nails – BOOKED ✅
@@ -123,26 +110,37 @@
 
 ### 🗓️ MONDAY 23rd FEBRUARY
 
-- [ ] **Practice first dance**
-- [ ] **Print name tags and menus** – Add ribbons to menus after printing
-- [ ] **Collect bar sign** – Pick up from printer (ordered this weekend)
+- [x] **Practice first dance** – DONE ✅
+- [ ] **Print name tags** – Still to do (menus done ✅)
+- [ ] **Collect bar sign** – Pick up from printer
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
-- [ ] **Letters – target 15 done by end of today** (~65 total. Some from Russell, some Holly, some both. Use Dictate/GPT/Claude to draft.)
+- [ ] **Provide song list to Jason (guitarist)**
+- [ ] **Review finances**
+- [ ] **Message Clare – big submission (DUE FEB 25):**
+  - Pay & confirm Gin Bar ($1,250)
+  - Confirm extra guests payment ($1,800 for 8 guests)
+  - Confirm vendor dinner (1 × $50 = $50)
+  - Send final run sheet & music cue list
+  - Send alphabetical guest list
+- [ ] **Letters – target 15 done by end of today** (~65 total. Some from Russell, some Holly, some both.)
 
 ---
 
 ### 🗓️ TUESDAY 24th FEBRUARY
 
-- [ ] **Practice first dance**
+- [x] **Practice first dance** – DONE ✅
 - [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
 - [x] **Third-party cake disclaimer** – Info provided to Clare ✅. Confirm cake delivery time with Lucy (delivering on the day).
 - [ ] **Holly to contact John** – Arrange meeting to sign the wedding certificate
+- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
+- [ ] **Bridal shapewear** – Finalise if not done
+- [ ] **Look into wedding bidding app**
+- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma**
 - [ ] **Letters – target 30 done by end of today** (15 more today)
-- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Confirm timing and resources for their idea
 
 ---
 
@@ -171,6 +169,7 @@
 
 ### 🗓️ FRIDAY 27th FEBRUARY
 
+- [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
 - [ ] **Purchase bridal perfume** – $50
