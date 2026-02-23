@@ -18,7 +18,7 @@
 | **Russell & Holly to pay** | $6,792 |
 | **Savings in Bank** | $7,100 |
 | **Effective Surplus** | $308 |
-| **Expected Wedding Income** | ~$8,745 (gifts/wishing well on the day) |
+| **Expected Wishing Well Income** | ~$2,500 |
 
 ### Outstanding Payments
 
@@ -111,7 +111,7 @@
 - [x] **Practice first dance** – DONE ✅
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
 - [ ] **Provide song list to Jason (guitarist)**
-- [ ] **Review finances**
+- [x] **Review finances** – DONE ✅
 - [ ] **Message Clare – big submission (DUE FEB 25):**
   - Pay & confirm Gin Bar ($1,250) + confirm gin bar ordering selection
   - Confirm extra guests payment ($1,800 for 8 guests)
