@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Dance Guide | Holly & Russell</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Quicksand:wght@300;400;500&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="itinerary.css">
+    <style>
+        .legend {
+            display: flex;
+            gap: 30px;
+            justify-content: center;
+            flex-wrap: wrap;
+            margin: 30px 0;
+            padding: 20px 25px;
+            background: var(--cream-dark);
+            border-radius: 10px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: var(--font-body);
+            font-size: 0.95rem;
+            color: var(--text);
+        }
+
+        .legend-circle {
+            width: 28px;
+            height: 22px;
+            border-radius: 50%;
+            border: 3px solid;
+            flex-shrink: 0;
+        }
+
+        .legend-circle.russell { border-color: #cc2222; }
+        .legend-circle.holly { border-color: #8844aa; }
+        .legend-box {
+            width: 28px;
+            height: 22px;
+            background: #c8a882;
+            border-radius: 3px;
+            flex-shrink: 0;
+        }
+        .legend-wall {
+            width: 12px;
+            height: 22px;
+            background: #aaaaaa;
+            flex-shrink: 0;
+        }
+
+        .dance-steps {
+            display: flex;
+            flex-direction: column;
+            gap: 40px;
+        }
+
+        .dance-step {
+            background: white;
+            border: 1px solid #e8e8e8;
+            border-radius: 12px;
+            overflow: hidden;
+        }
+
+        .step-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            padding: 18px 25px;
+            background: var(--cream-dark);
+            border-bottom: 1px solid #e8e8e8;
+        }
+
+        .step-number {
+            font-family: var(--font-display);
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: var(--sage);
+            min-width: 30px;
+        }
+
+        .step-timestamp {
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: white;
+            background: var(--gold-muted);
+            padding: 4px 12px;
+            border-radius: 20px;
+            white-space: nowrap;
+        }
+
+        .step-title {
+            font-family: var(--font-display);
+            font-size: 1.2rem;
+            font-weight: 500;
+            color: var(--sage-dark);
+        }
+
+        .step-body {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+        }
+
+        .step-image {
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-right: 1px solid #e8e8e8;
+        }
+
+        .step-image img {
+            width: 100%;
+            max-width: 400px;
+            height: auto;
+            border-radius: 6px;
+        }
+
+        .step-instructions {
+            padding: 25px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .step-instructions p {
+            font-family: var(--font-body);
+            font-size: 1.05rem;
+            color: var(--text);
+            line-height: 1.7;
+            margin: 0;
+        }
+
+        .step-instructions .cue {
+            display: inline-block;
+            margin-top: 15px;
+            font-family: var(--font-body);
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: var(--sage);
+            background: #f0f5ed;
+            padding: 8px 14px;
+            border-radius: 8px;
+            border-left: 3px solid var(--sage);
+        }
+
+        .who-tag {
+            display: inline-block;
+            font-size: 0.8rem;
+            font-weight: 500;
+            padding: 2px 8px;
+            border-radius: 10px;
+            margin-right: 4px;
+        }
+        .who-tag.russell { background: #fde8e8; color: #cc2222; }
+        .who-tag.holly { background: #f3e8fd; color: #8844aa; }
+        .who-tag.both { background: #e8f0fd; color: #2244cc; }
+
+        @media (max-width: 700px) {
+            .step-body {
+                grid-template-columns: 1fr;
+            }
+            .step-image {
+                border-right: none;
+                border-bottom: 1px solid #e8e8e8;
+            }
+        }
+    </style>
+</head>
+<body class="itinerary-page">
+    <main class="content itinerary-content">
+        <header class="itinerary-header">
+            <h1>First Dance Guide</h1>
+            <p class="date">Holly & Russell – 7th March 2026</p>
+        </header>
+
+        <div class="private-notice">
+            <p><strong>Dance Instructor Reference</strong></p>
+            <p>Step-by-step choreography guide for the first dance.</p>
+        </div>
+
+        <!-- Legend -->
+        <div class="legend">
+            <div class="legend-item">
+                <div class="legend-circle russell"></div>
+                <span><strong>Russell</strong> – Red circle</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-circle holly"></div>
+                <span><strong>Holly</strong> – Purple circle</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-box"></div>
+                <span>Dance floor (brown area)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-wall"></div>
+                <span>Left wall – near bathroom (Russell enters here)</span>
+            </div>
+            <div class="legend-item">
+                <div class="legend-wall"></div>
+                <span>Right wall – near kitchen (Holly enters here)</span>
+            </div>
+        </div>
+
+        <!-- Dance Steps -->
+        <section class="dance-steps">
+
+            <!-- Step 0 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">0</span>
+                    <span class="step-timestamp">0:11 – 0:13</span>
+                    <span class="step-title">Enter & Walk to Markers</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/0.png" alt="Step 0 – Enter from walls">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag russell">Russell</span> enters from the left wall (near bathroom). <span class="who-tag holly">Holly</span> enters from the right wall (near kitchen).</p>
+                        <p style="margin-top:12px;">Both walk toward their markers on the dance floor, arriving around the 0:11–0:13 mark.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 1 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">1</span>
+                    <span class="step-timestamp">Until ~0:32</span>
+                    <span class="step-title">Side Step & Move In</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/1.png" alt="Step 1 – Side step and move in">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag both">Both</span> side step dance for 5–6 seconds.</p>
+                        <p style="margin-top:12px;">Start moving toward each other when Stromae says <em>"arrivé (Arrivé)"</em>.</p>
+                        <span class="cue">🎵 Cue: "arrivé (Arrivé)"</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 2 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">2</span>
+                    <span class="step-timestamp">Until 0:32</span>
+                    <span class="step-title">Swirl Towards Each Other</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/2.png" alt="Step 2 – Swirl towards each other">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag both">Both</span> swirl toward each other until the 0:32 Stomae and Pomme duet begins.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 3 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">3</span>
+                    <span class="step-timestamp">0:32 – 0:42</span>
+                    <span class="step-title">Box Dance, then Twirl</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/3.png" alt="Step 3 – Box dance and twirl">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag both">Both</span> start <strong>box dancing</strong> together at 0:32.</p>
+                        <p style="margin-top:12px;"><span class="who-tag holly">Holly</span> does a <strong>twirl</strong> at 0:42 when Pomme starts singing.</p>
+                        <span class="cue">🎵 Cue: Pomme singing starts at 0:42</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 4 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">4</span>
+                    <span class="step-timestamp">After 0:43</span>
+                    <span class="step-title">Back-to-Back Freestyle, Slowly Spinning</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/4.png" alt="Step 4 – Back to back freestyle">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag both">Both</span> dance back-to-back after the 0:43 twirl.</p>
+                        <p style="margin-top:12px;">More wavey, freestyle movement whilst slowly spinning together.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 5 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">5</span>
+                    <span class="step-timestamp">0:54</span>
+                    <span class="step-title">Return to Box Dance</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/5.png" alt="Step 5 – Return to box dance">
+                    </div>
+                    <div class="step-instructions">
+                        <p><span class="who-tag both">Both</span> return to box dancing together when Pomme comes back in at 0:54.</p>
+                        <span class="cue">🎵 Cue: Pomme re-enters at 0:54</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 6 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">6</span>
+                    <span class="step-timestamp">1:05</span>
+                    <span class="step-title">Holly's Solo – Russell Watches</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/6.png" alt="Step 6 – Holly solo Russell watches">
+                    </div>
+                    <div class="step-instructions">
+                        <p>When Pomme goes into her solo at 1:05, <span class="who-tag both">Russell and Holly detach</span>.</p>
+                        <p style="margin-top:12px;"><span class="who-tag holly">Holly</span> swirls away and free-form dances.</p>
+                        <p style="margin-top:12px;"><span class="who-tag russell">Russell</span> watches from afar, tapping in rhythm.</p>
+                        <span class="cue">🎵 Cue: Pomme solo at 1:05</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 7 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">7</span>
+                    <span class="step-timestamp">1:16</span>
+                    <span class="step-title">Groove Towards Each Other</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/7.png" alt="Step 7 – Groove towards each other">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 1:16, when Pomme starts her second bit, <span class="who-tag both">Russell and Holly start grooving toward each other</span>.</p>
+                        <span class="cue">🎵 Cue: Pomme's second section at 1:16</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 8 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">8</span>
+                    <span class="step-timestamp">1:27</span>
+                    <span class="step-title">Russell Takes Holly – Circular Swing</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/8.png" alt="Step 8 – Circular swing">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 1:27, <span class="who-tag russell">Russell</span> takes <span class="who-tag holly">Holly</span> back.</p>
+                        <p style="margin-top:12px;">Hand in hand, swing her around in a <strong>circular motion</strong> for this section.</p>
+                        <span class="cue">🎵 Cue: 1:27</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 9 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">9</span>
+                    <span class="step-timestamp">1:33</span>
+                    <span class="step-title">Tight Embrace – Still Shuffling</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/9.png" alt="Step 9 – Tight embrace">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 1:33, <span class="who-tag russell">Russell</span> pulls <span class="who-tag holly">Holly</span> into a <strong>tight embrace</strong> whilst still shuffling.</p>
+                        <span class="cue">🎵 Cue: 1:33</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 10 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">10</span>
+                    <span class="step-timestamp">1:38 – 2:00</span>
+                    <span class="step-title">Free-Flowing Box Dance – Twirls & Dips</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/10.png" alt="Step 10 – Free flowing box dance">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 1:38, return to <strong>box dance</strong>, more free flowing.</p>
+                        <p style="margin-top:12px;"><span class="who-tag russell">Russell</span> leads and twirls <span class="who-tag holly">Holly</span> at the 3rd and 2nd marks.</p>
+                        <p style="margin-top:12px;"><span class="who-tag russell">Russell</span> to dip Holly backward <strong>at least once or twice</strong>.</p>
+                        <p style="margin-top:12px; font-style:italic; color:var(--text-light);">This section goes for a while.</p>
+                        <span class="cue">🎵 Cue: 1:38</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 11 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">11</span>
+                    <span class="step-timestamp">2:00</span>
+                    <span class="step-title">Separate – Spiral Outward</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/11.png" alt="Step 11 – Spiral outward">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 2:00, <span class="who-tag both">Holly and Russell separate</span> and begin <strong>spiralling outward</strong>, opposite to the earlier move.</p>
+                        <p style="margin-top:12px;">Dancing across from each other.</p>
+                        <span class="cue">🎵 Cue: 2:00</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 12 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">12</span>
+                    <span class="step-timestamp">2:12</span>
+                    <span class="step-title">Gravitate Toward Each Other – The Finale Begins</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/12.png" alt="Step 12 – Gravitate toward each other">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 2:12 (when the vocal kicks in for the second time), <span class="who-tag both">Holly and Russell start to gravitate toward each other</span> for the finale.</p>
+                        <span class="cue">🎵 Cue: Second vocal entry at 2:12</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Step 13 -->
+            <div class="dance-step">
+                <div class="step-header">
+                    <span class="step-number">13</span>
+                    <span class="step-timestamp">2:20</span>
+                    <span class="step-title">The Finale – End like the Music Video</span>
+                </div>
+                <div class="step-body">
+                    <div class="step-image">
+                        <img src="Wedding dancing images/13.png" alt="Step 13 – Finale">
+                    </div>
+                    <div class="step-instructions">
+                        <p>At 2:20, <span class="who-tag both">Holly and Russell</span> do the move to end up like the finale of the music video.</p>
+                        <p style="margin-top:12px;"><span class="who-tag holly">Holly</span> wraps herself back to Russell at the end.</p>
+                        <p style="margin-top:18px; font-family: var(--font-display); font-size:1.2rem; font-style:italic; color:var(--sage);">And then we are finished! 🎉</p>
+                        <span class="cue">🎵 Cue: 2:20 – End of song</span>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <footer class="itinerary-footer" style="margin-top:60px;">
+            <p>Questions? Contact Russell or Holly directly.</p>
+            <a href="/">&larr; Back to main site</a>
+        </footer>
+    </main>
+</body>
+</html>
