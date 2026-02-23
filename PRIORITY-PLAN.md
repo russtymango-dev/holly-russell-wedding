@@ -124,6 +124,7 @@
   - Confirm vendor dinner (1 × $50 = $50)
   - Send final run sheet & music cue list
   - Send alphabetical guest list
+- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
 - [ ] **Letters – target 15 done by end of today** (~65 total. Some from Russell, some Holly, some both.)
 
 ---
@@ -148,6 +149,8 @@
 
 - [ ] **Dance lesson** – 8:30 AM
 - [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
+- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
+- [ ] **Final run sheet & music cue list** – Compile and send to Clare
 - [ ] **Discuss linen with Rachael (Posies)**
 - [ ] **Confirm wet weather photo location**
 - [ ] **Print stickers for welcome mirror**
