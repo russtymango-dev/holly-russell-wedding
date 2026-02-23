@@ -111,10 +111,6 @@
 ### 🗓️ MONDAY 23rd FEBRUARY
 
 - [x] **Practice first dance** – DONE ✅
-- [ ] **Print name tags** – Still to do (menus done ✅)
-- [ ] **Collect bar sign** – Pick up from printer
-- [ ] **Reimburse Hannah** – $250
-- [ ] **Reimburse Molly** – $152
 - [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
 - [ ] **Provide song list to Jason (guitarist)**
 - [ ] **Review finances**
@@ -132,6 +128,8 @@
 ### 🗓️ TUESDAY 24th FEBRUARY
 
 - [x] **Practice first dance** – DONE ✅
+- [ ] **Reimburse Hannah** – $250
+- [ ] **Reimburse Molly** – $152
 - [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
 - [ ] **Submit seating chart & floor plan to Clare**
@@ -151,6 +149,7 @@
 - [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
 - [ ] **Final run sheet & music cue list** – Compile and send to Clare
+- [ ] **Print name tags** – Add ribbons after printing
 - [ ] **Discuss linen with Rachael (Posies)**
 - [ ] **Confirm wet weather photo location**
 - [ ] **Print stickers for welcome mirror**
@@ -172,6 +171,7 @@
 
 ### 🗓️ FRIDAY 27th FEBRUARY
 
+- [ ] **Collect bar sign** – Pick up from printer
 - [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
