@@ -93,12 +93,12 @@
 **🔴 HARD DEADLINES — DUE BY FEB 25:**
 - [x] **Final guest count** – 108 guests ✅ Sent to Clare
 - [x] **Dietary requirements** – DONE ✅ All collected
-- [ ] **Choose 2 songs for register signing**
-- [ ] **Seating chart** – Ceremony reserved seats + reception table plan
-- [ ] **Final run sheet & music cue list**
+- [x] **Seating chart** – DONE ✅
 - [x] **Vendor contact list with arrival times** – DONE ✅
 - [x] **Alphabetical guest list** – DONE ✅
-- [ ] **Ceremony plan** – Processional order, witnesses, reader
+- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing** – *(Monday)*
+- [ ] **Final run sheet & music cue list** – *(Wednesday)*
+- [ ] **Ceremony plan** – Processional order, witnesses, reader *(Wednesday)*
 
 ---
 
