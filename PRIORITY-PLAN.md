@@ -11,42 +11,39 @@
 
 | Metric | Amount |
 |--------|--------|
-| **Total Budget (excl. Venue)** | $38,238 |
-| **Already Paid** | $28,666 |
-| **Remaining to Pay** | $9,572 |
-| **Savings Available** | $16,000 |
-| **Surplus** | $6,428 🎉 |
+| **Total Budget (excl. Venue)** | $38,318 |
+| **Already Paid** | $29,326 |
+| **Total Remaining** | $8,992 |
+| **Kevin & Sonja covering** | $2,200 (honeymoon – repay after wedding) |
+| **Russell & Holly to pay** | $6,792 |
+| **Savings in Bank** | $7,990 |
+| **Effective Surplus** | $1,198 🎉 |
+| **Expected Wedding Income** | ~$8,745 (gifts/wishing well on the day) |
 
 ### Outstanding Payments
 
 | # | Item | Amount | Status |
 |---|------|--------|--------|
-| 1 | ~~Florist (Posies – Rachael)~~ | ~~$3,400~~ | ✅ PAID (Feb 17) |
-| 2 | ~~Make Up Artist~~ | ~~$635~~ | ✅ PAID (Feb 17) |
-| 3 | ~~Bridal Wedding Dress Alterations~~ | ~~$600~~ | ✅ PAID |
-| 4 | ~~2nd Dress~~ | ~~$300~~ | ✅ PAID |
-| 5 | Honeymoon (remaining balance) | $2,800 | 🟢 After wedding |
-| 6 | Extra guests (8 people) | $1,800 | 🟡 Pay via Clare by Feb 25 |
-| 7 | Photographer (balance) | $1,750 | 🟡 Contacted Feb 17 – schedule payment |
-| 8 | Videographer (balance) | $1,750 | 🟡 Contacted Feb 17 – schedule payment |
-| 9 | Gin Bar | $1,250 | 🟡 PAY THIS WEEKEND |
-| 10 | Hair Stylist | $700 | 🟡 Before wedding |
-| 11 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
-| 12 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
-| 13 | Grooms Party Outfits (Hire) | $450 | 🟡 Booked – arrange pickup |
-| 14 | Dance Lessons | $270 | 🟢 Ongoing – next 25th Feb |
-| 15 | Vendor Meals (4 × $50) | $200 | 🟡 Confirm with venue by Feb 25 |
-| 16 | Facial Procedures | $300 | 🟢 Ongoing |
-| 17 | Reimburse Hannah (outfit) | $250 | 🟡 Before wedding |
-| 18 | Reimburse Molly (outfit) | $152 | 🟡 Before wedding |
-| 19 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Designed ✅ – print Week 3 |
-| 20 | Nails | $150 | ✅ BOOKED |
-| 21 | Fake Tan | $100 | ✅ BOOKED |
-| 22 | Facial/Body Waxing | $100 | ✅ BOOKED |
-| 23 | Bridal Perfume | $50 | 🟢 Purchase anytime |
-| 24 | Hair Cut/Colour | $40 | 🟢 Book for ~Feb 22–28 |
-| 25 | Teeth Whitening | $40 | 🟢 Schedule ASAP |
-| 26 | Marriage Licence | $70 | 🟢 After wedding – low priority |
+| 1 | Honeymoon (remaining) | $2,200 | 🟢 Kevin & Sonja covering – repay after wedding |
+| 2 | Photographer (balance) | $1,750 | 🟡 Schedule payment |
+| 3 | Videographer (balance) | $1,750 | 🟡 Schedule payment |
+| 4 | Extra guests (8) | $1,640 | 🟡 Pay via Clare |
+| 5 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
+| 6 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
+| 7 | Grooms Party Outfits (Hire) | $600 | 🟡 Arrange pickup |
+| 8 | Dinners for staff | $400 | 🟡 Confirm with venue |
+| 9 | Reimburse Hannah (outfit) | $250 | 🟡 Tuesday 25th |
+| 10 | Reimburse Molly (outfit) | $152 | 🟡 Tuesday 25th |
+| 11 | Facial Procedures (remaining) | $200 | 🟢 Ongoing |
+| 12 | Nails | $150 | ✅ BOOKED |
+| 13 | Groom haircut (morning of wedding) | $150 | 🟢 Week of wedding |
+| 14 | Fake Tan | $100 | ✅ BOOKED |
+| 15 | Facial/Body Waxing | $100 | ✅ BOOKED |
+| 16 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Printing this week |
+| 17 | Bridal Perfume | $50 | 🟡 Friday 27th |
+| 18 | Hair Cut/Colour | $40 | ✅ BOOKED (28th Feb) |
+| 19 | Teeth Whitening (DIY kit) | $40 | 🟡 Friday 27th |
+| 20 | Marriage Licence | $70 | 🟢 After wedding |
 
 ---
 
