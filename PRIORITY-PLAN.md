@@ -117,18 +117,15 @@
 ### 🗓️ TUESDAY 24th FEBRUARY
 
 - [x] **Practice first dance** – DONE ✅
-- [ ] **Slippers for Bridal Party** – Confirm Etsy delivery has arrived
-- [ ] **Provide song list to Jason (guitarist)**
-- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
-- [ ] **Reimburse Hannah** – $250
-- [ ] **Reimburse Molly** – $152
+- [x] **Slippers for Bridal Party** – DONE ✅
+- [x] **Provide song list to Jason (guitarist)** – DONE ✅
 - [x] **Seating chart built & submitted to Clare** – DONE ✅
 - [x] **Third-party cake disclaimer** – Info provided to Clare ✅
 - [x] **Holly to contact John** – DONE ✅
-- [ ] **Holly to sign wedding certificate** – Meeting with John tomorrow (Wednesday)
-- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
-- [ ] **Bridal shapewear** – Finalise if not done
-- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Provide comprehensive guidelines, musical cues and additional information as needed
+- [ ] **Finalise MC plan with Alcy & Emma** – Comprehensive guidelines, musical cues and additional information
+- [ ] **Reimburse Hannah** – $250
+- [ ] **Reimburse Molly** – $152
+- [ ] **Go over table number document – finalise names and print**
 - [ ] **Letters – target 30 done by end of today** (15 more today)
 
 ---
@@ -136,6 +133,7 @@
 ### 🗓️ WEDNESDAY 25th FEBRUARY
 
 - [ ] **Holly to sign wedding certificate with John**
+- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
 - [ ] **Dance lesson** – 8:30 AM
 - [ ] **Build cleaner, more readable version of seating chart**
 - [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
@@ -153,6 +151,7 @@
 
 - [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
+- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
 - [ ] **Confirm MCs (Alcy & Emma) are fully prepped** – Run sheet, timing, resources
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
@@ -168,6 +167,7 @@
 - [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Bridal shapewear** – Finalise
 - [ ] **Purchase bridal perfume** – $50
 - [ ] **Purchase DIY Teeth Whitening Kit** – Ready to apply tomorrow
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
