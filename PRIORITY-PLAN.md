@@ -122,7 +122,7 @@
 - [x] **Seating chart built & submitted to Clare** – DONE ✅
 - [x] **Third-party cake disclaimer** – Info provided to Clare ✅
 - [x] **Holly to contact John** – DONE ✅
-- [ ] **Finalise MC plan with Alcy & Emma** – Comprehensive guidelines, musical cues and additional information
+- [x] **Finalise MC plan with Alcy & Emma** – DONE ✅ Full itinerary with comprehensive guidelines, cues and scripts shared.
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 - [ ] **Go over table number document – finalise names and print**
