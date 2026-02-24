@@ -122,25 +122,25 @@
 - [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
-- [ ] **Build seating chart** – Ceremony reserved seats + reception table plan (DUE FEB 25)
-- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating (DUE FEB 25)
-- [ ] **Submit seating chart & floor plan to Clare**
-- [x] **Third-party cake disclaimer** – Info provided to Clare ✅. Confirm cake delivery time with Lucy (delivering on the day).
-- [ ] **Holly to contact John** – Arrange meeting to sign the wedding certificate
+- [x] **Seating chart built & submitted to Clare** – DONE ✅
+- [x] **Third-party cake disclaimer** – Info provided to Clare ✅
+- [x] **Holly to contact John** – DONE ✅
+- [ ] **Holly to sign wedding certificate** – Meeting with John tomorrow (Wednesday)
 - [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
 - [ ] **Bridal shapewear** – Finalise if not done
-- [ ] **Look into wedding bidding app**
-- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma**
+- [ ] **If not already confirmed – finalise MC plan with Alcy & Emma** – Provide comprehensive guidelines, musical cues and additional information as needed
 - [ ] **Letters – target 30 done by end of today** (15 more today)
 
 ---
 
 ### 🗓️ WEDNESDAY 25th FEBRUARY
 
+- [ ] **Holly to sign wedding certificate with John**
 - [ ] **Dance lesson** – 8:30 AM
+- [ ] **Build cleaner, more readable version of seating chart**
 - [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
-- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
 - [ ] **Final run sheet & music cue list** – Compile and send to Clare
+- [ ] **Look into wedding bidding app**
 - [ ] **Print name tags** – Add ribbons after printing
 - [ ] **Discuss linen with Rachael (Posies)**
 - [ ] **Confirm wet weather photo location**
@@ -151,6 +151,7 @@
 
 ### 🗓️ THURSDAY 26th FEBRUARY
 
+- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
 - [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
 - [ ] **Confirm MCs (Alcy & Emma) are fully prepped** – Run sheet, timing, resources
