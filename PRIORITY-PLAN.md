@@ -123,10 +123,8 @@
 - [x] **Third-party cake disclaimer** – Info provided to Clare ✅
 - [x] **Holly to contact John** – DONE ✅
 - [x] **Finalise MC plan with Alcy & Emma** – DONE ✅ Full itinerary with comprehensive guidelines, cues and scripts shared.
-- [ ] **Reimburse Hannah** – $250
-- [ ] **Reimburse Molly** – $152
-- [ ] **Go over table number document – finalise names and print**
-- [ ] **Letters – target 30 done by end of today** (15 more today)
+- [x] **Table number document – names finalised** – DONE ✅
+- [ ] **Letters – target 40 done by end of today**
 
 ---
 
@@ -134,14 +132,15 @@
 
 - [ ] **Holly to sign wedding certificate with John**
 - [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
-- [ ] **Dance lesson** – 8:30 AM
+- [ ] **Dance lesson** – 8:30 PM
+- [ ] **Print table number cards** – Names finalised, print and add ribbons
 - [ ] **Build cleaner, more readable version of seating chart**
-- [ ] **Confirm all vendor arrival times with Clare** – After 12pm, no later than 3pm on March 7
+- [x] **Confirm all vendor arrival times with Clare** – DONE ✅ Left with Clare to finalise
 - [ ] **Final run sheet & music cue list** – Compile and send to Clare
 - [ ] **Look into wedding bidding app**
 - [ ] **Print name tags** – Add ribbons after printing
 - [ ] **Discuss linen with Rachael (Posies)**
-- [ ] **Confirm wet weather photo location**
+- [x] **Confirm wet weather photo location** – DONE ✅
 - [ ] **Print stickers for welcome mirror**
 - [ ] **Print clean copies of wedding vows**
 
@@ -198,10 +197,18 @@
 |------|------|-------|
 | **Sunday 1st March** | 3:30pm | Pre-wedding photo shoot with Jinx (first look) |
 | **Wednesday 4th March** | 5:30pm | **Final dance lesson** |
+| **Thursday 5th March** | Morning | Message Clare – confirm she's comfortable with all vendor arrangements |
 | **Thursday 5th March** | 4:30pm | Meet Clare at venue – Mum, Holly & Russell |
 | **Thursday 5th March** | 4:45pm | Wedding rehearsal |
 | **Thursday 5th March** | After rehearsal | Holly & Russell practise final dance |
 | **Friday 6th March** | 9am–5pm | Final venue access – drop off all materials |
+
+### 🗓️ WEDNESDAY 4th MARCH
+
+- [ ] **Reimburse Hannah** – $250
+- [ ] **Reimburse Molly** – $152
+
+---
 
 ### 🗓️ TUESDAY 4th MARCH – Drop-Off at Venue (10:00 AM)
 
