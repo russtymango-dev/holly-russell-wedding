@@ -167,9 +167,9 @@
 - [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
-- [ ] **Bridal shapewear** – Finalise
+- [x] **Bridal shapewear** – DONE ✅
 - [ ] **Purchase bridal perfume** – $50
-- [ ] **Purchase DIY Teeth Whitening Kit** – Ready to apply tomorrow
+- [x] **Purchase DIY Teeth Whitening Kit** – DONE ✅
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
