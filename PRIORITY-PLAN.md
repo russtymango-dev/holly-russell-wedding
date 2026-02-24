@@ -205,6 +205,7 @@
 
 ### 🗓️ WEDNESDAY 4th MARCH
 
+- [ ] **Final dance lesson** – 5:30 PM
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 
