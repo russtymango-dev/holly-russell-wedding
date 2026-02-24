@@ -162,6 +162,8 @@
 
 ### 🗓️ FRIDAY 27th FEBRUARY
 
+- [ ] **Finalise photo schedule** – Lock in all groups, times and any remaining details
+- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm they are attending. Last chance to let us know of any changes.
 - [ ] **Collect bar sign** – Pick up from printer
 - [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
