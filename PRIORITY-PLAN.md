@@ -197,6 +197,7 @@
 | Date | Time | Event |
 |------|------|-------|
 | **Sunday 1st March** | 3:30pm | Pre-wedding photo shoot with Jinx (first look) |
+| **Wednesday 4th March** | 5:30pm | **Final dance lesson** |
 | **Thursday 5th March** | 4:30pm | Meet Clare at venue – Mum, Holly & Russell |
 | **Thursday 5th March** | 4:45pm | Wedding rehearsal |
 | **Thursday 5th March** | After rehearsal | Holly & Russell practise final dance |
