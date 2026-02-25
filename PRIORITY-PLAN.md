@@ -130,7 +130,7 @@
 
 ### 🗓️ WEDNESDAY 25th FEBRUARY
 
-- [ ] **Holly to sign wedding certificate with John**
+- [x] ~~Holly to sign wedding certificate with John~~ – Moved to Saturday
 - [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
 - [ ] **Dance lesson** – 8:30 PM
 - [ ] **Print table number cards** – Names finalised, print and add ribbons
@@ -179,6 +179,7 @@
 
 ### 🗓️ WEEKEND 28th FEB – 1st MARCH
 
+- [ ] **Saturday 28th – Sign wedding certificate with John** – 9:30 AM (Holly & Russell)
 - [ ] **Saturday 28th – Hair Cut/Colour appointment**
 - [ ] **Saturday 28th – Apply DIY Teeth Whitening Kit**
 - [ ] **Holly – Send photo of menu/place card recreation to Clare** – Take a recreation at home of how menus and place cards should be set up. Send by Sunday 1st March.
