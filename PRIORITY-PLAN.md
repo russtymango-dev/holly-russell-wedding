@@ -94,7 +94,7 @@
 - [x] **Seating chart** – DONE ✅
 - [x] **Vendor contact list with arrival times** – DONE ✅
 - [x] **Alphabetical guest list** – DONE ✅
-- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing** – *(Monday)*
+- [x] **Register signing + walk-away songs** – DONE ✅ Handled by Jason
 - [ ] **Final run sheet & music cue list** – *(Wednesday)*
 - [ ] **Ceremony plan** – Processional order, witnesses, reader *(Wednesday)*
 
@@ -128,65 +128,68 @@
 
 ---
 
-### 🗓️ WEDNESDAY 25th FEBRUARY
+### 🗓️ WEDNESDAY 25th FEBRUARY — ✅ COMPLETED
 
 - [x] ~~Holly to sign wedding certificate with John~~ – Moved to Saturday
-- [ ] **Choose 2 songs for register signing + 1 song to walk away after signing**
-- [ ] **Dance lesson** – 8:30 PM
-- [ ] **Print table number cards** – Names finalised, print and add ribbons
-- [ ] **Build cleaner, more readable version of seating chart**
-- [x] **Confirm all vendor arrival times with Clare** – DONE ✅ Left with Clare to finalise
-- [ ] **Final run sheet & music cue list** – Compile and send to Clare
-- [ ] **Look into wedding bidding app**
-- [ ] **Print name tags** – Add ribbons after printing
-- [ ] **Discuss linen with Rachael (Posies)**
+- [x] **Register signing + walk-away songs** – DONE ✅ Handled by Jason
+- [x] **Dance lesson** – 8:30 PM ✅
+- [x] **Confirm all vendor arrival times with Clare** – DONE ✅
 - [x] **Confirm wet weather photo location** – DONE ✅
-- [ ] **Print stickers for welcome mirror**
-- [ ] **Print clean copies of wedding vows**
+- [x] **Final run sheet** – DONE ✅ *(music cue list moved to weekend)*
 
 ---
 
-### 🗓️ THURSDAY 26th FEBRUARY
+### 🗓️ THURSDAY 26th FEBRUARY — ✅ COMPLETED
 
-- [ ] **Finalise ceremony plan** – Processional order, witnesses, reader, reserved seating
-- [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
-- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
-- [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
-- [ ] **Confirm MCs (Alcy & Emma) are fully prepped** – Run sheet, timing, resources
-- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
-- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
-- [ ] **Build and sort candle decorations**
+- [x] **Finalise ceremony plan** – DONE ✅
+- [x] **Confirm MCs (Alcy & Emma) are fully prepped** – DONE ✅
 - [ ] **Letters – all remaining done by end of today** (~65 total complete)
 
 ---
 
-### 🗓️ FRIDAY 27th FEBRUARY
+### 🗓️ FRIDAY 27th FEBRUARY — TODAY
 
 - [ ] **Finalise photo schedule** – Lock in all groups, times and any remaining details
-- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm they are attending. Last chance to let us know of any changes.
-- [ ] **Collect bar sign** – Pick up from printer
-- [ ] **Holly – final draft of wedding vows complete** – Must be done by Friday
-- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
+- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm they are attending. Last chance!
+- [x] **Collect bar sign** – DONE ✅
+- [ ] **Holly – final draft of wedding vows complete** – Due today
 - [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Print clean copies of wedding vows**
 - [x] **Bridal shapewear** – DONE ✅
-- [ ] **Purchase bridal perfume** – $50
 - [x] **Purchase DIY Teeth Whitening Kit** – DONE ✅
-- [ ] **Setup recovery brunch plan** – Food, let people know, house ready
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
-- [ ] **Finalise wedding morning playlist** *(if not done this weekend)*
+- [x] **Finalise wedding morning playlist** – DONE ✅
 
 ---
 
 ### 🗓️ WEEKEND 28th FEB – 1st MARCH
 
-- [ ] **Saturday 28th – Sign wedding certificate with John** – 9:30 AM (Holly & Russell)
-- [ ] **Saturday 28th – Hair Cut/Colour appointment**
-- [ ] **Saturday 28th – Apply DIY Teeth Whitening Kit**
-- [ ] **Holly – Send photo of menu/place card recreation to Clare** – Take a recreation at home of how menus and place cards should be set up. Send by Sunday 1st March.
-- [ ] **Holly – Figure out Luminary ceremony timing** – Work out timing for walking in during the processional to "Luminary". Due Sunday 1st March.
-- [ ] **Decide: extend wedding duration?** – Holly & Russell to discuss and confirm. Due Sunday 1st March.
-- [ ] **Sunday 1st March – Pre-wedding photo shoot with Jinx** (3:30pm)
-- [ ] **Sunday 1st March – Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements for wedding day
+**Saturday 28th:**
+- [ ] **Sign wedding certificate with John** – 9:30 AM (Holly & Russell)
+- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
+- [ ] **Hair Cut/Colour appointment**
+- [ ] **Apply DIY Teeth Whitening Kit**
+- [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
+- [ ] **Purchase bridal perfume** – $50
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
+- [ ] **Confirm with Jason about ceremony/register signing songs** – He's handling them, just confirm details
+
+**Both days:**
+- [ ] **Print table number cards** – Add ribbons after printing
+- [ ] **Print name tags** – Add ribbons after printing
+- [ ] **Build cleaner, more readable version of seating chart**
+- [ ] **Music cue list** – Compile and finalise
+- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
+- [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
+- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
+- [ ] **Build and sort candle decorations**
+
+**Sunday 1st March:**
+- [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [ ] **Holly – Figure out Luminary ceremony timing**
+- [ ] **Decide: extend wedding duration?**
+- [ ] **MC meetup / final confirmation with Alcy & Emma**
+- [ ] **Pre-wedding photo shoot with Jinx** (3:30pm)
+- [ ] **Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements
 
 ---
 
@@ -205,6 +208,19 @@
 | **Thursday 5th March** | 4:45pm | Wedding rehearsal |
 | **Thursday 5th March** | After rehearsal | Holly & Russell practise final dance |
 | **Friday 6th March** | 9am–5pm | Final venue access – drop off all materials |
+
+### 🗓️ MONDAY 2nd MARCH
+
+- [ ] **Confirm ceremony plan with Clare**
+
+---
+
+### 🗓️ TUESDAY 3rd MARCH
+
+- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
+- [ ] **Setup recovery brunch plan** – Food, let people know, house ready
+
+---
 
 ### 🗓️ WEDNESDAY 4th MARCH
 
