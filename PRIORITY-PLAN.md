@@ -149,6 +149,7 @@
 
 ### 🗓️ FRIDAY 27th FEBRUARY — TODAY
 
+- [ ] **Get $700 cash out** – To pay John (celebrant) on Saturday
 - [ ] **Finalise photo schedule** – Lock in all groups, times and any remaining details
 - [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm they are attending. Last chance!
 - [x] **Collect bar sign** – DONE ✅
@@ -165,6 +166,7 @@
 
 **Saturday 28th:**
 - [ ] **Sign wedding certificate with John** – 9:30 AM (Holly & Russell)
+- [ ] **Pay John (celebrant)** – $700 cash
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Hair Cut/Colour appointment**
 - [ ] **Apply DIY Teeth Whitening Kit**
@@ -184,6 +186,7 @@
 - [ ] **Build and sort candle decorations**
 
 **Sunday 1st March:**
+- [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
 - [ ] **Decide: extend wedding duration?**
@@ -212,6 +215,7 @@
 ### 🗓️ MONDAY 2nd MARCH
 
 - [ ] **Confirm ceremony plan with Clare**
+- [ ] **Russell – Create music playlist for pass the parcel**
 
 ---
 
