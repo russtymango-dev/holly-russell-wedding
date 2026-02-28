@@ -143,7 +143,7 @@
 
 - [x] **Finalise ceremony plan** – DONE ✅
 - [x] **Confirm MCs (Alcy & Emma) are fully prepped** – DONE ✅
-- [x] **Letters** – DONE ✅
+- [ ] **Letters – target 80 done by end of today**
 
 ---
 
@@ -215,6 +215,7 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
+- [ ] **Letters – all 100+ done by end of today**
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
 - [ ] **Russell – Create music playlist for pass the parcel**
