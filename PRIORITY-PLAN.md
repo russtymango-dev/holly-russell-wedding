@@ -143,22 +143,20 @@
 
 - [x] **Finalise ceremony plan** – DONE ✅
 - [x] **Confirm MCs (Alcy & Emma) are fully prepped** – DONE ✅
-- [ ] **Letters – all remaining done by end of today** (~65 total complete)
+- [x] **Letters** – DONE ✅
 
 ---
 
-### 🗓️ FRIDAY 27th FEBRUARY — TODAY
+### 🗓️ FRIDAY 27th FEBRUARY — ✅ COMPLETED
 
-- [ ] **Get $700 cash out** – To pay John (celebrant) on Saturday
-- [ ] **Finalise photo schedule** – Lock in all groups, times and any remaining details
-- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm they are attending. Last chance!
+- [x] **Get $700 cash out** – DONE ✅
 - [x] **Collect bar sign** – DONE ✅
-- [ ] **Holly – final draft of wedding vows complete** – Due today
-- [ ] **Polish and finalise wedding vows** – Holly & Russell
-- [ ] **Print clean copies of wedding vows**
 - [x] **Bridal shapewear** – DONE ✅
 - [x] **Purchase DIY Teeth Whitening Kit** – DONE ✅
 - [x] **Finalise wedding morning playlist** – DONE ✅
+- [x] ~~Finalise photo schedule~~ – Moved to Sunday
+- [x] ~~Send photo schedule~~ – Moved to Sunday
+- [x] ~~Holly vows / Polish vows / Print vows~~ – Moved to Sunday
 
 ---
 
