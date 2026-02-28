@@ -164,18 +164,30 @@
 
 ### 🗓️ WEEKEND 28th FEB – 1st MARCH
 
-**Saturday 28th:**
-- [ ] **Sign wedding certificate with John** – 9:30 AM (Holly & Russell)
-- [ ] **Pay John (celebrant)** – $700 cash
-- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
-- [ ] **Hair Cut/Colour appointment**
-- [ ] **Apply DIY Teeth Whitening Kit**
-- [ ] **Arrange Grooms Party Outfits pickup** – $450 balance, deposit paid
-- [ ] **Purchase bridal perfume** – $50
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
-- [ ] **Confirm with Jason about ceremony/register signing songs** – He's handling them, just confirm details
+**Saturday 28th — ✅ COMPLETED:**
+- [x] **Sign wedding certificate with John** – DONE ✅
+- [x] **Pay John (celebrant)** – DONE ✅
+- [x] **Hair Cut/Colour appointment** – DONE ✅
+- [x] **Arrange Grooms Party Outfits pickup** – DONE ✅ *(Zach's outfit outstanding – see Wednesday)*
 
-**Both days:**
+**Sunday 1st March — TODAY:**
+- [ ] **Finalise photo schedule** – Lock in all groups and times
+- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [ ] **Holly – draft wedding vows**
+- [ ] **Polish and finalise wedding vows** – Holly & Russell
+- [ ] **Print clean copies of wedding vows**
+- [ ] **Apply DIY Teeth Whitening Kit**
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
+- [ ] **Confirm with Jason about ceremony/register signing songs**
+- [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
+- [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [ ] **Holly – Figure out Luminary ceremony timing**
+- [ ] **Decide: extend wedding duration?**
+- [ ] **MC meetup / final confirmation with Alcy & Emma**
+- [ ] **Pre-wedding photo shoot with Jinx** (3:30pm)
+- [ ] **Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements
+
+**Both days (ongoing):**
 - [ ] **Print table number cards** – Add ribbons after printing
 - [ ] **Print name tags** – Add ribbons after printing
 - [ ] **Build cleaner, more readable version of seating chart**
@@ -184,15 +196,6 @@
 - [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
 - [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
 - [ ] **Build and sort candle decorations**
-
-**Sunday 1st March:**
-- [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
-- [ ] **Holly – Send photo of menu/place card recreation to Clare**
-- [ ] **Holly – Figure out Luminary ceremony timing**
-- [ ] **Decide: extend wedding duration?**
-- [ ] **MC meetup / final confirmation with Alcy & Emma**
-- [ ] **Pre-wedding photo shoot with Jinx** (3:30pm)
-- [ ] **Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements
 
 ---
 
@@ -214,6 +217,7 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
+- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
 - [ ] **Russell – Create music playlist for pass the parcel**
 
@@ -221,6 +225,7 @@
 
 ### 🗓️ TUESDAY 3rd MARCH
 
+- [ ] **Purchase bridal perfume** – $50
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 
@@ -229,6 +234,7 @@
 ### 🗓️ WEDNESDAY 4th MARCH
 
 - [ ] **Final dance lesson** – 5:30 PM
+- [ ] **Zach's Grooms Party Outfit** – $150 balance (couldn't pick up Saturday)
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 
