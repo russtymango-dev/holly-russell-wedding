@@ -177,6 +177,10 @@
 - [ ] **Apply DIY Teeth Whitening Kit**
 - [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [ ] **Confirm with Jason about ceremony/register signing songs**
+- [ ] **Message John (celebrant):**
+  - Send full list of all song names (as backup reference for the day)
+  - Send middle names of Kyle and Izzy
+  - Send Holly's vows
 - [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
