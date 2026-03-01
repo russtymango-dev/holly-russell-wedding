@@ -80,7 +80,7 @@
 | 69 | Liam Waters |
 | 70 | Lily Sapiano |
 | 71 | Lizz Grace |
-| 72 | Luci Taylor |
+| 72 | Lucy Taylor |
 | 73 | Mark Waters |
 | 74 | Mary Waldron |
 | 75 | Matt Gerard |
@@ -113,7 +113,7 @@
 | 102 | Sebastian Ballard |
 | 103 | Sonja Ballard |
 | 104 | Stefenia Ristuccia |
-| 105 | Suzzane Watts |
+| 105 | Suzanne Watts |
 | 106 | Tameka Williams |
 | 107 | Taylor Rawson |
 | 108 | Vincent Marciano |
@@ -121,33 +121,6 @@
 
 ---
 
-## ⚠️ Potential Spelling / Name Queries
-
-Please confirm the following — some differ from previously recorded names:
-
-| Name in this list | Previously recorded as | Query |
-|---|---|---|
-| Bryan Ballard | Brian Ballard | Bryan or Brian? |
-| Natayla Volkanova | Natayla Vyns | Surname changed? |
-| Amber Cameron | Amber Storm | Surname changed? |
-| Stefenia Ristuccia | Stefania Ristuccia | Stef**e**nia or Stef**a**nia? |
-| Suzzane Watts | Suzanne Watt | Suzzane or Suzanne? Watts or Watt? |
-| Ned Adison | Ned Andison | Adison or Andison? |
-| Genevieve Gibbs | Genevivie Gibbs | Corrected to Genevieve — confirm? |
-| Luci Taylor | Lucy | Full surname Taylor — is spelling Luci or Lucy? |
-| Brea Pendock | Brea Pendock | ✅ Consistent |
-| Sarah Fusea | Sarah (no surname) | Correct surname? |
-| Daisy Hayes | Daisy (no surname) | Correct surname? |
-| Harry Hayes | Harry (no surname) | Correct surname? |
-| Paige Milich | Paige (no surname) | Correct surname? |
-| Jarron Cole | Jarron (no surname) | Correct surname? |
-| Ebony New | Ebony (no surname) | Correct surname? |
-| Eli Barnes | Eli (no surname) | Correct surname? |
-| Leah Grossman | Leah (no surname) | Correct surname? |
-| Nat Schwuch | Nat (no surname) | Correct surname? |
-| Hannah McCauley | Hannah (no surname) | Correct surname? |
-| Matt Gerard | Matt (no surname) | Correct surname? |
-
 ---
 
-*Extracted from guest list provided 1st March 2026*
+*Extracted and confirmed 1st March 2026*
