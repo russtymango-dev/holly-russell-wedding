@@ -168,33 +168,29 @@
 - [x] **Hair Cut/Colour appointment** – DONE ✅
 - [x] **Arrange Grooms Party Outfits pickup** – DONE ✅ *(Zach's outfit outstanding – see Wednesday)*
 
-**Sunday 1st March — TODAY:**
-- [ ] **Finalise photo schedule** – Lock in all groups and times
-- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+**Sunday 1st March — ✅ COMPLETED:**
+- [x] **Finalise photo schedule** – DONE ✅
 - [x] **Holly – draft wedding vows** – DONE ✅
 - [x] **Polish and finalise wedding vows** – DONE ✅
 - [x] **Print clean copies of wedding vows** – DONE ✅
-- [ ] **Apply DIY Teeth Whitening Kit**
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer *(Jason messaged re: money & ceremony signing song)*
-- [x] **Confirm with Jason about ceremony/register signing songs** – DONE ✅ Jason messaged
-- [x] **Message John (celebrant)** – DONE ✅ Songs list, middle names, Holly's vows sent
-- [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
+- [x] **Confirm with Jason about ceremony/register signing songs** – DONE ✅
+- [x] **Message John (celebrant)** – DONE ✅
+- [x] **MC meetup / final confirmation with Alcy & Emma** – DONE ✅
+- [x] **Meet Sonja, Kevin, Karen & Mark** – DONE ✅ Transport in place
+- [x] ~~Decide: extend wedding duration~~ – Not extending ✅
+- [x] ~~Pre-wedding photo shoot with Jinx~~ – Moved to after wedding (15th March)
+- [ ] **Apply DIY Teeth Whitening Kit** – Do tonight
+- [x] ~~Send photo schedule to all attendees~~ – Moved to Monday
+- [x] ~~Buy mugs from Kmart~~ – Moved to Monday
+- [x] ~~Pay Guitarist (Jason)~~ – Moved to Monday
 - [x] ~~Holly – Send photo of menu/place card recreation to Clare~~ – Moved to Monday
 - [x] ~~Holly – Figure out Luminary ceremony timing~~ – Moved to Monday
-- [x] ~~Decide: extend wedding duration~~ – Not extending ✅
-- [x] **MC meetup / final confirmation with Alcy & Emma** – DONE ✅
-- [x] ~~Pre-wedding photo shoot with Jinx~~ – Moved to after the wedding (Sunday 15th March)
-- [x] **Meet Sonja, Kevin, Karen & Mark** – DONE ✅ Transport arrangements in place
-
-**Both days (ongoing):**
-- [ ] **Print table number cards** – Add ribbons after printing
-- [ ] **Print name tags** – Add ribbons after printing
-- [ ] **Build cleaner, more readable version of seating chart**
-- [ ] **Music cue list** – Compile and finalise
-- [x] **Figure out logistics for pass-the-parcel** – Moved to Monday/Tuesday *(see Week 4)*
-- [x] **Set up wedding pass-the-parcel** – Moved to Monday/Tuesday *(see Week 4)*
-- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
-- [ ] **Build and sort candle decorations**
+- [x] ~~Print table number cards~~ – Moved to Monday
+- [x] ~~Print name tags~~ – Moved to Monday
+- [x] ~~Build cleaner seating chart~~ – DONE ✅
+- [x] ~~Music cue list~~ – Moved to Monday
+- [x] ~~Sort and set up table decorations~~ – Moved to Monday
+- [x] ~~Build and sort candle decorations~~ – Moved to Monday
 
 ---
 
