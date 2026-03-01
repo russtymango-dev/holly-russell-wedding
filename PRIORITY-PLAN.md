@@ -191,8 +191,8 @@
 - [ ] **Print name tags** – Add ribbons after printing
 - [ ] **Build cleaner, more readable version of seating chart**
 - [ ] **Music cue list** – Compile and finalise
-- [ ] **Figure out logistics for pass-the-parcel** – Prizes, wrapping, how it runs on the night
-- [ ] **Set up wedding pass-the-parcel** – Purchase prizes and wrap
+- [x] **Figure out logistics for pass-the-parcel** – Moved to Monday/Tuesday *(see Week 4)*
+- [x] **Set up wedding pass-the-parcel** – Moved to Monday/Tuesday *(see Week 4)*
 - [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
 - [ ] **Build and sort candle decorations**
 
@@ -217,6 +217,7 @@
 ### 🗓️ MONDAY 2nd MARCH
 
 - [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it. Once done, message Kevin, Sonja, Karen & Mark their relevant information.
+- [ ] **Pass-the-parcel logistics & prep** – Finalize how it runs, gather items, get ready for wrapping
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
 - [ ] **Letters – all 100+ done by end of today**
@@ -228,6 +229,8 @@
 
 ### 🗓️ TUESDAY 3rd MARCH
 
+- [ ] **Go to Vinnies (Grovedale)** – Shop for pass-the-parcel prizes
+- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Check-in with Simon (photographer):**
   - Send him the photo schedule
   - Ask if additional copies of the photo album can be purchased for family members
