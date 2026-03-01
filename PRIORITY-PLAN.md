@@ -180,9 +180,9 @@
 - [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
-- [ ] **Decide: extend wedding duration?**
+- [x] ~~Decide: extend wedding duration~~ – Not extending ✅
 - [ ] **MC meetup / final confirmation with Alcy & Emma**
-- [ ] **Pre-wedding photo shoot with Jinx** (3:30pm)
+- [x] ~~Pre-wedding photo shoot with Jinx~~ – Moved to after the wedding (Sunday 15th March)
 - [ ] **Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements
 
 **Both days (ongoing):**
@@ -337,4 +337,12 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 
 ---
 
-*Last updated: Saturday 21st February 2026*
+---
+
+## 🐾 POST-WEDDING
+
+- [ ] **Photo shoot with Jinx** – Sunday 15th March (first look / pre-wedding style shoot)
+
+---
+
+*Last updated: Sunday 1st March 2026*
