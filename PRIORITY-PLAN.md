@@ -216,14 +216,30 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
-- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it. Once done, message Kevin, Sonja, Karen & Mark their relevant information.
-- [ ] **Pass-the-parcel logistics & prep** – Finalize how it runs, gather items, get ready for wrapping
+**🌅 Morning Priority:**
+- [ ] **Apply DIY Teeth Whitening Kit**
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
+- [ ] **Confirm printing of table number cards**
+- [ ] **Print name tags** – Add ribbons after printing
+
+**☀️ All Day:**
+- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm attendance. Last chance!
+- [ ] **Letters – all 100+ done by end of today**
+
+**🌆 Afternoon:**
+- [ ] **Music cue list** – Compile and finalise
+- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
+- [ ] **Build and sort candle decorations**
+- [ ] **Build master venue drop-off & pickup list** – List every item going to Truffle Duck, with drop-off date, pickup date, and who's collecting. Message Kevin, Sonja, Karen & Mark their details.
+- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs, gather items
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
-- [ ] **Letters – all 100+ done by end of today**
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
 - [ ] **Russell – Create music playlist for pass the parcel**
+
+**✅ Already done:**
+- [x] **Build cleaner seating chart** – DONE ✅
 
 ---
 
