@@ -215,6 +215,7 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
+- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it
 - [ ] **Letters – all 100+ done by end of today**
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
@@ -224,6 +225,9 @@
 
 ### 🗓️ TUESDAY 3rd MARCH
 
+- [ ] **Check-in with Simon (photographer):**
+  - Send him the photo schedule
+  - Ask if additional copies of the photo album can be purchased for family members
 - [ ] **Purchase bridal perfume** – $50
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
