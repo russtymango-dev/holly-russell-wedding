@@ -187,7 +187,7 @@
 - [x] ~~Decide: extend wedding duration~~ – Not extending ✅
 - [ ] **MC meetup / final confirmation with Alcy & Emma**
 - [x] ~~Pre-wedding photo shoot with Jinx~~ – Moved to after the wedding (Sunday 15th March)
-- [ ] **Meet Sonja, Kevin, Karen & Mark** – Confirm transport arrangements
+- [x] **Meet Sonja, Kevin, Karen & Mark** – DONE ✅ Transport arrangements in place
 
 **Both days (ongoing):**
 - [ ] **Print table number cards** – Add ribbons after printing
@@ -219,7 +219,7 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
-- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it
+- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it. Once done, message Kevin, Sonja, Karen & Mark their relevant information so they know what they need to do and when.
 - [ ] **Letters – all 100+ done by end of today**
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
