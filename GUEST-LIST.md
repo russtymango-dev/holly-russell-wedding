@@ -1,6 +1,6 @@
 # Holly & Russell Wedding – Full Guest List
 
-**Total Guests: 108**  
+**Total Guests: 108** *(109 rows — row 14 "Bea Pendock" is a duplicate/error, true count is 108)*  
 **Wedding Date:** Saturday 7th March 2026
 
 ---
@@ -22,7 +22,7 @@
 | 11 | Anton Jaya |
 | 12 | August McPhail |
 | 13 | Austin Daly |
-| 14 | Bea Pendock |
+| 14 | ~~Bea Pendock~~ *(duplicate — remove, not a real guest)* |
 | 15 | Bec Surkitt |
 | 16 | Ben Jurica |
 | 17 | Ben Peel |
