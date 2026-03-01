@@ -234,7 +234,7 @@
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs, gather items
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
-- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
+- [ ] **Pick up contact lenses** – Holly & Russell from Specsavers (3:00 PM)
 - [ ] **Confirm ceremony plan with Clare**
 - [ ] **Russell – Create music playlist for pass the parcel**
 
