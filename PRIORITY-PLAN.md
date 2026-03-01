@@ -171,21 +171,18 @@
 **Sunday 1st March — TODAY:**
 - [ ] **Finalise photo schedule** – Lock in all groups and times
 - [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
-- [ ] **Holly – draft wedding vows**
-- [ ] **Polish and finalise wedding vows** – Holly & Russell
-- [ ] **Print clean copies of wedding vows**
+- [x] **Holly – draft wedding vows** – DONE ✅
+- [x] **Polish and finalise wedding vows** – DONE ✅
+- [x] **Print clean copies of wedding vows** – DONE ✅
 - [ ] **Apply DIY Teeth Whitening Kit**
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
-- [ ] **Confirm with Jason about ceremony/register signing songs**
-- [ ] **Message John (celebrant):**
-  - Send full list of all song names (as backup reference for the day)
-  - Send middle names of Kyle and Izzy
-  - Send Holly's vows
+- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer *(Jason messaged re: money & ceremony signing song)*
+- [x] **Confirm with Jason about ceremony/register signing songs** – DONE ✅ Jason messaged
+- [x] **Message John (celebrant)** – DONE ✅ Songs list, middle names, Holly's vows sent
 - [ ] **Buy mugs from Kmart** – "I attended Russell & Holly's wedding" mugs for pass the parcel prizes
-- [ ] **Holly – Send photo of menu/place card recreation to Clare**
-- [ ] **Holly – Figure out Luminary ceremony timing**
+- [x] ~~Holly – Send photo of menu/place card recreation to Clare~~ – Moved to Monday
+- [x] ~~Holly – Figure out Luminary ceremony timing~~ – Moved to Monday
 - [x] ~~Decide: extend wedding duration~~ – Not extending ✅
-- [ ] **MC meetup / final confirmation with Alcy & Emma**
+- [x] **MC meetup / final confirmation with Alcy & Emma** – DONE ✅
 - [x] ~~Pre-wedding photo shoot with Jinx~~ – Moved to after the wedding (Sunday 15th March)
 - [x] **Meet Sonja, Kevin, Karen & Mark** – DONE ✅ Transport arrangements in place
 
@@ -219,7 +216,9 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
-- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it. Once done, message Kevin, Sonja, Karen & Mark their relevant information so they know what they need to do and when.
+- [ ] **Build master venue drop-off & pickup list** – List every item being taken to Truffle Duck, with drop-off date, pickup date, and who is collecting it. Once done, message Kevin, Sonja, Karen & Mark their relevant information.
+- [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [ ] **Holly – Figure out Luminary ceremony timing**
 - [ ] **Letters – all 100+ done by end of today**
 - [ ] **Pick up contact lenses** – Holly & Russell from Specsavers
 - [ ] **Confirm ceremony plan with Clare**
@@ -277,6 +276,7 @@
 
 ### Rehearsal Day (Thursday 5th March)
 
+- [ ] **Reread wedding vows** – Final read-through before the big day
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
 - [ ] Meet Clare at 4:30pm
 - [ ] Wedding rehearsal at 4:45pm
