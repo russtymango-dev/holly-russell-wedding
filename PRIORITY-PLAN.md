@@ -236,6 +236,7 @@
 - [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend
 - [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
 - [ ] **Music cue list** – Compile and finalise
+- [ ] **Send Clare updated Organizer Run Sheet** – Do this AFTER music cue list is complete. Send as a downloadable link: hollyandrussellwedding.xyz/organizer-runsheet
 - [ ] **Build master venue drop-off & pickup list** – List every item, drop-off/pickup dates, who's collecting. Message Kevin, Sonja, Karen & Mark their details.
 - [ ] **Letters – ongoing, target done by midday Thursday**
 
