@@ -248,11 +248,11 @@
 - [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
 - [ ] **Russell – Pick up contact lenses** – From Specsavers
 - [ ] **Russell – Pick up altered suit** – 2:00 PM
-- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Build and sort candle decorations**
-- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
 - [ ] **Sort and set up table decorations** – Assemble at home
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [x] ~~Wrap pass-the-parcel~~ – Moved to Wednesday
+- [x] ~~Pass-the-parcel logistics & prep~~ – Moved to Wednesday
 - [ ] **Check-in with Simon (photographer):**
   - Send him the photo schedule
   - Ask if additional copies of the photo album can be purchased for family members
@@ -264,6 +264,9 @@
 
 ### 🗓️ WEDNESDAY 4th MARCH
 
+- [ ] **Russell – Sort out Win 4 configuration**
+- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
+- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
 - [ ] **Final dance lesson** – 5:30 PM
 - [ ] **Zach's Grooms Party Outfit** – $150 balance (couldn't pick up Saturday)
 - [ ] **Reimburse Hannah** – $250
@@ -299,10 +302,11 @@
 - [ ] Facial/Body Waxing – ~March 2–4
 - [ ] Nails (bridal party) – ~March 5–6
 
-### Rehearsal Day (Thursday 5th March)
+### 🗓️ THURSDAY 5th MARCH — Rehearsal Day
 
 - [ ] **Reread wedding vows** – Final read-through before the big day
 - [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
+- [ ] **Russell & Holly – Dinner at The Local** – 7:00 PM
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
 - [ ] Meet Clare at 4:30pm
 - [ ] Wedding rehearsal at 4:45pm
