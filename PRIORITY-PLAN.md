@@ -216,6 +216,8 @@
 - [ ] **Apply DIY Teeth Whitening Kit**
 - [ ] **Practice dancing tonight**
 - [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend to them
+- [ ] **Russell – Create music playlist for pass the parcel**
+- [x] **Confirm ceremony plan with Clare** – DONE ✅ Documented in organizer run sheet (sent to Clare)
 - [x] **Confirm printing of table number cards** – DONE ✅
 - [x] **Print name tags** – DONE ✅
 
@@ -225,18 +227,16 @@
 
 **🌆 Afternoon:**
 - [ ] **Music cue list** – Compile and finalise
-- [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
-- [x] ~~Build and sort candle decorations~~ – Moved to Tuesday
 - [ ] **Build master venue drop-off & pickup list** – List every item going to Truffle Duck, with drop-off date, pickup date, and who's collecting. Message Kevin, Sonja, Karen & Mark their details.
 - [x] **Pay Guitarist (Jason)** – DONE ✅
 - [x] **Pay Photographer (Simon)** – DONE ✅
 - [x] **Pay Videographer (Julie)** – DONE ✅
 - [x] **Pick up contact lenses** – DONE ✅
-- [ ] **Holly – Send photo of menu/place card recreation to Clare**
-- [ ] **Holly – Figure out Luminary ceremony timing**
-- [x] ~~Confirm ceremony plan with Clare~~ – Moved to Tuesday
+- [x] ~~Sort and set up table decorations~~ – Moved to Tuesday
+- [x] ~~Holly – Send photo of menu/place card recreation to Clare~~ – Moved to Tuesday
+- [x] ~~Holly – Figure out Luminary ceremony timing~~ – Moved to Thursday
 - [x] ~~Pass-the-parcel logistics & prep~~ – Moved to Tuesday
-- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to Tuesday
+- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to tonight
 
 **✅ Already done:**
 - [x] **Build cleaner seating chart** – DONE ✅
@@ -250,9 +250,9 @@
 - [ ] **Russell – Pick up altered suit** – 2:00 PM
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Build and sort candle decorations**
-- [ ] **Russell – Create music playlist for pass the parcel**
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
-- [ ] **Confirm ceremony plan with Clare**
+- [ ] **Sort and set up table decorations** – Assemble at home
+- [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Check-in with Simon (photographer):**
   - Send him the photo schedule
   - Ask if additional copies of the photo album can be purchased for family members
@@ -302,6 +302,7 @@
 ### Rehearsal Day (Thursday 5th March)
 
 - [ ] **Reread wedding vows** – Final read-through before the big day
+- [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
 - [ ] Meet Clare at 4:30pm
 - [ ] Wedding rehearsal at 4:45pm
