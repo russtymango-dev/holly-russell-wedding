@@ -214,9 +214,9 @@
 
 **🌅 Morning Priority:**
 - [ ] **Apply DIY Teeth Whitening Kit**
-- [ ] **Practice dancing tonight**
+- [x] **Practice dancing tonight** – DONE ✅
 - [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend to them
-- [ ] **Russell – Create music playlist for pass the parcel**
+- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to Tuesday
 - [ ] **Get RMA for the vaporiser** *(non-wedding)*
 - [x] **Confirm ceremony plan with Clare** – DONE ✅ Documented in organizer run sheet (sent to Clare)
 - [x] **Confirm printing of table number cards** – DONE ✅
@@ -247,6 +247,7 @@
 ### 🗓️ TUESDAY 3rd MARCH
 
 - [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
+- [ ] **Russell – Create music playlist for pass the parcel**
 - [ ] **Russell – Pick up contact lenses** – From Specsavers
 - [ ] **Russell – Pick up altered suit** – 2:00 PM
 - [ ] **Build and sort candle decorations**
