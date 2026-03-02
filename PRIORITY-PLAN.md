@@ -215,6 +215,7 @@
 **🌅 Morning Priority:**
 - [ ] **Apply DIY Teeth Whitening Kit**
 - [ ] **Practice dancing tonight**
+- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend to them
 - [x] **Confirm printing of table number cards** – DONE ✅
 - [x] **Print name tags** – DONE ✅
 
