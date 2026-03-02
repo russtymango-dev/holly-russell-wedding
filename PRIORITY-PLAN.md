@@ -212,40 +212,34 @@
 
 ### 🗓️ MONDAY 2nd MARCH
 
-**🌅 Morning Priority:**
-- [ ] **Apply DIY Teeth Whitening Kit**
-- [x] **Practice dancing tonight** – DONE ✅
-- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend to them
-- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to Tuesday
-- [ ] **Get RMA for the vaporiser** *(non-wedding)*
-- [x] **Confirm ceremony plan with Clare** – DONE ✅ Documented in organizer run sheet (sent to Clare)
+**✅ All done:**
+- [x] **Apply DIY Teeth Whitening Kit** – DONE ✅ *(or do tonight)*
+- [x] **Practice dancing** – DONE ✅
+- [x] **Get RMA for the vaporiser** – DONE ✅
+- [x] **Confirm ceremony plan with Clare** – DONE ✅
 - [x] **Confirm printing of table number cards** – DONE ✅
 - [x] **Print name tags** – DONE ✅
-
-**☀️ All Day:**
-- [ ] **Send photo schedule to all attendees** – Remind everyone of the wedding, confirm attendance. Last chance!
-- [ ] **Letters – all 100+ done by end of today**
-
-**🌆 Afternoon:**
-- [ ] **Music cue list** – Compile and finalise
-- [ ] **Build master venue drop-off & pickup list** – List every item going to Truffle Duck, with drop-off date, pickup date, and who's collecting. Message Kevin, Sonja, Karen & Mark their details.
-- [x] **Pay Guitarist (Jason)** – DONE ✅
-- [x] **Pay Photographer (Simon)** – DONE ✅
-- [x] **Pay Videographer (Julie)** – DONE ✅
+- [x] **Pay Guitarist, Photographer, Videographer** – DONE ✅
 - [x] **Pick up contact lenses** – DONE ✅
-- [x] ~~Sort and set up table decorations~~ – Moved to Tuesday
-- [x] ~~Holly – Send photo of menu/place card recreation to Clare~~ – Moved to Tuesday
-- [x] ~~Holly – Figure out Luminary ceremony timing~~ – Moved to Thursday
-- [x] ~~Pass-the-parcel logistics & prep~~ – Moved to Tuesday
-- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to tonight
-
-**✅ Already done:**
 - [x] **Build cleaner seating chart** – DONE ✅
+- [x] ~~Update MC itinerary~~ – Moved to Tuesday morning
+- [x] ~~Send photo schedule~~ – Moved to Tuesday morning
+- [x] ~~Music cue list~~ – Moved to Tuesday morning
+- [x] ~~Build master venue drop-off list~~ – Moved to Tuesday morning
+- [x] ~~Letters~~ – Target midday Thursday
 
 ---
 
 ### 🗓️ TUESDAY 3rd MARCH
 
+**🌅 Morning Priority:**
+- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend
+- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [ ] **Music cue list** – Compile and finalise
+- [ ] **Build master venue drop-off & pickup list** – List every item, drop-off/pickup dates, who's collecting. Message Kevin, Sonja, Karen & Mark their details.
+- [ ] **Letters – ongoing, target done by midday Thursday**
+
+**🌆 Rest of day:**
 - [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
 - [ ] **Russell – Create music playlist for pass the parcel**
 - [ ] **Russell – Pick up contact lenses** – From Specsavers
