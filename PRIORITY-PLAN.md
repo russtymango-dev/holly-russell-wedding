@@ -214,7 +214,6 @@
 
 **🌅 Morning Priority:**
 - [ ] **Apply DIY Teeth Whitening Kit**
-- [ ] **Pay Guitarist (Jason)** – $750 cash/transfer
 - [x] **Confirm printing of table number cards** – DONE ✅
 - [x] **Print name tags** – DONE ✅
 
@@ -225,7 +224,7 @@
 **🌆 Afternoon:**
 - [ ] **Music cue list** – Compile and finalise
 - [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
-- [ ] **Build and sort candle decorations**
+- [x] ~~Build and sort candle decorations~~ – Moved to Tuesday
 - [ ] **Build master venue drop-off & pickup list** – List every item going to Truffle Duck, with drop-off date, pickup date, and who's collecting. Message Kevin, Sonja, Karen & Mark their details.
 - [x] **Pay Guitarist (Jason)** – DONE ✅
 - [x] **Pay Photographer (Simon)** – DONE ✅
@@ -245,7 +244,10 @@
 ### 🗓️ TUESDAY 3rd MARCH
 
 - [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
+- [ ] **Russell – Pick up contact lenses** – From Specsavers
+- [ ] **Russell – Pick up altered suit** – 2:00 PM
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
+- [ ] **Build and sort candle decorations**
 - [ ] **Russell – Create music playlist for pass the parcel**
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
 - [ ] **Confirm ceremony plan with Clare**
