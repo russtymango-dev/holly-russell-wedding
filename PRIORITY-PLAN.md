@@ -27,12 +27,12 @@
 | 1 | Extra guests (8) | $1,640 | 🟣 Kevin & Sonja covering |
 | 2 | Entree one-off fee | $160 | 🟣 Kevin & Sonja covering |
 | 3 | Dinners for staff (5 × $80) | $400 | 🟣 Kevin & Sonja covering |
-| 4 | Photographer (balance) | $1,750 | 🟡 Schedule payment |
-| 5 | Videographer (balance) | $1,750 | 🟡 Schedule payment |
-| 6 | Guitarist (Jason) | $750 | 🟡 Cash/transfer closer to wedding |
-| 7 | Celebrant (John – balance) | $700 | 🟡 Before wedding |
+| 4 | ~~Photographer (balance)~~ | ~~$1,750~~ | ✅ PAID |
+| 5 | ~~Videographer (balance)~~ | ~~$1,750~~ | ✅ PAID |
+| 6 | ~~Guitarist (Jason)~~ | ~~$750~~ | ✅ PAID |
+| 7 | ~~Celebrant (John – balance)~~ | ~~$700~~ | ✅ PAID |
 | 8 | ~~Hair Stylist~~ | ~~$700~~ | ✅ PAID |
-| 9 | Grooms Party Outfits (Hire) | $600 | 🟡 Arrange pickup (incl. alterations) |
+| 9 | Grooms Party Outfits (Hire) | $150 | 🟡 Zach's outfit remaining (Tuesday) |
 | 10 | Reimburse Hannah (outfit) | $250 | 🟡 Tuesday |
 | 11 | Reimburse Molly (outfit) | $152 | 🟡 Tuesday |
 | 12 | Facial Procedures (remaining) | $200 | 🟢 Ongoing |
@@ -40,10 +40,10 @@
 | 14 | Groom haircut (morning of wedding) | $150 | 🟢 Week of wedding |
 | 15 | Fake Tan | $100 | ✅ BOOKED |
 | 16 | Facial/Body Waxing | $100 | ✅ BOOKED |
-| 17 | Table Cards/Menu Cards/Stickers | $100 | 🟡 Printing this week |
-| 18 | Bridal Perfume | $50 | 🟡 Friday 27th |
+| 17 | ~~Table Cards/Menu Cards/Stickers~~ | ~~$100~~ | ✅ PRINTED & DONE |
+| 18 | Bridal Perfume | $50 | 🟡 Tuesday |
 | 19 | Hair Cut/Colour | $40 | ✅ BOOKED (28th Feb) |
-| 20 | Teeth Whitening (DIY kit) | $40 | 🟡 Friday 27th |
+| 20 | ~~Teeth Whitening (DIY kit)~~ | ~~$40~~ | ✅ PAID – apply tonight |
 | 21 | Marriage Licence | $70 | 🟢 After wedding |
 
 ---
