@@ -217,6 +217,7 @@
 - [ ] **Practice dancing tonight**
 - [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend to them
 - [ ] **Russell – Create music playlist for pass the parcel**
+- [ ] **Get RMA for the vaporiser** *(non-wedding)*
 - [x] **Confirm ceremony plan with Clare** – DONE ✅ Documented in organizer run sheet (sent to Clare)
 - [x] **Confirm printing of table number cards** – DONE ✅
 - [x] **Print name tags** – DONE ✅
@@ -274,7 +275,7 @@
 
 ---
 
-### 🗓️ TUESDAY 3rd MARCH – Drop-Off at Venue (10:00 AM)
+### 🗓️ WEDNESDAY 4th MARCH – Drop-Off at Venue (3:00–5:00 PM)
 
 - [ ] Place cards (labelled by table)
 - [ ] Table menu cards & name tags
