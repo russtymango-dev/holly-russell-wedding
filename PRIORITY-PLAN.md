@@ -261,6 +261,7 @@
 
 ### 🗓️ WEDNESDAY 4th MARCH
 
+- [ ] **Create wedding evening playlist** – Background music for dinner and entrée service
 - [ ] **Russell – Sort out Win 4 configuration**
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
