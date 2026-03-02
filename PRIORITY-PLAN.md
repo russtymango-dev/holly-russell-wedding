@@ -227,12 +227,15 @@
 - [ ] **Sort and set up table decorations** – Assemble at home, transport on drop-off day
 - [ ] **Build and sort candle decorations**
 - [ ] **Build master venue drop-off & pickup list** – List every item going to Truffle Duck, with drop-off date, pickup date, and who's collecting. Message Kevin, Sonja, Karen & Mark their details.
-- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs, gather items
+- [x] **Pay Guitarist (Jason)** – DONE ✅
+- [x] **Pay Photographer (Simon)** – DONE ✅
+- [x] **Pay Videographer (Julie)** – DONE ✅
+- [x] **Pick up contact lenses** – DONE ✅
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Holly – Figure out Luminary ceremony timing**
-- [x] **Pick up contact lenses** – DONE ✅
-- [ ] **Confirm ceremony plan with Clare**
-- [ ] **Russell – Create music playlist for pass the parcel**
+- [x] ~~Confirm ceremony plan with Clare~~ – Moved to Tuesday
+- [x] ~~Pass-the-parcel logistics & prep~~ – Moved to Tuesday
+- [x] ~~Russell – Create music playlist for pass the parcel~~ – Moved to Tuesday
 
 **✅ Already done:**
 - [x] **Build cleaner seating chart** – DONE ✅
@@ -241,8 +244,11 @@
 
 ### 🗓️ TUESDAY 3rd MARCH
 
-- [ ] **Go to Vinnies (Grovedale)** – Shop for pass-the-parcel prizes
+- [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
+- [ ] **Russell – Create music playlist for pass the parcel**
+- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
+- [ ] **Confirm ceremony plan with Clare**
 - [ ] **Check-in with Simon (photographer):**
   - Send him the photo schedule
   - Ask if additional copies of the photo album can be purchased for family members
