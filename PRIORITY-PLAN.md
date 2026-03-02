@@ -245,6 +245,8 @@
 - [ ] **Russell – Create music playlist for pass the parcel**
 - [ ] **Russell – Pick up contact lenses** – From Specsavers
 - [ ] **Russell – Pick up altered suit** – 2:00 PM
+- [ ] **Iron and steam welcome sign and bar sign**
+- [ ] **Set up welcome sign metal holder**
 - [ ] **Build and sort candle decorations**
 - [ ] **Sort and set up table decorations** – Assemble at home
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
@@ -263,6 +265,7 @@
 
 - [ ] **Create wedding evening playlist** – Background music for dinner and entrée service
 - [ ] **Russell – Sort out Win 4 configuration**
+- [ ] **Charge all cameras and devices**
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
 - [ ] **Final dance lesson** – 5:30 PM
@@ -311,15 +314,9 @@
 - [ ] Practice processional timing with music
 - [ ] Holly & Russell practise final dance
 
-### Wedding Week Prep (Mon 2 – Thu 5 March)
+### 🗓️ FRIDAY 6th MARCH
 
-- [ ] **Iron and steam welcome sign and bar sign** – Monday or Tuesday
-- [ ] **Set up welcome sign metal holder** – Monday or Tuesday
-- [ ] **Charge all cameras and devices**
-
-### Last Checks
-
-- [ ] **Final dance lesson** – Confirm date/status
+- [ ] **Confirm bags packed** – Holly & Russell both packed and ready for wedding day
 
 ---
 
