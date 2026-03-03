@@ -231,6 +231,7 @@
 ### 🗓️ WEDNESDAY 4th MARCH
 
 **🌅 Morning Priority:**
+- [ ] **Dance practice** – 8:00 AM
 - [ ] **Music cue list** – Compile and finalise
 - [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes, then resend to them
 - [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
@@ -254,7 +255,9 @@
 - [ ] **Charge all cameras and devices**
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
+- [ ] **Zach's Grooms Party Outfit pickup** – 3:00 PM
 - [ ] **Final dance lesson** – 5:30 PM
+- [ ] **Check-in with Simon (photographer)** – 8:00 PM evening
 - [ ] **Zach's Grooms Party Outfit** – $150 balance (couldn't pick up Saturday)
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
