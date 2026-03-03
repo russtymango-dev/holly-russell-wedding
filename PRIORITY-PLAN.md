@@ -258,6 +258,7 @@
 - [ ] **Zach's Grooms Party Outfit pickup** – 3:00 PM
 - [ ] **Final dance lesson** – 5:30 PM
 - [ ] **Check-in with Simon (photographer)** – 8:00 PM evening
+- [ ] **Message everyone about dinner at The Local** – 7:00 PM Thursday evening
 - [ ] **Zach's Grooms Party Outfit** – $150 balance (couldn't pick up Saturday)
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
@@ -295,6 +296,7 @@
 ### 🗓️ THURSDAY 5th MARCH — Rehearsal Day
 
 - [ ] **Reread wedding vows** – Final read-through before the big day
+- [ ] **Russell – Fix speakers in the shed**
 - [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
 - [ ] **Russell & Holly – Dinner at The Local** – 7:00 PM
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
