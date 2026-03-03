@@ -243,8 +243,8 @@
 **🌆 Rest of day:**
 - [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
 - [ ] **Russell – Create music playlist for pass the parcel**
-- [ ] **Russell – Pick up contact lenses** – From Specsavers
-- [ ] **Russell – Pick up altered suit** – 2:00 PM
+- [x] **Russell – Pick up contact lenses** – DONE ✅
+- [x] **Russell – Pick up altered suit** – DONE ✅
 - [ ] **Iron and steam welcome sign and bar sign**
 - [ ] **Set up welcome sign metal holder**
 - [ ] **Build and sort candle decorations**
@@ -255,7 +255,7 @@
 - [ ] **Check-in with Simon (photographer):**
   - Send him the photo schedule
   - Ask if additional copies of the photo album can be purchased for family members
-- [ ] **Purchase bridal perfume** – $50
+- [x] **Purchase bridal perfume** – DONE ✅
 - [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 
