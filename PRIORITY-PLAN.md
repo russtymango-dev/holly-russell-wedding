@@ -230,40 +230,39 @@
 
 ---
 
-### 🗓️ TUESDAY 3rd MARCH
+### 🗓️ TUESDAY 3rd MARCH — ✅ COMPLETED
 
-**🌅 Morning Priority:**
-- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes and Slack feedback, then resend
-- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
-- [ ] **Music cue list** – Compile and finalise
-- [ ] **Send Clare updated Organizer Run Sheet** – Do this AFTER music cue list is complete. Send as a downloadable link: hollyandrussellwedding.xyz/organizer-runsheet
-- [ ] **Build master venue drop-off & pickup list** – List every item, drop-off/pickup dates, who's collecting. Message Kevin, Sonja, Karen & Mark their details.
-- [ ] **Letters – ongoing, target done by midday Thursday**
-
-**🌆 Rest of day:**
-- [x] **Go to Vinnies (Grovedale)** – DONE ✅ Pass-the-parcel prizes sourced
-- [ ] **Russell – Create music playlist for pass the parcel**
+- [x] **Go to Vinnies (Grovedale)** – DONE ✅
 - [x] **Russell – Pick up contact lenses** – DONE ✅
 - [x] **Russell – Pick up altered suit** – DONE ✅
-- [ ] **Iron and steam welcome sign and bar sign**
-- [ ] **Set up welcome sign metal holder**
-- [ ] **Build and sort candle decorations**
-- [ ] **Sort and set up table decorations** – Assemble at home
-- [ ] **Holly – Send photo of menu/place card recreation to Clare**
-- [x] ~~Wrap pass-the-parcel~~ – Moved to Wednesday
-- [x] ~~Pass-the-parcel logistics & prep~~ – Moved to Wednesday
-- [ ] **Check-in with Simon (photographer):**
-  - Send him the photo schedule
-  - Ask if additional copies of the photo album can be purchased for family members
 - [x] **Purchase bridal perfume** – DONE ✅
-- [ ] **Confirm all 4 speeches are ready** – Groom & Bridal Party, Karen & Mark, Kevin & Sonja, Holly & Russell
-- [ ] **Setup recovery brunch plan** – Food, let people know, house ready
+- [x] **Confirm all 4 speeches are ready** – DONE ✅
+- [x] ~~Check-in with Simon (photographer)~~ – Moved to Wednesday (another check-in tomorrow)
 
 ---
 
 ### 🗓️ WEDNESDAY 4th MARCH
 
+**🌅 Morning Priority:**
+- [ ] **Music cue list** – Compile and finalise
+- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes, then resend to them
+- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [ ] **Send Clare updated Organizer Run Sheet** – After music cue list done. Link: hollyandrussellwedding.xyz/organizer-runsheet
+- [ ] **Build master venue drop-off & pickup list** – List every item, drop-off/pickup dates, who's collecting. Message Kevin, Sonja, Karen & Mark.
+- [ ] **Letters – all done today**
+
+**🌆 Rest of day:**
+- [ ] **Check-in with Simon (photographer)** – Updated photo schedule review, album copies question
 - [ ] **Create wedding evening playlist** – Background music for dinner and entrée service
+- [ ] **Pass-the-parcel playlist:**
+  - Holly: Create the playlist
+  - Russell: Edit and finalise it
+- [ ] **Iron and steam welcome sign and bar sign**
+- [ ] **Set up welcome sign metal holder**
+- [ ] **Build and sort candle decorations**
+- [ ] **Sort and set up table decorations** – Assemble at home
+- [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [ ] **Setup recovery brunch plan** – Food, let people know, house ready
 - [ ] **Russell – Sort out Win 4 configuration**
 - [ ] **Charge all cameras and devices**
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
