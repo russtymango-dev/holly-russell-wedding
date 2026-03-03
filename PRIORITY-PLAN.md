@@ -274,7 +274,7 @@
 
 ---
 
-### 🗓️ WEDNESDAY 4th MARCH – Drop-Off at Venue (3:00–5:00 PM)
+### 🗓️ WEDNESDAY 4th MARCH – Drop-Off at Venue (3:30–4:30 PM)
 
 - [ ] Place cards (labelled by table)
 - [ ] Table menu cards & name tags
