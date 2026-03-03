@@ -1,24 +1,11 @@
 # Holly & Russell Wedding – Priority Plan
 
 **Wedding Date:** Saturday 7th March 2026  
-**Today:** Saturday 21st February 2026  
-**Days Remaining:** 14  
+**Today:** Tuesday 3rd March 2026  
+**Days Remaining:** 4  
 **Honeymoon Departs:** 28th March 2026  
 
 ---
-
-## Financial Snapshot
-
-| Metric | Amount |
-|--------|--------|
-| **Total Budget (excl. Venue)** | $38,318 |
-| **Already Paid** | $29,326 |
-| **Total Remaining** | $8,992 |
-| **Kevin & Sonja covering (interest-free)** | $2,200 → Extra guests $1,640 + Entree fee $160 + Staff dinners $400 |
-| **Russell & Holly to pay** | $6,792 |
-| **Savings in Bank** | $7,100 |
-| **Effective Surplus** | $308 |
-| **Expected Wishing Well Income** | ~$2,500 |
 
 ### Outstanding Payments
 
@@ -41,7 +28,7 @@
 | 15 | Fake Tan | $100 | ✅ BOOKED |
 | 16 | Facial/Body Waxing | $100 | ✅ BOOKED |
 | 17 | ~~Table Cards/Menu Cards/Stickers~~ | ~~$100~~ | ✅ PRINTED & DONE |
-| 18 | Bridal Perfume | $50 | 🟡 Tuesday |
+| 18 | ~~Bridal Perfume~~ | ~~$50~~ | N/A – no longer applicable |
 | 19 | Hair Cut/Colour | $40 | ✅ BOOKED (28th Feb) |
 | 20 | ~~Teeth Whitening (DIY kit)~~ | ~~$40~~ | ✅ PAID – apply tonight |
 | 21 | Marriage Licence | $70 | 🟢 After wedding |
