@@ -83,17 +83,15 @@
                 <div class="details">
                     <div style="display:flex; gap:16px; flex-wrap:wrap; margin-top:8px;">
                         <div style="flex:1; min-width:200px; text-align:center;">
-                            <a href="Wedding locations/Balmoral-front.jpg" target="_blank">
-                                <img src="Wedding locations/Balmoral-front.jpg" alt="Front of Truffle Duck Balmoral"
-                                    style="width:100%; border-radius:8px; border:2px solid var(--sage); cursor:pointer;" />
-                            </a>
+                            <img src="Wedding locations/Balmoral-front.jpg" alt="Front of Truffle Duck Balmoral"
+                                onclick="openLightbox('Wedding locations/Balmoral-front.jpg', 'Front of Truffle Duck Balmoral')"
+                                style="width:100%; border-radius:8px; border:2px solid var(--sage); cursor:pointer;" />
                             <p style="margin-top:8px; font-size:0.9rem;"><strong>📌 Front of Balmoral</strong><br><span style="color:var(--text-light); font-size:0.82rem;">Family photos, student photos &amp; friends groups</span></p>
                         </div>
                         <div style="flex:1; min-width:200px; text-align:center;">
-                            <a href="Wedding locations/Garden Gate.png" target="_blank">
-                                <img src="Wedding locations/Garden Gate.png" alt="Garden Gate – River and Bridge"
-                                    style="width:100%; border-radius:8px; border:2px solid var(--sage); cursor:pointer;" />
-                            </a>
+                            <img src="Wedding locations/Garden Gate.png" alt="Garden Gate – River and Bridge"
+                                onclick="openLightbox('Wedding locations/Garden Gate.png', 'Garden Gate – River and Bridge')"
+                                style="width:100%; border-radius:8px; border:2px solid var(--sage); cursor:pointer;" />
                             <p style="margin-top:8px; font-size:0.9rem;"><strong>📌 Garden Gate</strong><br><span style="color:var(--text-light); font-size:0.82rem;">Bridal party &amp; couple portraits — river &amp; bridge area</span></p>
                         </div>
                     </div>
@@ -424,5 +422,12 @@
         </footer>
 
     </main>
+
+    <div id="lightbox" class="lightbox" onclick="closeLightbox()">
+        <button class="lightbox-close" aria-label="Close">&times;</button>
+        <img id="lightbox-img" src="" alt="">
+    </div>
+
+    <script src="script.js"></script>
 </body>
 </html>
