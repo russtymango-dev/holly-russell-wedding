@@ -1,8 +1,8 @@
 # Holly & Russell Wedding – Priority Plan
 
 **Wedding Date:** Saturday 7th March 2026  
-**Today:** Tuesday 3rd March 2026  
-**Days Remaining:** 4  
+**Today:** Wednesday 4th March 2026  
+**Days Remaining:** 3  
 **Honeymoon Departs:** 28th March 2026  
 
 ---
