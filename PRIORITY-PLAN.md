@@ -82,8 +82,8 @@
 - [x] **Vendor contact list with arrival times** – DONE ✅
 - [x] **Alphabetical guest list** – DONE ✅
 - [x] **Register signing + walk-away songs** – DONE ✅ Handled by Jason
-- [ ] **Final run sheet & music cue list** – *(Wednesday)*
-- [ ] **Ceremony plan** – Processional order, witnesses, reader *(Wednesday)*
+- [x] **Final run sheet & music cue list** – DONE ✅
+- [x] **Ceremony plan** – Processional order, witnesses, reader ✅
 
 ---
 
@@ -231,23 +231,21 @@
 ### 🗓️ WEDNESDAY 4th MARCH
 
 **🌅 Morning Priority:**
-- [ ] **Dance practice** – 8:00 AM
-- [ ] **Music cue list** – Compile and finalise
-- [ ] **Update MC itinerary** – Incorporate Alcy & Emma's notes, then resend to them
+- [x] **Dance practice** – 8:00 AM ✅
+- [x] **Music cue list** – Compile and finalise ✅
+- [x] **Update MC itinerary** – Incorporate Alcy & Emma's notes, then resend to them ✅
 - [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
-- [ ] **Send Clare updated Organizer Run Sheet** – After music cue list done. Link: hollyandrussellwedding.xyz/organizer-runsheet
-- [ ] **Build master venue drop-off & pickup list** – List every item, drop-off/pickup dates, who's collecting. Message Kevin, Sonja, Karen & Mark.
+- [x] **Send Clare updated Organizer Run Sheet** – DONE ✅ Link: hollyandrussellwedding.xyz/organizer-runsheet
+- [x] **Build master venue drop-off & pickup list** – DONE ✅
 - [ ] **Letters – all done today**
 
 **🌆 Rest of day:**
 - [ ] **Check-in with Simon (photographer)** – Updated photo schedule review, album copies question
-- [ ] **Create wedding evening playlist** – Background music for dinner and entrée service
+- [x] **Create wedding evening playlist** – DONE ✅
 - [ ] **Pass-the-parcel playlist:**
-  - Holly: Create the playlist
-  - Russell: Edit and finalise it
-- [ ] **Iron and steam welcome sign and bar sign**
-- [ ] **Set up welcome sign metal holder**
-- [ ] **Build and sort candle decorations**
+  - [x] Holly: Create the playlist ✅
+  - [ ] Russell: Edit and finalise it – in progress
+- [x] **Build and sort candle decorations** – DONE ✅
 - [ ] **Sort and set up table decorations** – Assemble at home
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
 - [ ] **Setup recovery brunch plan** – Food, let people know, house ready
@@ -255,11 +253,11 @@
 - [ ] **Charge all cameras and devices**
 - [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
 - [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
-- [ ] **Zach's Grooms Party Outfit pickup** – 3:00 PM
-- [ ] **Final dance lesson** – 5:30 PM
+- [x] **Zach's Grooms Party Outfit pickup** – DONE ✅
+- [x] **Final dance lesson** – DONE ✅
 - [ ] **Check-in with Simon (photographer)** – 8:00 PM evening
-- [ ] **Message everyone about dinner at The Local** – 7:00 PM Thursday evening
-- [ ] **Zach's Grooms Party Outfit** – $150 balance (couldn't pick up Saturday)
+- [x] ~~**Message everyone about dinner at The Local**~~ – Moved to Thursday
+- [x] **Zach's Grooms Party Outfit** – $150 PAID ✅
 - [ ] **Reimburse Hannah** – $250
 - [ ] **Reimburse Molly** – $152
 
@@ -267,20 +265,13 @@
 
 ### 🗓️ WEDNESDAY 4th MARCH – Drop-Off at Venue (3:30–4:30 PM)
 
-- [ ] Place cards (labelled by table)
-- [ ] Table menu cards & name tags
-- [ ] Guest book + pens + Instax camera
+- [ ] Guest book + pens
 - [ ] Seating plan (printed – placed near paved area after ceremony)
-- [ ] Welcome sign (near garden/gate)
-- [ ] Gin signage (A2)
-- [ ] Canapés signage
-- [ ] Linen sign
-- [ ] Bar sign
+- [ ] Welcome sign + metal holder (near garden/gate)
 - [ ] Candle decorations
 - [ ] Table decorations
-- [ ] Confetti / flower petals
-- [ ] Any personal décor items
-- [ ] Dress steamer (Mum's)
+- [ ] Table menu cards & name tags *(left at venue – no pickup)*
+- [ ] Personal décor items
 
 **Notes for drop-off:**
 - Signing table set up in the pavilion
@@ -295,19 +286,28 @@
 
 ### 🗓️ THURSDAY 5th MARCH — Rehearsal Day
 
+- [ ] **Iron and steam welcome sign and bar sign**
+- [ ] **Set up welcome sign metal holder** – Ready for venue drop-off
 - [ ] **Reread wedding vows** – Final read-through before the big day
 - [ ] **Russell – Fix speakers in the shed**
 - [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
-- [ ] **Russell & Holly – Dinner at The Local** – 7:00 PM
+- [ ] **Message everyone about dinner at The Local** – 7:00 PM
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
 - [ ] Meet Clare at 4:30pm
 - [ ] Wedding rehearsal at 4:45pm
 - [ ] Practice processional timing with music
 - [ ] Holly & Russell practise final dance
 
+**Drop-Off B at Venue (Rehearsal Day):**
+- [ ] Table numbers
+- [ ] Canapés signage
+- [ ] Bar sign
+- [ ] Letters *(left at venue – no pickup required)*
+
 ### 🗓️ FRIDAY 6th MARCH
 
 - [ ] **Confirm bags packed** – Holly & Russell both packed and ready for wedding day
+- [ ] **Record & upload first dance direction video for Julie** – Short video showing preferred camera angles/movement for the first dance. Upload to hollyandrussellwedding.xyz/photographer when done.
 
 ---
 
@@ -369,4 +369,4 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 
 ---
 
-*Last updated: Sunday 1st March 2026*
+*Last updated: Wednesday 4th March 2026*
