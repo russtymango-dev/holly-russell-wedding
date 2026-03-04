@@ -234,44 +234,44 @@
 - [x] **Dance practice** – 8:00 AM ✅
 - [x] **Music cue list** – Compile and finalise ✅
 - [x] **Update MC itinerary** – Incorporate Alcy & Emma's notes, then resend to them ✅
-- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [x] ~~**Send photo schedule to all attendees**~~ – Moved to Thursday morning
 - [x] **Send Clare updated Organizer Run Sheet** – DONE ✅ Link: hollyandrussellwedding.xyz/organizer-runsheet
 - [x] **Build master venue drop-off & pickup list** – DONE ✅
 - [ ] **Letters – all done today**
 
 **🌆 Rest of day:**
-- [ ] **Check-in with Simon (photographer)** – Updated photo schedule review, album copies question
+- [x] **Check-in with Simon (photographer)** – DONE ✅
 - [x] **Create wedding evening playlist** – DONE ✅
-- [ ] **Pass-the-parcel playlist:**
+- [x] **Pass-the-parcel playlist:**
   - [x] Holly: Create the playlist ✅
-  - [ ] Russell: Edit and finalise it – in progress
+  - [x] ~~Russell: Edit and finalise it~~ – Moved to Friday ✅
 - [x] **Build and sort candle decorations** – DONE ✅
-- [ ] **Sort and set up table decorations** – Assemble at home
+- [x] **Sort and set up table decorations** – DONE ✅
 - [ ] **Holly – Send photo of menu/place card recreation to Clare**
-- [ ] **Setup recovery brunch plan** – Food, let people know, house ready
-- [ ] **Russell – Sort out Win 4 configuration**
-- [ ] **Charge all cameras and devices**
-- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
-- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
+- [x] ~~**Setup recovery brunch plan**~~ – Moved to Thursday *(food half done)*
+- [x] ~~**Russell – Sort out Win 4 configuration**~~ – Moved to Thursday
+- [x] ~~**Charge all cameras and devices**~~ – Moved to Thursday
+- [x] ~~**Wrap pass-the-parcel**~~ – Moved to Thursday
+- [x] ~~**Pass-the-parcel logistics & prep**~~ – Moved to Thursday
 - [x] **Zach's Grooms Party Outfit pickup** – DONE ✅
 - [x] **Final dance lesson** – DONE ✅
-- [ ] **Check-in with Simon (photographer)** – 8:00 PM evening
+- [x] ~~**Check-in with Simon (photographer)**~~ – Already done above ✅
 - [x] ~~**Message everyone about dinner at The Local**~~ – Moved to Thursday
 - [x] **Zach's Grooms Party Outfit** – $150 PAID ✅
-- [ ] **Reimburse Hannah** – $250
-- [ ] **Reimburse Molly** – $152
+- [x] ~~**Reimburse Hannah** – $250~~ – Moved to after the wedding
+- [x] ~~**Reimburse Molly** – $152~~ – Moved to after the wedding
 
 ---
 
 ### 🗓️ WEDNESDAY 4th MARCH – Drop-Off at Venue (3:30–4:30 PM)
 
-- [ ] Guest book + pens
-- [ ] Seating plan (printed – placed near paved area after ceremony)
-- [ ] Welcome sign + metal holder (near garden/gate)
-- [ ] Candle decorations
-- [ ] Table decorations
-- [ ] Table menu cards & name tags *(left at venue – no pickup)*
-- [ ] Personal décor items
+- [x] Guest book + pens ✅
+- [x] Seating plan (printed – placed near paved area after ceremony) ✅
+- [x] ~~Welcome sign + metal holder~~ – Moved to Thursday ✅
+- [x] Candle decorations ✅
+- [x] Table decorations ✅
+- [x] Table menu cards ✅ *(name tags – Thursday)*
+- [x] Personal décor items ✅
 
 **Notes for drop-off:**
 - Signing table set up in the pavilion
@@ -280,16 +280,26 @@
 ### Final Beauty
 
 - [ ] Tan – ~March 3–4
-- [ ] Final facials
+- [x] Final facials ✅
 - [ ] Facial/Body Waxing – ~March 2–4
 - [ ] Nails (bridal party) – ~March 5–6
 
 ### 🗓️ THURSDAY 5th MARCH — Rehearsal Day
 
+**🌅 Morning:**
+- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [x] ~~**Russell – Finalise pass-the-parcel playlist edit**~~ – Moved to Friday
+- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
+- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
+- [ ] **Setup recovery brunch plan** – Food, let people know, house ready *(half done)*
+
+**🌆 Afternoon / Evening:**
+- [ ] **Russell – Sort out Win 4 configuration**
+- [ ] **Charge all cameras and devices**
 - [ ] **Iron and steam welcome sign and bar sign**
 - [ ] **Set up welcome sign metal holder** – Ready for venue drop-off
-- [ ] **Reread wedding vows** – Final read-through before the big day
-- [ ] **Russell – Fix speakers in the shed**
+- [x] ~~**Reread wedding vows**~~ – Moved to Friday
+- [x] ~~**Russell – Fix speakers in the shed**~~ – Moved to Friday
 - [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
 - [ ] **Message everyone about dinner at The Local** – 7:00 PM
 - [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
@@ -298,14 +308,23 @@
 - [ ] Practice processional timing with music
 - [ ] Holly & Russell practise final dance
 
+**🔴 Post-Wedding (after 8th March):**
+- [ ] **Reimburse Hannah** – $250
+- [ ] **Reimburse Molly** – $152
+
 **Drop-Off B at Venue (Rehearsal Day):**
 - [ ] Table numbers
+- [ ] Name tags
+- [ ] Welcome sign + metal holder
 - [ ] Canapés signage
 - [ ] Bar sign
 - [ ] Letters *(left at venue – no pickup required)*
 
 ### 🗓️ FRIDAY 6th MARCH
 
+- [ ] **Russell – Finalise pass-the-parcel playlist edit**
+- [ ] **Reread wedding vows** – Final read-through before the big day
+- [ ] **Russell – Fix speakers in the shed**
 - [ ] **Confirm bags packed** – Holly & Russell both packed and ready for wedding day
 - [ ] **Record & upload first dance direction video for Julie** – Short video showing preferred camera angles/movement for the first dance. Upload to hollyandrussellwedding.xyz/photographer when done.
 
