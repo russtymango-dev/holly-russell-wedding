@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Venue Drop-Off & Pick-Up Master List</title>
+    <style>
+        body { font-family: 'Segoe UI', Arial, sans-serif; max-width: 960px; margin: 40px auto; padding: 0 20px; color: #333; background: #f9f9f7; }
+        h1 { color: #4a6741; border-bottom: 2px solid #4a6741; padding-bottom: 10px; }
+        .meta { background: #fff; border-radius: 8px; padding: 14px 20px; margin-bottom: 24px; border: 1px solid #e0e0d8; font-size: 0.95rem; line-height: 1.8; }
+        .meta strong { color: #4a6741; }
+        table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.08); margin-bottom: 30px; }
+        th { background: #4a6741; color: white; padding: 10px 14px; text-align: left; font-size: 0.9rem; font-weight: 600; }
+        td { padding: 10px 14px; border-bottom: 1px solid #f0f0ea; font-size: 0.9rem; vertical-align: top; }
+        tr:last-child td { border-bottom: none; }
+        tr:hover td { background: #f5f9f4; }
+        .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 0.78rem; font-weight: 600; white-space: nowrap; }
+        .badge-wed { background: #e8f0e8; color: #4a6741; }
+        .badge-thu { background: #e8eef5; color: #2c5282; }
+        .badge-fri { background: #fef3e2; color: #c07818; }
+        .badge-day { background: #fce8e8; color: #a83232; }
+        .badge-after { background: #f0e8f8; color: #6b3a8a; }
+        .badge-sun { background: #4a6741; color: white; }
+        .badge-night { background: #c07818; color: white; }
+        .badge-na { background: #eee; color: #888; }
+        .note-cell { color: #888; font-size: 0.82rem; font-style: italic; }
+        .section-notes { background: #fff; border-radius: 8px; padding: 14px 20px; border: 1px solid #e0e0d8; margin-bottom: 24px; }
+        .section-notes h3 { color: #4a6741; margin-top: 0; }
+        .section-notes li { margin-bottom: 6px; font-size: 0.92rem; }
+        footer { text-align: center; color: #aaa; font-size: 0.8rem; margin-top: 40px; }
+    </style>
+</head>
+<body>
+
+<h1>📦 Venue Drop-Off & Pick-Up Master List</h1>
+
+<div class="meta">
+    <strong>Venue:</strong> Truffle Duck Balmoral, 66 Hyland St, Fyansford VIC 3218<br>
+    <strong>Drop-Off A:</strong> Wednesday 4th March, 3:00–5:00 PM<br>
+    <strong>Drop-Off B:</strong> Thursday 5th March (rehearsal day)<br>
+    <strong>Drop-Off C:</strong> Friday 6th March (day before wedding)<br>
+    <strong>Wedding Day:</strong> Saturday 7th March 2026<br>
+    <strong>Default Pick-Up:</strong> Sunday 8th March (day after wedding)
+</div>
+
+<table>
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>Item</th>
+            <th>Drop-Off</th>
+            <th>Pick-Up Date</th>
+            <th>Who Picks Up</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1</td>
+            <td>Table numbers</td>
+            <td><span class="badge badge-thu">Thu 5th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>Table menu cards &amp; name tags</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-na">N/A</span></td>
+            <td>—</td>
+            <td class="note-cell">Left at venue — no pickup required</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>Guest book + pens</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>4</td>
+            <td>Seating plan (printed)</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Placed near paved area after ceremony</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>Welcome sign</td>
+            <td><span class="badge badge-thu">Thu 5th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Near garden/gate. Also serves as linen sign.</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>Welcome sign metal holder</td>
+            <td><span class="badge badge-thu">Thu 5th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>7</td>
+            <td>Canapés signage</td>
+            <td><span class="badge badge-thu">Thu 5th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>8</td>
+            <td>Bar sign</td>
+            <td><span class="badge badge-thu">Thu 5th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>9</td>
+            <td>Letters</td>
+            <td><span class="badge badge-fri">Fri 6th</span></td>
+            <td><span class="badge badge-na">N/A</span></td>
+            <td>—</td>
+            <td class="note-cell">Left at venue — no pickup required</td>
+        </tr>
+        <tr>
+            <td>10</td>
+            <td>Candle decorations</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>11</td>
+            <td>Table decorations</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>12</td>
+            <td>Dress steamer</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Mum's steamer — brought on the day</td>
+        </tr>
+        <tr>
+            <td>13</td>
+            <td>Win 4 &amp; all associated equipment / Computer</td>
+            <td><span class="badge badge-fri">Fri 6th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Mark &amp; Liam</td>
+            <td class="note-cell">⚠️ Liam may take the computer home on the night</td>
+        </tr>
+        <tr>
+            <td>14</td>
+            <td>Speakers</td>
+            <td><span class="badge badge-fri">Fri 6th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Mark &amp; Liam</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>15</td>
+            <td>Wedding cake</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-na">N/A</span></td>
+            <td>—</td>
+            <td class="note-cell">Lucy delivering on the day</td>
+        </tr>
+        <tr>
+            <td>15a</td>
+            <td>Remaining wedding cake</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Leftover cake collected the following day</td>
+        </tr>
+        <tr>
+            <td>15b</td>
+            <td>Flowers / floral arrangements</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>16</td>
+            <td>Wishing well</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-night">Sat 7th (night)</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Collected on the night — priority pickup</td>
+        </tr>
+        <tr>
+            <td>17</td>
+            <td>Wedding gifts</td>
+            <td><span class="badge badge-day">Day of</span></td>
+            <td><span class="badge badge-night">Sat 7th or Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Saturday if space allows, otherwise Sunday</td>
+        </tr>
+        <tr>
+            <td>18</td>
+            <td>Personal décor items</td>
+            <td><span class="badge badge-wed">Wed 4th</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell"></td>
+        </tr>
+        <tr>
+            <td>19</td>
+            <td>Personal leftover artifacts</td>
+            <td><span class="badge badge-after">After wedding</span></td>
+            <td><span class="badge badge-sun">Sun 8th</span></td>
+            <td>Kevin &amp; Sonja</td>
+            <td class="note-cell">Anything remaining at venue — check all rooms</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="section-notes">
+    <h3>Notes</h3>
+    <ul>
+        <li>Signing table: set up in the pavilion by Clare</li>
+        <li>Jason (guitarist) positioned opposite/outside the pavilion</li>
+        <li>Clare is coordinating venue setup</li>
+    </ul>
+</div>
+
+<footer>Holly & Russell Wedding 2026 · <a href="/" style="color:#4a6741;">Back to main site</a></footer>
+
+</body>
+</html>
