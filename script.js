@@ -13,9 +13,18 @@
     const minutesEl = document.getElementById('minutes');
     const secondsEl = document.getElementById('seconds');
     
+    // Show married message after 5pm on wedding day
+    const marriedTime = new Date('2026-03-07T17:00:00+11:00');
+
     function updateCountdown() {
         const now = new Date();
         const diff = weddingDate - now;
+
+        if (now >= marriedTime) {
+            document.getElementById('countdown').style.display = 'none';
+            document.getElementById('married-message').style.display = 'block';
+            return;
+        }
         
         if (diff <= 0) {
             daysEl.textContent = '0';
