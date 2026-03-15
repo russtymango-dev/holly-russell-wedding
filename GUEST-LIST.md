@@ -83,7 +83,7 @@
 | 72 | Mark Waters |
 | 73 | Mary Waldron |
 | 74 | Matt Gerard |
-| 75 | Matthew De Bartolo |
+| 75 | Matt Dal Bosco |
 | 76 | Matthew Warburton |
 | 77 | Michelle Nash |
 | 78 | Mikala Hemphill |

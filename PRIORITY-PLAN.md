@@ -247,7 +247,7 @@
   - [x] ~~Russell: Edit and finalise it~~ – Moved to Friday ✅
 - [x] **Build and sort candle decorations** – DONE ✅
 - [x] **Sort and set up table decorations** – DONE ✅
-- [ ] **Holly – Send photo of menu/place card recreation to Clare**
+- [x] **Holly – Send photo of menu/place card recreation to Clare** – DONE ✅
 - [x] ~~**Setup recovery brunch plan**~~ – Moved to Thursday *(food half done)*
 - [x] ~~**Russell – Sort out Win 4 configuration**~~ – Moved to Thursday
 - [x] ~~**Charge all cameras and devices**~~ – Moved to Thursday
@@ -287,25 +287,30 @@
 ### 🗓️ THURSDAY 5th MARCH — Rehearsal Day
 
 **🌅 Morning:**
-- [ ] **Send photo schedule to all attendees** – Remind everyone, confirm attendance. Last chance!
+- [x] **Create RMA video for the vaporiser** – DONE ✅
+- [x] **Send photo schedule to all attendees** – DONE ✅
 - [x] ~~**Russell – Finalise pass-the-parcel playlist edit**~~ – Moved to Friday
-- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes
-- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
-- [ ] **Setup recovery brunch plan** – Food, let people know, house ready *(half done)*
+- [x] ~~**Wrap pass-the-parcel**~~ – Moved to Friday
+- [x] ~~**Pass-the-parcel logistics & prep**~~ – Moved to Friday
+- [x] **Setup recovery brunch plan** – DONE ✅
 
 **🌆 Afternoon / Evening:**
-- [ ] **Russell – Sort out Win 4 configuration**
-- [ ] **Charge all cameras and devices**
-- [ ] **Iron and steam welcome sign and bar sign**
-- [ ] **Set up welcome sign metal holder** – Ready for venue drop-off
+- [ ] **Russell – Set up the HiBy music player** – For wedding day music (do tonight)
+- [ ] **Holly – Send Clare updated seating chart with last names**
+- [x] **Set up the bar fridge** – DONE ✅
+- [x] **Purchase frames from Kmart** – DONE ✅
+- [x] ~~**Russell – Sort out Win 4 configuration**~~ – Moved to Friday
+- [x] **Charge all cameras and devices** – DONE ✅
+- [x] **Iron and steam welcome sign and bar sign** – DONE ✅
+- [x] **Set up welcome sign metal holder** – DONE ✅
 - [x] ~~**Reread wedding vows**~~ – Moved to Friday
 - [x] ~~**Russell – Fix speakers in the shed**~~ – Moved to Friday
-- [ ] **Holly – Figure out Luminary ceremony timing** – Confirm timing for processional entry
-- [ ] **Message everyone about dinner at The Local** – 7:00 PM
-- [ ] Dad to pick up Hannah and Matt from airport and bring to rehearsal
-- [ ] Meet Clare at 4:30pm
-- [ ] Wedding rehearsal at 4:45pm
-- [ ] Practice processional timing with music
+- [x] **Holly – Figure out Luminary ceremony timing** – DONE ✅
+- [x] ~~**Dinner at The Local**~~ – No longer happening ✅
+- [x] Dad to pick up Hannah and Matt from airport and bring to rehearsal – DONE ✅
+- [x] Meet Clare at 4:30pm ✅
+- [x] Wedding rehearsal at 4:45pm ✅
+- [x] Practice processional timing with music ✅
 - [ ] Holly & Russell practise final dance
 
 **🔴 Post-Wedding (after 8th March):**
@@ -313,16 +318,23 @@
 - [ ] **Reimburse Molly** – $152
 
 **Drop-Off B at Venue (Rehearsal Day):**
-- [ ] Table numbers
-- [ ] Name tags
-- [ ] Welcome sign + metal holder
-- [ ] Canapés signage
-- [ ] Bar sign
-- [ ] Letters *(left at venue – no pickup required)*
+- [x] Table numbers ✅
+- [x] Name tags ✅
+- [x] Welcome sign + metal holder ✅
+- [x] Canapés signage ✅
+- [x] Bar sign ✅
+- [x] ~~Letters~~ – Moved to Friday
 
 ### 🗓️ FRIDAY 6th MARCH
 
+- [ ] **Russell – Sort out Win 4 configuration**
+- [ ] **Russell – Pick up plastic box from Truffle Duck**
+- [ ] **Drop off letters at venue** *(left at venue – no pickup required)*
 - [ ] **Russell – Finalise pass-the-parcel playlist edit**
+- [ ] **Wrap pass-the-parcel** – Set up and wrap all prizes *(Sonja & Karen to help if available)*
+- [ ] **Pass-the-parcel logistics & prep** – Finalise how it runs on the night
+- [ ] **Clean the house** – Vacuum, tidy clothes away, general reset before the big day
+- [ ] **Clean the shed**
 - [ ] **Reread wedding vows** – Final read-through before the big day
 - [ ] **Russell – Fix speakers in the shed**
 - [ ] **Confirm bags packed** – Holly & Russell both packed and ready for wedding day
@@ -384,8 +396,19 @@ Wedding Veil, Steamer, Shoes, Sneakers, Earrings & Jewellery, Bridal Party Outfi
 
 ## 🐾 POST-WEDDING
 
-- [ ] **Photo shoot with Jinx** – Sunday 15th March (first look / pre-wedding style shoot)
+### As Soon As Possible (after 8th March)
+- [ ] **Reimburse Hannah** – $250 (bridal outfit)
+- [ ] **Reimburse Molly** – $152 (bridal outfit)
+
+### Friday 13th March
+- [ ] **Meet with Simon & Julie (Golden Frame)** – Pre-shoot meeting ahead of the post-wedding shoot on the 15th
+
+### Sunday 15th March
+- [ ] **Post-wedding photo shoot with Jinx** – First look / style shoot with Simon & Julie
+
+### Wednesday 18th March
+- [ ] **Message Tegan (dance instructor)** – Check in regarding the dance video
 
 ---
 
-*Last updated: Wednesday 4th March 2026*
+*Last updated: Thursday 5th March 2026*

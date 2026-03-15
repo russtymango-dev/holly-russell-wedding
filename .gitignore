@@ -1,0 +1,10 @@
+# Large media files — kept locally, not pushed to GitHub
+Music/
+Image files/Photobooth/
+
+# PDFs generated locally
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
