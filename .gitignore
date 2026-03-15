@@ -1,7 +1,5 @@
 # Large media files — kept locally, not pushed to GitHub
 Music/
-Image files/Photobooth/
-Image files/Photobooth
 
 # PDFs generated locally
 *.pdf
