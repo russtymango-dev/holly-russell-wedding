@@ -275,8 +275,12 @@
             "IMG_0264.JPG"
         ];
 
-        const BASE = "Image files/Photobooth/";
+        // Grid loads small thumbnails; clicking loads the high-res version.
+        const THUMB_BASE = "Image files/Photobooth/thumb/";
+        const FULL_BASE  = "Image files/Photobooth/full/";
+        const fileFor = name => name.replace(/\.(jpe?g)$/i, '.jpg');
         let current = 0;
+        let loadToken = 0;
 
         // ── Build thumbnail grid ──────────────────────────────────────────
         const grid = document.getElementById('photoGrid');
@@ -288,9 +292,10 @@
             wrapper.setAttribute('aria-label', `Open photo ${i + 1}`);
 
             const img = document.createElement('img');
-            img.src = BASE + name;
+            img.src = THUMB_BASE + fileFor(name);
             img.alt = `Photobooth photo ${i + 1}`;
             img.loading = 'lazy';
+            img.decoding = 'async';
 
             wrapper.appendChild(img);
             wrapper.addEventListener('click', () => openCarousel(i));
@@ -317,8 +322,15 @@
         }
 
         function showPhoto() {
-            carImg.src = BASE + filenames[current];
+            const name = fileFor(filenames[current]);
+            const token = ++loadToken;
+            // Show the cached low-res thumb instantly...
+            carImg.src = THUMB_BASE + name;
             counter.textContent = `${current + 1} / ${filenames.length}`;
+            // ...then swap to the high-res version once it has loaded.
+            const hi = new Image();
+            hi.onload = () => { if (token === loadToken) carImg.src = FULL_BASE + name; };
+            hi.src = FULL_BASE + name;
         }
 
         function prev() {
